@@ -1,0 +1,1807 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+who,Africa,total,Sanitation,2000,9.27241,60643547.98904,Basic service
+who,Africa,rural,Sanitation,2000,3.7804,16620642.07308,Basic service
+who,Africa,urban,Sanitation,2000,20.53614,44022905.4892,Basic service
+who,Africa,total,Sanitation,2000,14.86082,97192927.99835,Limited service
+who,Africa,rural,Sanitation,2000,8.54257,37557689.34263,Limited service
+who,Africa,urban,Sanitation,2000,27.8191,59635237.96907,Limited service
+who,Africa,total,Sanitation,2000,30.73883,201038481.34386,Open defecation
+who,Africa,rural,Sanitation,2000,41.47009,182324626.90639,Open defecation
+who,Africa,urban,Sanitation,2000,8.72978,18713852.98703,Open defecation
+who,Africa,total,Sanitation,2000,16.37287,107082059.69874,Safely managed service
+who,Africa,rural,Sanitation,2000,14.29311,62840138.9681,Safely managed service
+who,Africa,urban,Sanitation,2000,20.63831,44241919.96846,Safely managed service
+who,Africa,total,Sanitation,2000,28.75507,188064282.96935,Unimproved
+who,Africa,rural,Sanitation,2000,31.91384,140310251.39381,Unimproved
+who,Africa,urban,Sanitation,2000,22.27667,47754033.14224,Unimproved
+who,Africa,total,Sanitation,2001,9.33871,62644162.66098,Basic service
+who,Africa,rural,Sanitation,2001,3.7886,16970087.55555,Basic service
+who,Africa,urban,Sanitation,2001,20.4931,45674074.73445,Basic service
+who,Africa,total,Sanitation,2001,15.09914,101285148.74493,Limited service
+who,Africa,rural,Sanitation,2001,8.60756,38555452.21576,Limited service
+who,Africa,urban,Sanitation,2001,28.14564,62729696.18668,Limited service
+who,Africa,total,Sanitation,2001,30.08142,201786428.59962,Open defecation
+who,Africa,rural,Sanitation,2001,40.78351,182679690.22035,Open defecation
+who,Africa,urban,Sanitation,2001,8.57284,19106740.14656,Open defecation
+who,Africa,total,Sanitation,2001,16.6196,111484425.19416,Safely managed service
+who,Africa,rural,Sanitation,2001,14.51238,65004618.14702,Safely managed service
+who,Africa,urban,Sanitation,2001,20.85462,46479807.19197,Safely managed service
+who,Africa,total,Sanitation,2001,28.86112,193600629.30031,Unimproved
+who,Africa,rural,Sanitation,2001,32.30796,144715566.88232,Unimproved
+who,Africa,urban,Sanitation,2001,21.93381,48885061.49956,Unimproved
+who,Africa,total,Sanitation,2002,9.44178,64961784.53195,Basic service
+who,Africa,rural,Sanitation,2002,3.80635,17366724.3276,Basic service
+who,Africa,urban,Sanitation,2002,20.53568,47595060.55452,Basic service
+who,Africa,total,Sanitation,2002,15.25859,104982810.90152,Limited service
+who,Africa,rural,Sanitation,2002,8.62418,39348390.29732,Limited service
+who,Africa,urban,Sanitation,2002,28.31906,65634421.29088,Limited service
+who,Africa,total,Sanitation,2002,29.39095,202216945.53509,Open defecation
+who,Africa,rural,Sanitation,2002,40.05016,182731584.33106,Open defecation
+who,Africa,urban,Sanitation,2002,8.40728,19485363.6734,Open defecation
+who,Africa,total,Sanitation,2002,16.94297,116571816.28628,Safely managed service
+who,Africa,rural,Sanitation,2002,14.80183,67534373.3317,Safely managed service
+who,Africa,urban,Sanitation,2002,21.15802,49037443.97271,Safely managed service
+who,Africa,total,Sanitation,2002,28.96571,199291153.74517,Unimproved
+who,Africa,rural,Sanitation,2002,32.71748,149275744.78632,Unimproved
+who,Africa,urban,Sanitation,2002,21.57997,50015404.3945,Unimproved
+who,Africa,total,Sanitation,2003,9.54022,67331780.22399,Basic service
+who,Africa,rural,Sanitation,2003,3.81996,17754353.3159,Basic service
+who,Africa,urban,Sanitation,2003,20.57254,49577426.90504,Basic service
+who,Africa,total,Sanitation,2003,15.41073,108763931.15986,Limited service
+who,Africa,rural,Sanitation,2003,8.63773,40146379.94523,Limited service
+who,Africa,urban,Sanitation,2003,28.47339,68617551.14055,Limited service
+who,Africa,total,Sanitation,2003,28.70117,202563515.06693,Open defecation
+who,Africa,rural,Sanitation,2003,39.30979,182703677.68657,Open defecation
+who,Africa,urban,Sanitation,2003,8.24099,19859836.58761,Open defecation
+who,Africa,total,Sanitation,2003,17.27624,121930045.36851,Safely managed service
+who,Africa,rural,Sanitation,2003,15.10394,70199940.24474,Safely managed service
+who,Africa,urban,Sanitation,2003,21.46581,51730104.8881,Safely managed service
+who,Africa,total,Sanitation,2003,29.07163,205178105.18142,Unimproved
+who,Africa,rural,Sanitation,2003,33.12858,153974681.07657,Unimproved
+who,Africa,urban,Sanitation,2003,21.24726,51203420.78946,Unimproved
+who,Africa,total,Sanitation,2004,9.64117,69813350.02807,Basic service
+who,Africa,rural,Sanitation,2004,3.83219,18145095.77613,Basic service
+who,Africa,urban,Sanitation,2004,20.61567,51668254.9145,Basic service
+who,Africa,total,Sanitation,2004,15.56568,112713795.89355,Limited service
+who,Africa,rural,Sanitation,2004,8.65725,40991317.78262,Limited service
+who,Africa,urban,Sanitation,2004,28.61731,71722479.02323,Limited service
+who,Africa,total,Sanitation,2004,28.0078,202809299.94937,Open defecation
+who,Africa,rural,Sanitation,2004,38.56061,182581015.1265,Open defecation
+who,Africa,urban,Sanitation,2004,8.0711,20228284.99487,Open defecation
+who,Africa,total,Sanitation,2004,17.61157,127528382.72608,Safely managed service
+who,Africa,rural,Sanitation,2004,15.40407,72936884.04484,Safely managed service
+who,Africa,urban,Sanitation,2004,21.78204,54591499.35472,Safely managed service
+who,Africa,total,Sanitation,2004,29.17378,211252336.40221,Unimproved
+who,Africa,rural,Sanitation,2004,33.54587,158836668.40891,Unimproved
+who,Africa,urban,Sanitation,2004,20.91388,52415667.31368,Unimproved
+who,Africa,total,Sanitation,2005,9.74757,72438244.31292,Basic service
+who,Africa,rural,Sanitation,2005,3.84641,18553782.22509,Basic service
+who,Africa,urban,Sanitation,2005,20.66313,53884463.1903,Basic service
+who,Africa,total,Sanitation,2005,15.72735,116876460.28259,Limited service
+who,Africa,rural,Sanitation,2005,8.67921,41865536.80034,Limited service
+who,Africa,urban,Sanitation,2005,28.76451,75010925.14927,Limited service
+who,Africa,total,Sanitation,2005,27.30754,202933679.44135,Open defecation
+who,Africa,rural,Sanitation,2005,37.79967,182332644.9246,Open defecation
+who,Africa,urban,Sanitation,2005,7.8999,20601036.38522,Open defecation
+who,Africa,total,Sanitation,2005,17.94724,133373429.89709,Safely managed service
+who,Africa,rural,Sanitation,2005,15.70693,75764823.42034,Safely managed service
+who,Africa,urban,Sanitation,2005,22.09123,57608608.11697,Safely managed service
+who,Africa,total,Sanitation,2005,29.2703,217519817.96604,Unimproved
+who,Africa,rural,Sanitation,2005,33.96778,163848899.58862,Unimproved
+who,Africa,urban,Sanitation,2005,20.58124,53670918.75297,Unimproved
+who,Africa,total,Sanitation,2006,9.85824,75205942.365,Basic service
+who,Africa,rural,Sanitation,2006,3.86074,18976830.19315,Basic service
+who,Africa,urban,Sanitation,2006,20.72275,56229113.56131,Basic service
+who,Africa,total,Sanitation,2006,15.89556,121263027.30673,Limited service
+who,Africa,rural,Sanitation,2006,8.70795,42802503.21843,Limited service
+who,Africa,urban,Sanitation,2006,28.91594,78460526.2793,Limited service
+who,Africa,total,Sanitation,2006,26.60761,202982504.96638,Open defecation
+who,Africa,rural,Sanitation,2006,37.03224,182025928.09903,Open defecation
+who,Africa,urban,Sanitation,2006,7.72336,20956580.08411,Open defecation
+who,Africa,total,Sanitation,2006,18.27819,139439500.1616,Safely managed service
+who,Africa,rural,Sanitation,2006,16.00645,78677114.68829,Safely managed service
+who,Africa,urban,Sanitation,2006,22.39344,60762387.87241,Safely managed service
+who,Africa,total,Sanitation,2006,29.3604,223982774.99953,Unimproved
+who,Africa,rural,Sanitation,2006,34.39262,169051307.19561,Unimproved
+who,Africa,urban,Sanitation,2006,20.24451,54931468.35486,Unimproved
+who,Africa,total,Sanitation,2007,9.97416,78129507.04469,Basic service
+who,Africa,rural,Sanitation,2007,3.87593,19414897.59298,Basic service
+who,Africa,urban,Sanitation,2007,20.7906,58714610.34738,Basic service
+who,Africa,total,Sanitation,2007,16.06419,125833868.80464,Limited service
+who,Africa,rural,Sanitation,2007,8.73813,43770109.43446,Limited service
+who,Africa,urban,Sanitation,2007,29.05844,82063760.77304,Limited service
+who,Africa,total,Sanitation,2007,25.90495,202918374.1666,Open defecation
+who,Africa,rural,Sanitation,2007,36.25698,181614669.96641,Open defecation
+who,Africa,urban,Sanitation,2007,7.54355,21303706.11768,Open defecation
+who,Africa,total,Sanitation,2007,18.61355,145803505.51073,Safely managed service
+who,Africa,rural,Sanitation,2007,16.30705,81683592.79636,Safely managed service
+who,Africa,urban,Sanitation,2007,22.7046,64119914.24412,Safely managed service
+who,Africa,total,Sanitation,2007,29.44314,230633707.47335,Unimproved
+who,Africa,rural,Sanitation,2007,34.82191,174426283.4393,Unimproved
+who,Africa,urban,Sanitation,2007,19.90281,56207421.07877,Unimproved
+who,Africa,total,Sanitation,2008,10.09572,81218009.47156,Basic service
+who,Africa,rural,Sanitation,2008,3.89294,19865572.46732,Basic service
+who,Africa,urban,Sanitation,2008,20.85525,61352436.95196,Basic service
+who,Africa,total,Sanitation,2008,16.2379,130630612.79567,Limited service
+who,Africa,rural,Sanitation,2008,8.77243,44765515.44454,Limited service
+who,Africa,urban,Sanitation,2008,29.18773,85865097.11566,Limited service
+who,Africa,total,Sanitation,2008,25.19093,202655937.08384,Open defecation
+who,Africa,rural,Sanitation,2008,35.46682,180986325.46703,Open defecation
+who,Africa,urban,Sanitation,2008,7.36605,21669609.92871,Open defecation
+who,Africa,total,Sanitation,2008,18.95708,152505899.4872,Safely managed service
+who,Africa,rural,Sanitation,2008,16.61358,84778689.24699,Safely managed service
+who,Africa,urban,Sanitation,2008,23.0222,67727209.57967,Safely managed service
+who,Africa,total,Sanitation,2008,29.51837,237469313.16173,Unimproved
+who,Africa,rural,Sanitation,2008,35.25423,179901506.38112,Unimproved
+who,Africa,urban,Sanitation,2008,19.56876,57567806.3173,Unimproved
+who,Africa,total,Sanitation,2009,10.24415,84652080.8632,Basic service
+who,Africa,rural,Sanitation,2009,3.91002,20327656.02548,Basic service
+who,Africa,urban,Sanitation,2009,20.98958,64324424.3729,Basic service
+who,Africa,total,Sanitation,2009,16.41022,135605076.00369,Limited service
+who,Africa,rural,Sanitation,2009,8.80842,45793802.70165,Limited service
+who,Africa,urban,Sanitation,2009,29.30615,89811272.42136,Limited service
+who,Africa,total,Sanitation,2009,24.47893,202280549.49391,Open defecation
+who,Africa,rural,Sanitation,2009,34.67426,180266810.33781,Open defecation
+who,Africa,urban,Sanitation,2009,7.18326,22013736.69511,Open defecation
+who,Africa,total,Sanitation,2009,19.28262,159341035.3137,Safely managed service
+who,Africa,rural,Sanitation,2009,16.91984,87963966.85627,Safely managed service
+who,Africa,urban,Sanitation,2009,23.29092,71377067.07225,Safely managed service
+who,Africa,total,Sanitation,2009,29.58408,244466679.32551,Unimproved
+who,Africa,rural,Sanitation,2009,35.68747,185534345.1093,Unimproved
+who,Africa,urban,Sanitation,2009,19.2301,58932332.21807,Unimproved
+who,Africa,total,Sanitation,2010,10.39536,88246683.80239,Basic service
+who,Africa,rural,Sanitation,2010,3.92797,20803849.11493,Basic service
+who,Africa,urban,Sanitation,2010,21.12403,67442834.25144,Basic service
+who,Africa,total,Sanitation,2010,16.58191,140764563.15602,Limited service
+who,Africa,rural,Sanitation,2010,8.84463,46844153.71985,Limited service
+who,Africa,urban,Sanitation,2010,29.41717,93920408.85935,Limited service
+who,Africa,total,Sanitation,2010,23.76868,201773325.92508,Open defecation
+who,Africa,rural,Sanitation,2010,33.87916,179435415.92522,Open defecation
+who,Africa,urban,Sanitation,2010,6.99654,22337910.15094,Open defecation
+who,Africa,total,Sanitation,2010,19.61345,166499453.35121,Safely managed service
+who,Africa,rural,Sanitation,2010,17.2252,91230437.20209,Safely managed service
+who,Africa,urban,Sanitation,2010,23.5753,75269015.77924,Safely managed service
+who,Africa,total,Sanitation,2010,29.6406,251620313.7653,Unimproved
+who,Africa,rural,Sanitation,2010,36.12304,191319785.70139,Unimproved
+who,Africa,urban,Sanitation,2010,18.88696,60300523.60603,Unimproved
+who,Africa,total,Sanitation,2011,10.45716,92230492.71606,Basic service
+who,Africa,rural,Sanitation,2011,3.90494,21383602.63832,Basic service
+who,Africa,urban,Sanitation,2011,21.18754,70846889.76846,Basic service
+who,Africa,total,Sanitation,2011,16.63387,146708125.32739,Limited service
+who,Africa,rural,Sanitation,2011,8.8148,48270254.0339,Limited service
+who,Africa,urban,Sanitation,2011,29.43893,98437870.85487,Limited service
+who,Africa,total,Sanitation,2011,23.59678,208119927.12335,Open defecation
+who,Africa,rural,Sanitation,2011,33.73983,184760834.42822,Open defecation
+who,Africa,urban,Sanitation,2011,6.98579,23359092.50506,Open defecation
+who,Africa,total,Sanitation,2011,19.77807,174439526.16131,Safely managed service
+who,Africa,rural,Sanitation,2011,17.31824,94835443.97277,Safely managed service
+who,Africa,urban,Sanitation,2011,23.80648,79604081.8054,Safely managed service
+who,Africa,total,Sanitation,2011,29.53412,260486342.67276,Unimproved
+who,Africa,rural,Sanitation,2011,36.22219,198354328.08579,Unimproved
+who,Africa,urban,Sanitation,2011,18.58126,62132012.96421,Unimproved
+who,Africa,total,Sanitation,2012,10.61799,96220474.72302,Basic service
+who,Africa,rural,Sanitation,2012,3.93364,21945450.6782,Basic service
+who,Africa,urban,Sanitation,2012,21.32435,74275023.79871,Basic service
+who,Africa,total,Sanitation,2012,16.81855,152410091.75976,Limited service
+who,Africa,rural,Sanitation,2012,8.85773,49416515.02312,Limited service
+who,Africa,urban,Sanitation,2012,29.56944,102993576.25843,Limited service
+who,Africa,total,Sanitation,2012,22.88623,207395588.64183,Open defecation
+who,Africa,rural,Sanitation,2012,32.94778,183812866.90739,Open defecation
+who,Africa,urban,Sanitation,2012,6.7706,23582720.38879,Open defecation
+who,Africa,total,Sanitation,2012,20.1065,182205617.66092,Safely managed service
+who,Africa,rural,Sanitation,2012,17.61303,98261596.62624,Safely managed service
+who,Africa,urban,Sanitation,2012,24.10031,83944020.22972,Safely managed service
+who,Africa,total,Sanitation,2012,29.57073,267970653.31447,Unimproved
+who,Africa,rural,Sanitation,2012,36.64782,204455109.8006,Unimproved
+who,Africa,urban,Sanitation,2012,18.2353,63515545.28335,Unimproved
+who,Africa,total,Sanitation,2013,10.78446,100408045.61168,Basic service
+who,Africa,rural,Sanitation,2013,3.96403,22527979.83165,Basic service
+who,Africa,urban,Sanitation,2013,21.47028,77880064.04082,Basic service
+who,Africa,total,Sanitation,2013,17.00211,158297054.63477,Limited service
+who,Africa,rural,Sanitation,2013,8.90057,50582795.53104,Limited service
+who,Africa,urban,Sanitation,2013,29.69509,107714256.93583,Limited service
+who,Africa,total,Sanitation,2013,22.17843,206490889.5769,Open defecation
+who,Africa,rural,Sanitation,2013,32.15116,182718037.82711,Open defecation
+who,Africa,urban,Sanitation,2013,6.55379,23772853.37457,Open defecation
+who,Africa,total,Sanitation,2013,20.43669,190274450.60901,Safely managed service
+who,Africa,rural,Sanitation,2013,17.90652,101764438.65253,Safely managed service
+who,Africa,urban,Sanitation,2013,24.40078,88510010.913,Safely managed service
+who,Africa,total,Sanitation,2013,29.59831,275573156.56856,Unimproved
+who,Africa,rural,Sanitation,2013,37.07771,210716060.3941,Unimproved
+who,Africa,urban,Sanitation,2013,17.88006,64857094.65777,Unimproved
+who,Africa,total,Sanitation,2014,10.95489,104781296.52676,Basic service
+who,Africa,rural,Sanitation,2014,3.99495,23122681.27539,Basic service
+who,Africa,urban,Sanitation,2014,21.62096,81658614.99821,Basic service
+who,Africa,total,Sanitation,2014,17.1856,164376838.71066,Limited service
+who,Africa,rural,Sanitation,2014,8.94462,51771236.42682,Limited service
+who,Africa,urban,Sanitation,2014,29.81487,112605601.93299,Limited service
+who,Africa,total,Sanitation,2014,21.4703,205359193.92504,Open defecation
+who,Africa,rural,Sanitation,2014,31.34647,181432552.58672,Open defecation
+who,Africa,urban,Sanitation,2014,6.33512,23926641.24072,Open defecation
+who,Africa,total,Sanitation,2014,20.76852,198646801.80661,Safely managed service
+who,Africa,rural,Sanitation,2014,18.19887,105334596.76023,Safely managed service
+who,Africa,urban,Sanitation,2014,24.70651,93312204.74706,Safely managed service
+who,Africa,total,Sanitation,2014,29.62069,283315973.93188,Unimproved
+who,Africa,rural,Sanitation,2014,37.51509,217136357.08985,Unimproved
+who,Africa,urban,Sanitation,2014,17.52255,66179617.84701,Unimproved
+who,Africa,total,Sanitation,2015,11.12757,109326656.73724,Basic service
+who,Africa,rural,Sanitation,2015,4.02584,23725606.48246,Basic service
+who,Africa,urban,Sanitation,2015,21.77303,85601050.42491,Basic service
+who,Africa,total,Sanitation,2015,17.36982,170655834.65794,Limited service
+who,Africa,rural,Sanitation,2015,8.9892,52976290.63322,Limited service
+who,Africa,urban,Sanitation,2015,29.93234,117679544.1575,Limited service
+who,Africa,total,Sanitation,2015,20.76186,203982132.60609,Open defecation
+who,Africa,rural,Sanitation,2015,30.5334,179943371.89901,Open defecation
+who,Africa,urban,Sanitation,2015,6.11437,24038759.89556,Open defecation
+who,Africa,total,Sanitation,2015,21.10292,207332954.83524,Safely managed service
+who,Africa,rural,Sanitation,2015,18.49178,108978148.73411,Safely managed service
+who,Africa,urban,Sanitation,2015,25.017,98354805.89159,Safely managed service
+who,Africa,total,Sanitation,2015,29.63783,291187198.26348,Unimproved
+who,Africa,rural,Sanitation,2015,37.95979,223709519.6268,Unimproved
+who,Africa,urban,Sanitation,2015,17.16326,67477676.53745,Unimproved
+who,Africa,total,Sanitation,2016,11.30305,114053169.89652,Basic service
+who,Africa,rural,Sanitation,2016,4.05712,24338926.46911,Basic service
+who,Africa,urban,Sanitation,2016,21.92745,89714243.51851,Basic service
+who,Africa,total,Sanitation,2016,17.55422,177130529.17114,Limited service
+who,Africa,rural,Sanitation,2016,9.0348,54200401.30933,Limited service
+who,Africa,urban,Sanitation,2016,30.0459,122930128.16798,Limited service
+who,Africa,total,Sanitation,2016,20.05358,202350293.93148,Open defecation
+who,Africa,rural,Sanitation,2016,29.71194,178243998.16043,Open defecation
+who,Africa,urban,Sanitation,2016,5.89193,24106297.30176,Open defecation
+who,Africa,total,Sanitation,2016,21.43849,216324710.26565,Safely managed service
+who,Africa,rural,Sanitation,2016,18.78318,112681588.49439,Safely managed service
+who,Africa,urban,Sanitation,2016,25.33187,103643122.61819,Safely managed service
+who,Africa,total,Sanitation,2016,29.65065,299189328.03521,Unimproved
+who,Africa,rural,Sanitation,2016,38.41295,230441952.34374,Unimproved
+who,Africa,urban,Sanitation,2016,16.80285,68747374.04915,Unimproved
+who,Africa,total,Sanitation,2017,11.4928,119082629.63206,Basic service
+who,Africa,rural,Sanitation,2017,4.09563,25003651.0632,Basic service
+who,Africa,urban,Sanitation,2017,22.10223,94078978.58508,Basic service
+who,Africa,total,Sanitation,2017,17.76284,184049598.79588,Limited service
+who,Africa,rural,Sanitation,2017,9.09954,55552365.91268,Limited service
+who,Africa,urban,Sanitation,2017,30.18821,128497233.04132,Limited service
+who,Africa,total,Sanitation,2017,19.18219,198756214.06226,Open defecation
+who,Africa,rural,Sanitation,2017,28.6659,175004246.80709,Open defecation
+who,Africa,urban,Sanitation,2017,5.58012,23751968.32989,Open defecation
+who,Africa,total,Sanitation,2017,21.81206,226005635.39625,Safely managed service
+who,Africa,rural,Sanitation,2017,19.1137,116688393.13805,Safely managed service
+who,Africa,urban,Sanitation,2017,25.6822,109317242.83329,Safely managed service
+who,Africa,total,Sanitation,2017,29.75012,308255812.11251,Unimproved
+who,Africa,rural,Sanitation,2017,39.02523,238247504.78659,Unimproved
+who,Africa,urban,Sanitation,2017,16.44724,70008307.627,Unimproved
+who,Africa,total,Sanitation,2018,11.64843,123909084.77325,Basic service
+who,Africa,rural,Sanitation,2018,4.10906,25519842.89642,Basic service
+who,Africa,urban,Sanitation,2018,22.22591,98389243.45506,Basic service
+who,Africa,total,Sanitation,2018,17.96825,191135500.11703,Limited service
+who,Africa,rural,Sanitation,2018,9.15247,56842532.48319,Limited service
+who,Africa,urban,Sanitation,2018,30.33648,134292969.57529,Limited service
+who,Africa,total,Sanitation,2018,18.51028,196901361.86644,Open defecation
+who,Africa,rural,Sanitation,2018,27.87992,173151639.34615,Open defecation
+who,Africa,urban,Sanitation,2018,5.36501,23749721.28703,Open defecation
+who,Africa,total,Sanitation,2018,22.07185,234787172.41898,Safely managed service
+who,Africa,rural,Sanitation,2018,19.3027,119881771.95803,Safely managed service
+who,Africa,urban,Sanitation,2018,25.95687,114905401.43381,Safely managed service
+who,Africa,total,Sanitation,2018,29.80119,317007272.8243,Unimproved
+who,Africa,rural,Sanitation,2018,39.55585,245666443.2112,Unimproved
+who,Africa,urban,Sanitation,2018,16.11573,71340828.29181,Unimproved
+who,Africa,total,Sanitation,2019,11.82106,129057480.48409,Basic service
+who,Africa,rural,Sanitation,2019,4.13894,26140132.07213,Basic service
+who,Africa,urban,Sanitation,2019,22.36395,102917349.68119,Basic service
+who,Africa,total,Sanitation,2019,18.14286,198076304.31007,Limited service
+who,Africa,rural,Sanitation,2019,9.19743,58087859.53875,Limited service
+who,Africa,urban,Sanitation,2019,30.41951,139988446.11154,Limited service
+who,Africa,total,Sanitation,2019,17.85616,194946239.54681,Open defecation
+who,Africa,rural,Sanitation,2019,27.08145,171037212.74078,Open defecation
+who,Africa,urban,Sanitation,2019,5.19543,23909024.27625,Open defecation
+who,Africa,total,Sanitation,2019,22.38739,244416319.96058,Safely managed service
+who,Africa,rural,Sanitation,2019,19.57734,123643795.74298,Safely managed service
+who,Africa,urban,Sanitation,2019,26.24389,120772524.11533,Safely managed service
+who,Africa,total,Sanitation,2019,29.79252,325262516.69845,Unimproved
+who,Africa,rural,Sanitation,2019,40.00483,252656864.00836,Unimproved
+who,Africa,urban,Sanitation,2019,15.77722,72605653.17923,Unimproved
+who,Africa,total,Sanitation,2020,11.96582,134036461.59682,Basic service
+who,Africa,rural,Sanitation,2020,4.14798,26628945.32015,Basic service
+who,Africa,urban,Sanitation,2020,22.46139,107407517.79711,Basic service
+who,Africa,total,Sanitation,2020,18.26415,204587902.59542,Limited service
+who,Africa,rural,Sanitation,2020,9.20696,59106287.99449,Limited service
+who,Africa,urban,Sanitation,2020,30.42357,145481616.54301,Limited service
+who,Africa,total,Sanitation,2020,17.23044,193008700.92103,Open defecation
+who,Africa,rural,Sanitation,2020,26.29929,168834590.68237,Open defecation
+who,Africa,urban,Sanitation,2020,5.05536,24174109.75591,Open defecation
+who,Africa,total,Sanitation,2020,22.61826,253361041.42496,Safely managed service
+who,Africa,rural,Sanitation,2020,19.75815,126842175.24852,Safely managed service
+who,Africa,urban,Sanitation,2020,26.45802,126518867.48268,Safely managed service
+who,Africa,total,Sanitation,2020,29.92133,335167159.96065,Unimproved
+who,Africa,rural,Sanitation,2020,40.58763,260562009.23747,Unimproved
+who,Africa,urban,Sanitation,2020,15.60166,74605145.82977,Unimproved
+who,Americas,rural,Sanitation,2000,65.45881,126164917.83809,At least basic
+who,Americas,total,Sanitation,2000,45.9079,380571313.42955,Basic service
+who,Americas,urban,Sanitation,2000,43.37245,275956923.86582,Basic service
+who,Americas,total,Sanitation,2000,3.27394,27140614.51311,Limited service
+who,Americas,rural,Sanitation,2000,2.32611,4483332.66818,Limited service
+who,Americas,urban,Sanitation,2000,3.56107,22657281.38847,Limited service
+who,Americas,total,Sanitation,2000,6.0564,50206873.35693,Open defecation
+who,Americas,rural,Sanitation,2000,19.4835,37552377.01922,Open defecation
+who,Americas,urban,Sanitation,2000,1.98892,12654496.09096,Open defecation
+who,Americas,total,Sanitation,2000,37.80801,313424165.22767,Safely managed service
+who,Americas,urban,Sanitation,2000,45.87409,291873618.33677,Safely managed service
+who,Americas,total,Sanitation,2000,6.95375,57645803.47273,Unimproved
+who,Americas,rural,Sanitation,2000,12.73158,24538768.84355,Unimproved
+who,Americas,urban,Sanitation,2000,5.20347,33107050.95698,Unimproved
+who,Americas,rural,Sanitation,2001,66.29099,127747075.11356,At least basic
+who,Americas,total,Sanitation,2001,46.08502,386902290.10774,Basic service
+who,Americas,urban,Sanitation,2001,43.41423,280817852.258,Basic service
+who,Americas,total,Sanitation,2001,3.26965,27450056.57008,Limited service
+who,Americas,rural,Sanitation,2001,2.40496,4634517.07243,Limited service
+who,Americas,urban,Sanitation,2001,3.52727,22815539.84761,Limited service
+who,Americas,total,Sanitation,2001,5.76199,48374210.75273,Open defecation
+who,Americas,rural,Sanitation,2001,18.69944,36035051.87205,Open defecation
+who,Americas,urban,Sanitation,2001,1.90762,12339159.35022,Open defecation
+who,Americas,total,Sanitation,2001,38.09712,319840601.992,Safely managed service
+who,Americas,urban,Sanitation,2001,46.09809,298177967.94861,Safely managed service
+who,Americas,total,Sanitation,2001,6.78622,56973039.57829,Unimproved
+who,Americas,rural,Sanitation,2001,12.6046,24289885.17677,Unimproved
+who,Americas,urban,Sanitation,2001,5.05279,32683151.77456,Unimproved
+who,Americas,rural,Sanitation,2002,67.11817,129387508.05756,At least basic
+who,Americas,total,Sanitation,2002,46.26613,393138275.97375,Basic service
+who,Americas,urban,Sanitation,2002,43.46563,285550308.58364,Basic service
+who,Americas,total,Sanitation,2002,3.2635,27731013.44361,Limited service
+who,Americas,rural,Sanitation,2002,2.48468,4789856.77261,Limited service
+who,Americas,urban,Sanitation,2002,3.49204,22941156.4004,Limited service
+who,Americas,total,Sanitation,2002,5.47642,46534912.88934,Open defecation
+who,Americas,rural,Sanitation,2002,17.91747,34540518.05014,Open defecation
+who,Americas,urban,Sanitation,2002,1.82575,11994394.85613,Open defecation
+who,Americas,total,Sanitation,2002,38.37362,326073070.17737,Safely managed service
+who,Americas,urban,Sanitation,2002,46.31562,304273529.57135,Safely managed service
+who,Americas,total,Sanitation,2002,6.62032,56254994.51593,Unimproved
+who,Americas,rural,Sanitation,2002,12.47969,24057798.39935,Unimproved
+who,Americas,urban,Sanitation,2002,4.90096,32197200.62849,Unimproved
+who,Americas,rural,Sanitation,2003,67.94456,130985781.94686,At least basic
+who,Americas,total,Sanitation,2003,46.21652,397314151.32602,Basic service
+who,Americas,urban,Sanitation,2003,43.2494,288428772.85242,Basic service
+who,Americas,total,Sanitation,2003,3.2609,28033263.59612,Limited service
+who,Americas,rural,Sanitation,2003,2.57711,4968232.80636,Limited service
+who,Americas,urban,Sanitation,2003,3.45856,23065031.20456,Limited service
+who,Americas,total,Sanitation,2003,5.19076,44623949.14127,Open defecation
+who,Americas,rural,Sanitation,2003,17.1203,33005082.23853,Open defecation
+who,Americas,urban,Sanitation,2003,1.74223,11618867.20469,Open defecation
+who,Americas,total,Sanitation,2003,38.87757,334222683.96398,Safely managed service
+who,Americas,urban,Sanitation,2003,46.8022,312122295.74137,Safely managed service
+who,Americas,total,Sanitation,2003,6.45425,55485878.27262,Unimproved
+who,Americas,rural,Sanitation,2003,12.35804,23824240.45907,Unimproved
+who,Americas,urban,Sanitation,2003,4.74761,31661630.53096,Unimproved
+who,Americas,rural,Sanitation,2004,68.75826,132562356.83319,At least basic
+who,Americas,total,Sanitation,2004,46.12933,401120795.21713,Basic service
+who,Americas,urban,Sanitation,2004,42.99551,290977316.03305,Basic service
+who,Americas,total,Sanitation,2004,3.25505,28304546.66837,Limited service
+who,Americas,rural,Sanitation,2004,2.67114,5149818.23867,Limited service
+who,Americas,urban,Sanitation,2004,3.4214,23154728.43467,Limited service
+who,Americas,total,Sanitation,2004,4.90882,42684975.5074,Open defecation
+who,Americas,rural,Sanitation,2004,16.33167,31486616.52751,Open defecation
+who,Americas,urban,Sanitation,2004,1.6547,11198359.4231,Open defecation
+who,Americas,total,Sanitation,2004,39.41899,342770608.5873,Safely managed service
+who,Americas,urban,Sanitation,2004,47.33594,320351734.33276,Safely managed service
+who,Americas,total,Sanitation,2004,6.28781,54676056.01979,Unimproved
+who,Americas,rural,Sanitation,2004,12.23893,23596014.48376,Unimproved
+who,Americas,urban,Sanitation,2004,4.59246,31080038.71875,Unimproved
+who,Americas,rural,Sanitation,2005,70.28938,135520495.50934,At least basic
+who,Americas,total,Sanitation,2005,46.90972,412564843.82019,Basic service
+who,Americas,urban,Sanitation,2005,43.71628,300192343.07007,Basic service
+who,Americas,total,Sanitation,2005,3.11605,27405257.26875,Limited service
+who,Americas,rural,Sanitation,2005,2.71057,5226081.24768,Limited service
+who,Americas,urban,Sanitation,2005,3.2299,22179175.69397,Limited service
+who,Americas,total,Sanitation,2005,4.68965,41244832.6311,Open defecation
+who,Americas,rural,Sanitation,2005,15.20716,29319962.29406,Open defecation
+who,Americas,urban,Sanitation,2005,1.73659,11924870.63771,Open defecation
+who,Americas,total,Sanitation,2005,39.45364,346989606.47177,Safely managed service
+who,Americas,urban,Sanitation,2005,47.16026,323841606.0041,Safely managed service
+who,Americas,total,Sanitation,2005,5.83094,51282348.80819,Unimproved
+who,Americas,rural,Sanitation,2005,11.7929,22737135.09514,Unimproved
+who,Americas,urban,Sanitation,2005,4.15697,28545221.25483,Unimproved
+who,Americas,rural,Sanitation,2006,71.11655,137104802.62289,At least basic
+who,Americas,total,Sanitation,2006,46.80922,416368707.47077,Basic service
+who,Americas,urban,Sanitation,2006,43.45834,302779744.63512,Basic service
+who,Americas,total,Sanitation,2006,3.1,27574504.01364,Limited service
+who,Americas,rural,Sanitation,2006,2.79605,5390480.63692,Limited service
+who,Americas,urban,Sanitation,2006,3.1841,22184023.3343,Limited service
+who,Americas,total,Sanitation,2006,4.34006,38604906.4176,Open defecation
+who,Americas,rural,Sanitation,2006,14.09563,27174805.36868,Open defecation
+who,Americas,urban,Sanitation,2006,1.64058,11430101.27291,Open defecation
+who,Americas,total,Sanitation,2006,40.01187,355906147.60608,Safely managed service
+who,Americas,urban,Sanitation,2006,47.70838,332390306.59648,Safely managed service
+who,Americas,total,Sanitation,2006,5.73886,51047249.49191,Unimproved
+who,Americas,rural,Sanitation,2006,11.99176,23118783.34972,Unimproved
+who,Americas,urban,Sanitation,2006,4.00861,27928458.47719,Unimproved
+who,Americas,rural,Sanitation,2007,71.94791,138658989.84445,At least basic
+who,Americas,total,Sanitation,2007,46.69648,420059390.17844,Basic service
+who,Americas,urban,Sanitation,2007,43.19103,305287716.12069,Basic service
+who,Americas,total,Sanitation,2007,3.07771,27685657.70997,Limited service
+who,Americas,rural,Sanitation,2007,2.87862,5547706.99055,Limited service
+who,Americas,urban,Sanitation,2007,3.132,22137951.37366,Limited service
+who,Americas,total,Sanitation,2007,4.0723,36632503.88488,Open defecation
+who,Americas,rural,Sanitation,2007,13.34676,25722057.9076,Open defecation
+who,Americas,urban,Sanitation,2007,1.54357,10910446.22759,Open defecation
+who,Americas,total,Sanitation,2007,40.58815,365111765.98424,Safely managed service
+who,Americas,urban,Sanitation,2007,48.27524,341224473.99053,Safely managed service
+who,Americas,total,Sanitation,2007,5.56535,50063282.24157,Unimproved
+who,Americas,rural,Sanitation,2007,11.82671,22792597.70281,Unimproved
+who,Americas,urban,Sanitation,2007,3.85816,27270685.80812,Unimproved
+who,Americas,rural,Sanitation,2008,72.77534,140191707.29687,At least basic
+who,Americas,total,Sanitation,2008,46.57255,423618841.7527,Basic service
+who,Americas,urban,Sanitation,2008,42.91781,307700459.02431,Basic service
+who,Americas,total,Sanitation,2008,3.05393,27778174.11925,Limited service
+who,Americas,rural,Sanitation,2008,2.96198,5705850.78159,Limited service
+who,Americas,urban,Sanitation,2008,3.07863,22072322.92679,Limited service
+who,Americas,total,Sanitation,2008,3.80845,34641258.93903,Open defecation
+who,Americas,rural,Sanitation,2008,12.60205,24276118.14303,Open defecation
+who,Americas,urban,Sanitation,2008,1.44572,10365140.61324,Open defecation
+who,Americas,total,Sanitation,2008,41.1743,374516918.52414,Safely managed service
+who,Americas,urban,Sanitation,2008,48.85169,350243580.9165,Safely managed service
+who,Americas,total,Sanitation,2008,5.39077,49033888.66488,Unimproved
+who,Americas,rural,Sanitation,2008,11.66062,22462589.56048,Unimproved
+who,Americas,urban,Sanitation,2008,3.70614,26571306.64316,Unimproved
+who,Americas,rural,Sanitation,2009,73.59719,141693838.95547,At least basic
+who,Americas,total,Sanitation,2009,46.43332,426968306.67912,Basic service
+who,Americas,urban,Sanitation,2009,42.63327,309945501.44203,Basic service
+who,Americas,total,Sanitation,2009,3.02858,27848675.04172,Limited service
+who,Americas,rural,Sanitation,2009,3.04573,5863826.9422,Limited service
+who,Americas,urban,Sanitation,2009,3.02403,21984848.18598,Limited service
+who,Americas,total,Sanitation,2009,3.54818,32626556.40361,Open defecation
+who,Americas,rural,Sanitation,2009,11.8601,22833800.10979,Open defecation
+who,Americas,urban,Sanitation,2009,1.347,9792756.15782,Open defecation
+who,Americas,total,Sanitation,2009,41.7685,384073861.24843,Safely managed service
+who,Americas,urban,Sanitation,2009,49.43617,359402835.22481,Safely managed service
+who,Americas,total,Sanitation,2009,5.22142,48012552.59711,Unimproved
+who,Americas,rural,Sanitation,2009,11.49698,22134689.92617,Unimproved
+who,Americas,urban,Sanitation,2009,3.55952,25877865.99836,Unimproved
+who,Americas,rural,Sanitation,2010,74.38718,143089812.97236,At least basic
+who,Americas,total,Sanitation,2010,46.16806,429046264.68063,Basic service
+who,Americas,urban,Sanitation,2010,42.27381,311539337.58077,Basic service
+who,Americas,total,Sanitation,2010,3.00228,27900603.58636,Limited service
+who,Americas,rural,Sanitation,2010,3.13116,6023042.60962,Limited service
+who,Americas,urban,Sanitation,2010,2.96864,21877561.00402,Limited service
+who,Americas,total,Sanitation,2010,3.29098,30583523.01306,Open defecation
+who,Americas,rural,Sanitation,2010,11.11922,21388725.68728,Open defecation
+who,Americas,urban,Sanitation,2010,1.24767,9194797.16213,Open defecation
+who,Americas,total,Sanitation,2010,42.47976,394770359.16892,Safely managed service
+who,Americas,urban,Sanitation,2010,50.09628,369187473.1995,Safely managed service
+who,Americas,total,Sanitation,2010,5.05892,47013269.55009,Unimproved
+who,Americas,rural,Sanitation,2010,11.36243,21856569.67668,Unimproved
+who,Americas,urban,Sanitation,2010,3.4136,25156698.46658,Unimproved
+who,Americas,rural,Sanitation,2011,75.17452,144417939.84469,At least basic
+who,Americas,total,Sanitation,2011,45.89356,430908778.67043,Basic service
+who,Americas,urban,Sanitation,2011,41.9096,312989497.29463,Basic service
+who,Americas,total,Sanitation,2011,2.97498,27933040.79587,Limited service
+who,Americas,rural,Sanitation,2011,3.21956,6185105.0183,Limited service
+who,Americas,urban,Sanitation,2011,2.91207,21747935.94379,Limited service
+who,Americas,total,Sanitation,2011,3.03704,28515691.66503,Open defecation
+who,Americas,rural,Sanitation,2011,10.37978,19940620.86059,Open defecation
+who,Americas,urban,Sanitation,2011,1.14821,8575071.24398,Open defecation
+who,Americas,total,Sanitation,2011,43.19855,405604513.32702,Safely managed service
+who,Americas,urban,Sanitation,2011,50.76264,379105864.75851,Safely managed service
+who,Americas,total,Sanitation,2011,4.89587,45968788.54258,Unimproved
+who,Americas,rural,Sanitation,2011,11.22614,21566559.31961,Unimproved
+who,Americas,urban,Sanitation,2011,3.26748,24402231.7631,Unimproved
+who,Americas,rural,Sanitation,2012,75.96339,145734784.56021,At least basic
+who,Americas,total,Sanitation,2012,45.52236,431731554.40774,Basic service
+who,Americas,urban,Sanitation,2012,41.43175,313450138.77419,Basic service
+who,Americas,total,Sanitation,2012,2.94668,27946106.70228,Limited service
+who,Americas,rural,Sanitation,2012,3.30943,6349095.63657,Limited service
+who,Americas,urban,Sanitation,2012,2.85469,21597011.16552,Limited service
+who,Americas,total,Sanitation,2012,2.78651,26427077.40836,Open defecation
+who,Americas,rural,Sanitation,2012,9.64018,18494555.12256,Open defecation
+who,Americas,urban,Sanitation,2012,1.04852,7932522.42941,Open defecation
+who,Americas,total,Sanitation,2012,44.01192,417406601.59189,Safely managed service
+who,Americas,urban,Sanitation,2012,51.54391,389953230.41248,Safely managed service
+who,Americas,total,Sanitation,2012,4.73254,44883108.88879,Unimproved
+who,Americas,rural,Sanitation,2012,11.08701,21270279.33375,Unimproved
+who,Americas,urban,Sanitation,2012,3.12114,23612823.8914,Unimproved
+who,Americas,rural,Sanitation,2013,76.73186,146968069.65068,At least basic
+who,Americas,total,Sanitation,2013,45.13521,432258625.28194,Basic service
+who,Americas,urban,Sanitation,2013,40.94331,313692271.57624,Basic service
+who,Americas,total,Sanitation,2013,2.91779,27943628.3644,Limited service
+who,Americas,rural,Sanitation,2013,3.40169,6515423.20562,Limited service
+who,Americas,urban,Sanitation,2013,2.79682,21428205.23557,Limited service
+who,Americas,total,Sanitation,2013,2.53948,24320489.2527,Open defecation
+who,Americas,rural,Sanitation,2013,8.90482,17055804.01819,Open defecation
+who,Americas,urban,Sanitation,2013,0.94819,7264685.27309,Open defecation
+who,Americas,total,Sanitation,2013,44.83573,429390500.70337,Safely managed service
+who,Americas,urban,Sanitation,2013,52.3373,400988781.87201,Safely managed service
+who,Americas,total,Sanitation,2013,4.57179,43783857.3976,Unimproved
+who,Americas,rural,Sanitation,2013,10.96163,20995315.5983,Unimproved
+who,Americas,urban,Sanitation,2013,2.97437,22788539.22209,Unimproved
+who,Americas,rural,Sanitation,2014,77.4929,148137636.21214,At least basic
+who,Americas,total,Sanitation,2014,44.73153,432479902.1367,Basic service
+who,Americas,urban,Sanitation,2014,40.44124,313691246.58225,Basic service
+who,Americas,total,Sanitation,2014,2.88893,27931199.46339,Limited service
+who,Americas,rural,Sanitation,2014,3.49658,6684161.50094,Limited service
+who,Americas,urban,Sanitation,2014,2.73918,21247038.10121,Limited service
+who,Americas,total,Sanitation,2014,2.29569,22195528.2381,Open defecation
+who,Americas,rural,Sanitation,2014,8.17394,15625530.92972,Open defecation
+who,Americas,urban,Sanitation,2014,0.84701,6569997.53488,Open defecation
+who,Americas,total,Sanitation,2014,45.67294,441581739.53879,Safely managed service
+who,Americas,urban,Sanitation,2014,53.14526,412232755.71644,Safely managed service
+who,Americas,total,Sanitation,2014,4.41091,42646169.62399,Unimproved
+who,Americas,rural,Sanitation,2014,10.83658,20715521.86715,Unimproved
+who,Americas,urban,Sanitation,2014,2.82731,21930645.76344,Unimproved
+who,Americas,rural,Sanitation,2015,78.24744,149248520.26112,At least basic
+who,Americas,total,Sanitation,2015,44.32864,432560586.99453,Basic service
+who,Americas,urban,Sanitation,2015,39.94463,313591225.85316,Basic service
+who,Americas,total,Sanitation,2015,2.86004,27908415.86991,Limited service
+who,Americas,rural,Sanitation,2015,3.59349,6854192.18291,Limited service
+who,Americas,urban,Sanitation,2015,2.68185,21054223.05787,Limited service
+who,Americas,total,Sanitation,2015,2.06869,20186390.16566,Open defecation
+who,Americas,rural,Sanitation,2015,7.54312,14387689.73582,Open defecation
+who,Americas,urban,Sanitation,2015,0.73863,5798700.09473,Open defecation
+who,Americas,total,Sanitation,2015,46.50592,453806563.74206,Safely managed service
+who,Americas,urban,Sanitation,2015,53.94808,423527389.76831,Safely managed service
+who,Americas,total,Sanitation,2015,4.23671,41341987.22882,Unimproved
+who,Americas,rural,Sanitation,2015,10.61595,20248767.09999,Unimproved
+who,Americas,urban,Sanitation,2015,2.68681,21093231.19915,Unimproved
+who,Americas,rural,Sanitation,2016,78.99538,150304980.64742,At least basic
+who,Americas,total,Sanitation,2016,43.90599,432297191.45517,Basic service
+who,Americas,urban,Sanitation,2016,39.42914,313196164.49286,Basic service
+who,Americas,total,Sanitation,2016,2.83089,27872910.73888,Limited service
+who,Americas,rural,Sanitation,2016,3.68785,7016898.34954,Limited service
+who,Americas,urban,Sanitation,2016,2.62562,20856012.13664,Limited service
+who,Americas,total,Sanitation,2016,1.82728,17991336.37226,Open defecation
+who,Americas,rural,Sanitation,2016,6.79562,12930074.18451,Open defecation
+who,Americas,urban,Sanitation,2016,0.63718,5061262.07447,Open defecation
+who,Americas,total,Sanitation,2016,47.35391,466245271.56802,Safely managed service
+who,Americas,urban,Sanitation,2016,54.76857,435041308.2605,Safely managed service
+who,Americas,total,Sanitation,2016,4.08192,40190517.86567,Unimproved
+who,Americas,rural,Sanitation,2016,10.52115,20018650.42628,Unimproved
+who,Americas,urban,Sanitation,2016,2.53949,20171872.90333,Unimproved
+who,Americas,rural,Sanitation,2017,79.54712,150932363.6073,At least basic
+who,Americas,total,Sanitation,2017,42.7838,424933860.7565,Basic service
+who,Americas,urban,Sanitation,2017,38.88752,312450534.92374,Basic service
+who,Americas,total,Sanitation,2017,2.79669,27777085.56462,Limited service
+who,Americas,rural,Sanitation,2017,3.76307,7140023.51497,Limited service
+who,Americas,urban,Sanitation,2017,2.56848,20637062.49955,Limited service
+who,Americas,total,Sanitation,2017,1.59297,15821549.35066,Open defecation
+who,Americas,rural,Sanitation,2017,6.05018,11479588.29203,Open defecation
+who,Americas,urban,Sanitation,2017,0.5404,4341961.16283,Open defecation
+who,Americas,total,Sanitation,2017,48.85305,485214352.62045,Safely managed service
+who,Americas,urban,Sanitation,2017,55.60431,446765326.45695,Safely managed service
+who,Americas,total,Sanitation,2017,3.97349,39465199.00777,Unimproved
+who,Americas,rural,Sanitation,2017,10.63963,20187592.03706,Unimproved
+who,Americas,urban,Sanitation,2017,2.39928,19277589.66194,Unimproved
+who,Americas,rural,Sanitation,2018,80.24604,151780066.35313,At least basic
+who,Americas,total,Sanitation,2018,42.27129,423415271.31324,Basic service
+who,Americas,urban,Sanitation,2018,38.31399,311308178.64489,Basic service
+who,Americas,total,Sanitation,2018,2.76744,27720408.35509,Limited service
+who,Americas,rural,Sanitation,2018,3.86714,7314444.30677,Limited service
+who,Americas,urban,Sanitation,2018,2.51145,20405964.14257,Limited service
+who,Americas,total,Sanitation,2018,1.37899,13812805.95579,Open defecation
+who,Americas,rural,Sanitation,2018,5.3432,10106314.12743,Open defecation
+who,Americas,urban,Sanitation,2018,0.45617,3706491.94293,Open defecation
+who,Americas,total,Sanitation,2018,49.75889,498415689.88491,Safely managed service
+who,Americas,urban,Sanitation,2018,56.45938,458742718.05638,Safely managed service
+who,Americas,total,Sanitation,2018,3.82339,38297424.78996,Unimproved
+who,Americas,rural,Sanitation,2018,10.54361,19942546.60863,Unimproved
+who,Americas,urban,Sanitation,2018,2.25901,18354859.78924,Unimproved
+who,Americas,rural,Sanitation,2019,80.96861,152591386.23803,At least basic
+who,Americas,total,Sanitation,2019,41.74921,421652429.49547,Basic service
+who,Americas,urban,Sanitation,2019,37.73091,309962262.91859,Basic service
+who,Americas,total,Sanitation,2019,2.73383,27610712.26908,Limited service
+who,Americas,rural,Sanitation,2019,3.96488,7472117.36504,Limited service
+who,Americas,urban,Sanitation,2019,2.45142,20138595.32673,Limited service
+who,Americas,total,Sanitation,2019,1.15656,11680817.77615,Open defecation
+who,Americas,rural,Sanitation,2019,4.63995,8744337.22255,Open defecation
+who,Americas,urban,Sanitation,2019,0.35745,2936480.66058,Open defecation
+who,Americas,total,Sanitation,2019,50.67994,511849657.84502,Safely managed service
+who,Americas,urban,Sanitation,2019,57.32735,470948450.46589,Safely managed service
+who,Americas,total,Sanitation,2019,3.68046,37171362.6153,Unimproved
+who,Americas,rural,Sanitation,2019,10.42656,19649627.95023,Unimproved
+who,Americas,urban,Sanitation,2019,2.13287,17521706.37621,Unimproved
+who,Americas,rural,Sanitation,2020,81.66622,153276819.90831,At least basic
+who,Americas,total,Sanitation,2020,41.23775,419856433.77985,Basic service
+who,Americas,urban,Sanitation,2020,37.17142,308689741.78296,Basic service
+who,Americas,total,Sanitation,2020,2.70254,27515553.97258,Limited service
+who,Americas,rural,Sanitation,2020,4.05183,7604752.46039,Limited service
+who,Americas,urban,Sanitation,2020,2.39759,19910801.72965,Limited service
+who,Americas,total,Sanitation,2020,0.96962,9872083.96281,Open defecation
+who,Americas,rural,Sanitation,2020,3.9516,7416640.57736,Open defecation
+who,Americas,urban,Sanitation,2020,0.29568,2455443.34598,Open defecation
+who,Americas,total,Sanitation,2020,51.60084,525366820.90142,Safely managed service
+who,Americas,urban,Sanitation,2020,58.1922,483256701.38597,Safely managed service
+who,Americas,total,Sanitation,2020,3.48924,35525242.38437,Unimproved
+who,Americas,rural,Sanitation,2020,10.33035,19388710.02562,Unimproved
+who,Americas,urban,Sanitation,2020,1.94311,16136518.07026,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2000,58.37889,278571280.39227,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2000,38.87934,98575055.66748,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2000,50.99003,114032649.18953,Basic service
+who,Eastern Mediterranean,total,Sanitation,2000,5.98524,28560243.39877,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2000,4.89612,12413658.03046,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2000,7.21999,16146584.94533,Limited service
+who,Eastern Mediterranean,total,Sanitation,2000,20.14086,96107797.01275,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2000,35.47344,89939704.69361,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2000,2.75808,6168091.41137,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2000,29.4958,65963574.95351,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2000,15.49501,73938802.57777,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2000,20.7511,52612544.18378,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2000,9.5361,21326260.93025,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2001,59.16037,288743404.92932,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2001,39.98793,103283539.98344,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2001,50.96978,117119472.39501,Basic service
+who,Eastern Mediterranean,total,Sanitation,2001,6.06966,29624146.4102,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2001,5.03553,13006099.51005,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2001,7.23209,16618047.20336,Limited service
+who,Eastern Mediterranean,total,Sanitation,2001,19.56737,95502251.46124,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2001,34.58192,89320546.41707,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2001,2.69025,6181706.66491,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2001,29.74139,68340397.94118,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2001,15.2026,74199164.17445,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2001,20.39463,52676629.52916,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2001,9.3665,21522536.82531,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2002,60.10505,300045930.93012,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2002,41.29272,108656212.58504,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2002,50.61527,119485477.26235,Basic service
+who,Eastern Mediterranean,total,Sanitation,2002,6.11256,30514043.17576,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2002,5.16029,13578597.064,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2002,7.17403,16935446.78901,Limited service
+who,Eastern Mediterranean,total,Sanitation,2002,18.93833,94540620.37108,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2002,33.58646,88378228.5702,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2002,2.61045,6162394.82178,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2002,30.45938,71904253.11205,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2002,14.84407,74101972.49039,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2002,19.96054,52523470.3499,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2002,9.14087,21578496.09481,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2003,61.01643,311545909.09515,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2003,42.56867,114089633.93545,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2003,50.47949,122453290.46969,Basic service
+who,Eastern Mediterranean,total,Sanitation,2003,6.17999,31554624.74739,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2003,5.29486,14190931.45529,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2003,7.15792,17363693.73036,Limited service
+who,Eastern Mediterranean,total,Sanitation,2003,18.27187,93294989.28592,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2003,32.52004,87157968.60479,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2003,2.52989,6137023.37842,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2003,30.91883,75002988.8784,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2003,14.5317,74197918.07297,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2003,19.61643,52574603.45383,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2003,8.91388,21623310.4029,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2004,61.95353,323549591.12588,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2004,43.86862,119708647.55677,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2004,50.31731,125474105.95299,Basic service
+who,Eastern Mediterranean,total,Sanitation,2004,6.24236,32600443.51982,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2004,5.42792,14811707.07309,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2004,7.13359,17788736.12199,Limited service
+who,Eastern Mediterranean,total,Sanitation,2004,17.59521,91890203.07599,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2004,31.43874,85790007.29713,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2004,2.44629,6100196.46928,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2004,31.42647,78366843.42157,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2004,14.2089,74205338.83893,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2004,19.26471,52569531.95963,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2004,8.67634,21635808.13418,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2005,63.02189,336636720.06807,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2005,45.24611,125595078.42544,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2005,49.92385,128092790.69692,Basic service
+who,Eastern Mediterranean,total,Sanitation,2005,6.27513,33519151.73289,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2005,5.56562,15449164.11474,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2005,7.04273,18069987.81789,Limited service
+who,Eastern Mediterranean,total,Sanitation,2005,16.76271,89539446.27432,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2005,30.14867,83687284.53456,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2005,2.28087,5852162.78296,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2005,32.32911,82948850.91463,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2005,13.94027,74463099.59802,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2005,19.03961,52850530.21955,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2005,8.42345,21612570.0576,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2006,64.11818,350303231.40963,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2006,46.60714,131529161.19249,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2006,49.50636,130762022.51453,Basic service
+who,Eastern Mediterranean,total,Sanitation,2006,6.30225,34431721.66118,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2006,5.73825,16193814.14091,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2006,6.90485,18237907.36777,Limited service
+who,Eastern Mediterranean,total,Sanitation,2006,15.91661,86958786.70194,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2006,28.83701,81380402.90176,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2006,2.11197,5578383.50057,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2006,33.32126,88012042.01113,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2006,13.66296,74646213.953,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2006,18.8176,53104799.16481,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2006,8.15556,21541413.32601,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2007,65.21325,364402991.83239,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2007,47.94698,137732794.50854,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2007,49.04498,133169906.59789,Basic service
+who,Eastern Mediterranean,total,Sanitation,2007,6.30837,35250324.76851,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2007,5.91938,17004038.12455,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2007,6.7199,18246286.36127,Limited service
+who,Eastern Mediterranean,total,Sanitation,2007,15.10838,84423616.58189,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2007,27.56182,79174257.07994,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2007,1.93328,5249360.24763,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2007,34.43511,93500297.24218,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2007,13.37,74709800.78533,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2007,18.57183,53349562.10386,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2007,7.86674,21360239.66104,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2008,66.34074,379116386.58624,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2008,49.35456,144055971.99233,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2008,48.57027,135796995.93347,Basic service
+who,Eastern Mediterranean,total,Sanitation,2008,6.3303,36175641.98461,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2008,6.10104,17807713.43628,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2008,6.56962,18367928.82044,Limited service
+who,Eastern Mediterranean,total,Sanitation,2008,14.19304,81108719.283,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2008,26.12366,76249661.15614,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2008,1.73793,4859059.14684,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2008,35.50337,99263403.42315,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2008,13.13594,75067727.46529,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2008,18.42074,53766404.53988,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2008,7.61881,21301322.80611,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2009,67.45236,394152803.25933,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2009,50.75381,150493502.77828,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2009,48.09715,138435999.39599,Basic service
+who,Eastern Mediterranean,total,Sanitation,2009,6.35384,37128193.20115,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2009,6.28696,18641882.02521,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2009,6.42274,18486310.84352,Limited service
+who,Eastern Mediterranean,total,Sanitation,2009,13.34818,77999087.51865,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2009,24.77481,73461457.85762,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2009,1.57652,4537628.38607,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2009,36.55798,105223307.90104,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2009,12.84562,75062388.73763,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2009,18.18442,53919840.80573,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2009,7.34561,21142553.48339,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2010,68.54021,409439239.22352,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2010,52.13591,157018459.56524,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2010,47.68967,141256538.49236,Basic service
+who,Eastern Mediterranean,total,Sanitation,2010,6.37915,38107158.91291,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2010,6.47631,19504799.78526,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2010,6.28035,18602359.28935,Limited service
+who,Eastern Mediterranean,total,Sanitation,2010,12.51281,74747911.84852,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2010,23.42728,70556266.90129,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2010,1.41514,4191646.33361,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2010,37.5302,111164234.56297,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2010,12.56783,75076580.85256,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2010,17.96051,54091915.07904,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2010,7.08464,20984667.3217,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2011,69.60349,424963657.08294,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2011,53.53258,163884056.02087,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2011,47.38083,144232210.48369,Basic service
+who,Eastern Mediterranean,total,Sanitation,2011,6.40574,39110217.00291,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2011,6.6708,20421912.57509,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2011,6.13918,18688304.47151,Limited service
+who,Eastern Mediterranean,total,Sanitation,2011,11.68909,71367666.39473,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2011,22.0617,67539433.7963,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2011,1.25759,3828233.13418,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2011,38.38481,116847377.80094,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2011,12.30169,75107869.75472,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2011,17.73492,54293501.40692,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2011,6.8376,20814369.86998,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2012,70.64337,440720176.4745,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2012,54.89946,170903360.26576,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2012,47.13681,147332617.46862,Basic service
+who,Eastern Mediterranean,total,Sanitation,2012,6.42708,40096405.50124,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2012,6.86957,21385135.01188,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2012,5.98638,18711270.80068,Limited service
+who,Eastern Mediterranean,total,Sanitation,2012,10.86418,67777947.03125,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2012,20.71356,64481822.53206,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2012,1.05454,3296124.72996,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2012,39.18694,122484219.52338,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2012,12.06536,75271735.03558,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2012,17.51741,54532124.01093,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2012,6.63532,20739610.82737,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2013,71.67421,456755724.01984,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2013,56.25734,178044461.9494,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2013,46.93099,150547257.0052,Basic service
+who,Eastern Mediterranean,total,Sanitation,2013,6.44663,41082183.4629,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2013,7.07176,22380873.22736,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2013,5.82987,18701310.37467,Limited service
+who,Eastern Mediterranean,total,Sanitation,2013,10.07246,64188423.16936,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2013,19.37099,61305714.60342,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2013,0.89864,2882708.80439,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2013,39.95333,128164017.18946,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2013,11.8067,75240153.53106,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2013,17.29991,54751121.02155,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2013,6.38717,20489031.80628,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2014,72.70065,473050559.99474,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2014,57.61427,185313002.67441,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2014,46.73153,153764701.90345,Basic service
+who,Eastern Mediterranean,total,Sanitation,2014,6.46529,42068503.16576,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2014,7.27862,23411256.68656,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2014,5.67023,18657246.41684,Limited service
+who,Eastern Mediterranean,total,Sanitation,2014,9.28664,60426565.27941,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2014,18.02667,57981762.04258,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2014,0.74301,2444802.65393,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2014,40.71648,133972856.64324,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2014,11.54742,75137054.93748,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2014,17.08044,54938240.01865,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2014,6.13874,20198816.19286,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2015,73.7252,489585763.58849,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2015,58.95361,192498656.1889,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2015,46.49753,156949007.781,Basic service
+who,Eastern Mediterranean,total,Sanitation,2015,6.484,43058183.4672,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2015,7.4892,24454146.82043,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2015,5.51161,18604036.47458,Limited service
+who,Eastern Mediterranean,total,Sanitation,2015,8.50484,56477941.63706,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2015,16.69108,54500665.27757,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2015,0.58579,1977275.76272,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2015,41.51714,140138084.93144,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2015,11.28596,74946489.60412,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2015,16.86612,55072196.44512,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2015,5.88793,19874292.66026,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2016,74.75286,506360405.97936,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2016,60.30471,199840831.94603,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2016,46.31016,160230447.55557,Basic service
+who,Eastern Mediterranean,total,Sanitation,2016,6.49612,44003382.52749,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2016,7.70003,25516738.35408,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2016,5.34305,18486644.39165,Limited service
+who,Eastern Mediterranean,total,Sanitation,2016,7.72324,52315653.79059,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2016,15.34719,50858306.3031,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2016,0.42121,1457348.09474,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2016,42.2808,146289127.46457,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2016,11.02777,74699854.06756,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2016,16.64807,55169232.64452,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2016,5.64478,19530620.90346,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2017,75.68351,522689855.80442,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2017,61.5693,206997710.21365,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2017,46.01723,163095643.82838,Basic service
+who,Eastern Mediterranean,total,Sanitation,2017,6.49918,44884995.57202,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2017,7.90035,26561192.96949,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2017,5.17004,18323801.86169,Limited service
+who,Eastern Mediterranean,total,Sanitation,2017,7.9239,54724470.85064,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2017,15.92166,53529080.40108,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2017,0.33728,1195389.9217,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2017,43.0549,152596484.17702,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2017,9.89342,68326497.8449,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2017,14.60868,49114806.05941,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2017,5.42056,19211700.82121,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2018,76.57781,539017616.75664,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2018,62.83782,214257562.33392,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2018,45.69622,165837570.51793,Basic service
+who,Eastern Mediterranean,total,Sanitation,2018,6.51927,45887986.54044,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2018,8.10781,27645125.27779,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2018,5.02678,18242862.03308,Limited service
+who,Eastern Mediterranean,total,Sanitation,2018,7.20032,50681740.43898,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2018,14.5859,49733419.51696,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2018,0.26131,948323.0123,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2018,43.79078,158922505.64316,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2018,9.7026,68294877.95191,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2018,14.46847,49333008.4586,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2018,5.22491,18961870.99316,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2019,77.42809,555358907.8426,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2019,64.10629,221625416.27069,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2019,45.31399,168360561.9841,Basic service
+who,Eastern Mediterranean,total,Sanitation,2019,6.58035,47198090.55337,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2019,8.32605,28784438.10249,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2019,4.95601,18413652.83013,Limited service
+who,Eastern Mediterranean,total,Sanitation,2019,6.48854,46539559.48779,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2019,13.26687,45865631.59419,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2019,0.18139,673928.72752,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2019,44.50987,165372946.92397,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2019,9.50302,68161131.9283,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2019,14.30079,49440055.11709,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2019,5.03875,18721069.57428,Unimproved
+who,Eastern Mediterranean,total,Sanitation,2020,78.20021,571504508.68583,At least basic
+who,Eastern Mediterranean,rural,Sanitation,2020,65.259,228702962.03138,At least basic
+who,Eastern Mediterranean,urban,Sanitation,2020,45.01675,171229254.36384,Basic service
+who,Eastern Mediterranean,total,Sanitation,2020,6.65771,48656055.21481,Limited service
+who,Eastern Mediterranean,rural,Sanitation,2020,8.56506,30016629.43897,Limited service
+who,Eastern Mediterranean,urban,Sanitation,2020,4.90037,18639426.27413,Limited service
+who,Eastern Mediterranean,total,Sanitation,2020,5.80483,42422968.25083,Open defecation
+who,Eastern Mediterranean,rural,Sanitation,2020,11.95976,41913482.16164,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2020,0.13395,509486.39912,Open defecation
+who,Eastern Mediterranean,urban,Sanitation,2020,45.10694,171572316.81443,Safely managed service
+who,Eastern Mediterranean,total,Sanitation,2020,9.33725,68238671.99877,Unimproved
+who,Eastern Mediterranean,rural,Sanitation,2020,14.21619,49821248.03211,Unimproved
+who,Eastern Mediterranean,urban,Sanitation,2020,4.842,18417412.77849,Unimproved
+who,Europe,rural,Sanitation,2000,85.23277,230004867.97748,At least basic
+who,Europe,total,Sanitation,2000,31.61554,273675875.84793,Basic service
+who,Europe,urban,Sanitation,2000,26.77464,159518513.30503,Basic service
+who,Europe,total,Sanitation,2000,1.21485,10516170.74323,Limited service
+who,Europe,rural,Sanitation,2000,1.26195,3405442.78601,Limited service
+who,Europe,urban,Sanitation,2000,1.19351,7110727.95249,Limited service
+who,Europe,total,Sanitation,2000,0.08617,745895.68573,Open defecation
+who,Europe,rural,Sanitation,2000,0.22961,619610.38676,Open defecation
+who,Europe,urban,Sanitation,2000,0.0212,126285.30313,Open defecation
+who,Europe,total,Sanitation,2000,61.59879,533222003.93656,Safely managed service
+who,Europe,urban,Sanitation,2000,70.05489,417374501.8764,Safely managed service
+who,Europe,total,Sanitation,2000,5.48465,47477166.78368,Unimproved
+who,Europe,rural,Sanitation,2000,13.27567,35825070.6152,Unimproved
+who,Europe,urban,Sanitation,2000,1.95576,11652096.78536,Unimproved
+who,Europe,rural,Sanitation,2001,84.80192,228199731.95889,At least basic
+who,Europe,total,Sanitation,2001,31.67321,274746488.28405,Basic service
+who,Europe,urban,Sanitation,2001,26.61531,159251099.58317,Basic service
+who,Europe,total,Sanitation,2001,1.18569,10285142.06976,Limited service
+who,Europe,rural,Sanitation,2001,1.21526,3270230.9531,Limited service
+who,Europe,urban,Sanitation,2001,1.17239,7014911.23453,Limited service
+who,Europe,total,Sanitation,2001,0.08325,722177.45106,Open defecation
+who,Europe,rural,Sanitation,2001,0.22361,601730.10321,Open defecation
+who,Europe,urban,Sanitation,2001,0.02013,120447.35616,Open defecation
+who,Europe,total,Sanitation,2001,61.43491,532911819.27739,Safely managed service
+who,Europe,urban,Sanitation,2001,70.22841,420207480.33781,Safely managed service
+who,Europe,total,Sanitation,2001,5.62294,48775734.21774,Unimproved
+who,Europe,rural,Sanitation,2001,13.75921,37025673.08078,Unimproved
+who,Europe,urban,Sanitation,2001,1.96376,11750055.14493,Unimproved
+who,Europe,rural,Sanitation,2002,85.23532,228498469.09798,At least basic
+who,Europe,total,Sanitation,2002,31.63758,275137372.09156,Basic service
+who,Europe,urban,Sanitation,2002,26.49272,159373323.92095,Basic service
+who,Europe,total,Sanitation,2002,1.18159,10275772.63274,Limited service
+who,Europe,rural,Sanitation,2002,1.21215,3249520.19257,Limited service
+who,Europe,urban,Sanitation,2002,1.16798,7026252.45252,Limited service
+who,Europe,total,Sanitation,2002,0.07939,690411.21803,Open defecation
+who,Europe,rural,Sanitation,2002,0.21427,574425.79997,Open defecation
+who,Europe,urban,Sanitation,2002,0.01928,115985.42138,Open defecation
+who,Europe,total,Sanitation,2002,61.67437,536353388.3467,Safely managed service
+who,Europe,urban,Sanitation,2002,70.41842,423618977.20118,Safely managed service
+who,Europe,total,Sanitation,2002,5.42707,47196723.11097,Unimproved
+who,Europe,rural,Sanitation,2002,13.33826,35757148.63503,Unimproved
+who,Europe,urban,Sanitation,2002,1.90161,11439574.72337,Unimproved
+who,Europe,rural,Sanitation,2003,85.67972,228800815.45433,At least basic
+who,Europe,total,Sanitation,2003,31.60338,275649707.2798,Basic service
+who,Europe,urban,Sanitation,2003,26.37508,159615111.63832,Basic service
+who,Europe,total,Sanitation,2003,1.17868,10280665.35686,Limited service
+who,Europe,rural,Sanitation,2003,1.21146,3235108.25782,Limited service
+who,Europe,urban,Sanitation,2003,1.16422,7045557.12953,Limited service
+who,Europe,total,Sanitation,2003,0.07548,658358.17959,Open defecation
+who,Europe,rural,Sanitation,2003,0.20487,547089.34078,Open defecation
+who,Europe,urban,Sanitation,2003,0.01839,111268.84681,Open defecation
+who,Europe,total,Sanitation,2003,61.91538,540035744.78869,Safely managed service
+who,Europe,urban,Sanitation,2003,70.60277,427269523.70922,Safely managed service
+who,Europe,total,Sanitation,2003,5.22708,45591402.89506,Unimproved
+who,Europe,rural,Sanitation,2003,12.90395,34458963.71706,Unimproved
+who,Europe,urban,Sanitation,2003,1.83954,11132439.23873,Unimproved
+who,Europe,rural,Sanitation,2004,86.13564,229143013.32255,At least basic
+who,Europe,total,Sanitation,2004,31.45141,275204385.59564,Basic service
+who,Europe,urban,Sanitation,2004,26.13252,159144104.07097,Basic service
+who,Europe,total,Sanitation,2004,1.16843,10223911.33646,Limited service
+who,Europe,rural,Sanitation,2004,1.20409,3203179.71014,Limited service
+who,Europe,urban,Sanitation,2004,1.15285,7020731.67923,Limited service
+who,Europe,total,Sanitation,2004,0.06992,611840.02982,Open defecation
+who,Europe,rural,Sanitation,2004,0.19541,519852.36786,Open defecation
+who,Europe,urban,Sanitation,2004,0.0151,91987.6673,Open defecation
+who,Europe,total,Sanitation,2004,62.28175,544974272.35059,Safely managed service
+who,Europe,urban,Sanitation,2004,70.91947,431891544.41957,Safely managed service
+who,Europe,total,Sanitation,2004,5.02849,44000023.18748,Unimproved
+who,Europe,rural,Sanitation,2004,12.46486,33159731.16039,Unimproved
+who,Europe,urban,Sanitation,2004,1.78005,10840293.72594,Unimproved
+who,Europe,rural,Sanitation,2005,86.60439,229515691.37132,At least basic
+who,Europe,total,Sanitation,2005,31.30124,274813444.40754,Basic service
+who,Europe,urban,Sanitation,2005,25.89844,158743777.43673,Basic service
+who,Europe,total,Sanitation,2005,1.14704,10070615.67062,Limited service
+who,Europe,rural,Sanitation,2005,1.18709,3145979.07987,Limited service
+who,Europe,urban,Sanitation,2005,1.12973,6924636.68656,Limited service
+who,Europe,total,Sanitation,2005,0.06608,580193.22425,Open defecation
+who,Europe,rural,Sanitation,2005,0.18574,492253.18958,Open defecation
+who,Europe,urban,Sanitation,2005,0.01435,87940.04131,Open defecation
+who,Europe,total,Sanitation,2005,62.65687,550104508.08436,Safely managed service
+who,Europe,urban,Sanitation,2005,71.23915,436658499.69074,Safely managed service
+who,Europe,total,Sanitation,2005,4.82877,42394820.41323,Unimproved
+who,Europe,rural,Sanitation,2005,12.02278,31862331.09875,Unimproved
+who,Europe,urban,Sanitation,2005,1.71834,10532488.77266,Unimproved
+who,Europe,rural,Sanitation,2006,87.12798,230245435.04073,At least basic
+who,Europe,total,Sanitation,2006,31.20152,275094200.77919,Basic service
+who,Europe,urban,Sanitation,2006,25.70575,158709358.65586,Basic service
+who,Europe,total,Sanitation,2006,1.1264,9931145.64247,Limited service
+who,Europe,rural,Sanitation,2006,1.17117,3094960.11706,Limited service
+who,Europe,urban,Sanitation,2006,1.10724,6836185.53793,Limited service
+who,Europe,total,Sanitation,2006,0.06231,549360.64044,Open defecation
+who,Europe,rural,Sanitation,2006,0.17606,465259.84864,Open defecation
+who,Europe,urban,Sanitation,2006,0.01362,84100.79016,Open defecation
+who,Europe,total,Sanitation,2006,62.99698,555424925.60921,Safely managed service
+who,Europe,urban,Sanitation,2006,71.51905,441564338.43388,Safely managed service
+who,Europe,total,Sanitation,2006,4.61279,40669511.62781,Unimproved
+who,Europe,rural,Sanitation,2006,11.52478,30455528.05547,Unimproved
+who,Europe,urban,Sanitation,2006,1.65433,10213985.34817,Unimproved
+who,Europe,rural,Sanitation,2007,87.65182,230809129.53678,At least basic
+who,Europe,total,Sanitation,2007,31.01896,274494372.62593,Basic service
+who,Europe,urban,Sanitation,2007,25.45537,158230479.49756,Basic service
+who,Europe,total,Sanitation,2007,1.1041,9770425.32605,Limited service
+who,Europe,rural,Sanitation,2007,1.15348,3037412.82425,Limited service
+who,Europe,urban,Sanitation,2007,1.08318,6733012.49747,Limited service
+who,Europe,total,Sanitation,2007,0.05847,517433.6687,Open defecation
+who,Europe,rural,Sanitation,2007,0.16627,437833.65887,Open defecation
+who,Europe,urban,Sanitation,2007,0.01281,79600.00815,Open defecation
+who,Europe,total,Sanitation,2007,63.42066,561224968.52022,Safely managed service
+who,Europe,urban,Sanitation,2007,71.85972,446679741.49611,Safely managed service
+who,Europe,total,Sanitation,2007,4.39782,38917383.15821,Unimproved
+who,Europe,rural,Sanitation,2007,11.02842,29040589.62866,Unimproved
+who,Europe,urban,Sanitation,2007,1.58893,9876793.5467,Unimproved
+who,Europe,rural,Sanitation,2008,88.17456,231398227.4245,At least basic
+who,Europe,total,Sanitation,2008,30.83516,273921604.10183,Basic service
+who,Europe,urban,Sanitation,2008,25.20457,157757852.63337,Basic service
+who,Europe,total,Sanitation,2008,1.08139,9606414.29835,Limited service
+who,Europe,rural,Sanitation,2008,1.13545,2979794.01416,Limited service
+who,Europe,urban,Sanitation,2008,1.05872,6626620.23883,Limited service
+who,Europe,total,Sanitation,2008,0.05467,485700.1199,Open defecation
+who,Europe,rural,Sanitation,2008,0.15653,410788.63695,Open defecation
+who,Europe,urban,Sanitation,2008,0.01197,74911.48472,Open defecation
+who,Europe,total,Sanitation,2008,63.84297,567143778.11068,Safely managed service
+who,Europe,urban,Sanitation,2008,72.20039,451909305.2889,Safely managed service
+who,Europe,total,Sanitation,2008,4.18581,37184289.26923,Unimproved
+who,Europe,rural,Sanitation,2008,10.53346,27643157.41699,Unimproved
+who,Europe,urban,Sanitation,2008,1.52436,9541135.04956,Unimproved
+who,Europe,rural,Sanitation,2009,88.6947,232022036.39877,At least basic
+who,Europe,total,Sanitation,2009,30.5481,272464735.17423,Basic service
+who,Europe,urban,Sanitation,2009,24.77287,156149391.83882,Basic service
+who,Europe,total,Sanitation,2009,1.05836,9439735.40109,Limited service
+who,Europe,rural,Sanitation,2009,1.11725,2922674.22121,Limited service
+who,Europe,urban,Sanitation,2009,1.03392,6517061.12519,Limited service
+who,Europe,total,Sanitation,2009,0.05095,454459.23463,Open defecation
+who,Europe,rural,Sanitation,2009,0.14694,384388.74626,Open defecation
+who,Europe,urban,Sanitation,2009,0.01112,70070.48676,Open defecation
+who,Europe,total,Sanitation,2009,64.36538,574087947.28057,Safely managed service
+who,Europe,urban,Sanitation,2009,72.72152,458381239.75582,Safely managed service
+who,Europe,total,Sanitation,2009,3.9772,35473463.50948,Unimproved
+who,Europe,rural,Sanitation,2009,10.04111,26267165.68167,Unimproved
+who,Europe,urban,Sanitation,2009,1.46057,9206298.3844,Unimproved
+who,Europe,rural,Sanitation,2010,89.21313,232719117.77262,At least basic
+who,Europe,total,Sanitation,2010,30.25989,271022811.87143,Basic service
+who,Europe,urban,Sanitation,2010,24.33379,154469172.90721,Basic service
+who,Europe,total,Sanitation,2010,1.03509,9270765.27027,Limited service
+who,Europe,rural,Sanitation,2010,1.09927,2867525.13109,Limited service
+who,Europe,urban,Sanitation,2010,1.00871,6403240.19564,Limited service
+who,Europe,total,Sanitation,2010,0.04763,426573.19194,Open defecation
+who,Europe,rural,Sanitation,2010,0.13857,361477.45127,Open defecation
+who,Europe,urban,Sanitation,2010,0.01025,65095.74341,Open defecation
+who,Europe,total,Sanitation,2010,64.88573,581149253.50238,Safely managed service
+who,Europe,urban,Sanitation,2010,73.24969,464983778.85664,Safely managed service
+who,Europe,total,Sanitation,2010,3.77166,33780860.46397,Unimproved
+who,Europe,rural,Sanitation,2010,9.54902,24909339.19621,Unimproved
+who,Europe,urban,Sanitation,2010,1.39755,8871515.86873,Unimproved
+who,Europe,rural,Sanitation,2011,89.73159,233520529.22314,At least basic
+who,Europe,total,Sanitation,2011,29.97455,269621820.67933,Basic service
+who,Europe,urban,Sanitation,2011,23.89102,152725513.15636,Basic service
+who,Europe,total,Sanitation,2011,1.0114,9097557.44439,Limited service
+who,Europe,rural,Sanitation,2011,1.08075,2812574.57985,Limited service
+who,Europe,urban,Sanitation,2011,0.98317,6284982.8735,Limited service
+who,Europe,total,Sanitation,2011,0.04454,400629.58684,Open defecation
+who,Europe,rural,Sanitation,2011,0.13084,340496.60981,Open defecation
+who,Europe,urban,Sanitation,2011,0.00941,60132.97756,Open defecation
+who,Europe,total,Sanitation,2011,65.40025,588276831.76809,Safely managed service
+who,Europe,urban,Sanitation,2011,73.78114,471652610.44196,Safely managed service
+who,Europe,total,Sanitation,2011,3.56926,32105624.52045,Unimproved
+who,Europe,rural,Sanitation,2011,9.05682,23569785.61143,Unimproved
+who,Europe,urban,Sanitation,2011,1.33527,8535835.52426,Unimproved
+who,Europe,rural,Sanitation,2012,90.25255,234472612.28109,At least basic
+who,Europe,total,Sanitation,2012,29.70357,268353628.49093,Basic service
+who,Europe,urban,Sanitation,2012,23.4534,150956144.80733,Basic service
+who,Europe,total,Sanitation,2012,0.98726,8919252.40316,Limited service
+who,Europe,rural,Sanitation,2012,1.06191,2758804.62768,Limited service
+who,Europe,urban,Sanitation,2012,0.95712,6160447.70918,Limited service
+who,Europe,total,Sanitation,2012,0.04161,375957.57673,Open defecation
+who,Europe,rural,Sanitation,2012,0.12338,320542.10977,Open defecation
+who,Europe,urban,Sanitation,2012,0.00861,55415.46508,Open defecation
+who,Europe,total,Sanitation,2012,65.89796,595347875.15503,Safely managed service
+who,Europe,urban,Sanitation,2012,74.30716,478272746.19553,Safely managed service
+who,Europe,total,Sanitation,2012,3.3696,30442294.27415,Unimproved
+who,Europe,rural,Sanitation,2012,8.56216,22244160.20982,Unimproved
+who,Europe,urban,Sanitation,2012,1.27371,8198143.20352,Unimproved
+who,Europe,rural,Sanitation,2013,90.75578,235372758.73934,At least basic
+who,Europe,total,Sanitation,2013,29.43677,267117353.76813,Basic service
+who,Europe,urban,Sanitation,2013,23.02601,149227004.1781,Basic service
+who,Europe,total,Sanitation,2013,0.9625,8734017.90291,Limited service
+who,Europe,rural,Sanitation,2013,1.0429,2704728.59948,Limited service
+who,Europe,urban,Sanitation,2013,0.93033,6029289.25753,Limited service
+who,Europe,total,Sanitation,2013,0.03673,333334.76019,Open defecation
+who,Europe,rural,Sanitation,2013,0.10925,283328.20596,Open defecation
+who,Europe,urban,Sanitation,2013,0.00772,50006.55182,Open defecation
+who,Europe,total,Sanitation,2013,66.38521,602397778.87615,Safely managed service
+who,Europe,urban,Sanitation,2013,74.82335,484915359.24085,Safely managed service
+who,Europe,total,Sanitation,2013,3.17879,28845185.79171,Unimproved
+who,Europe,rural,Sanitation,2013,8.09207,20986572.91862,Unimproved
+who,Europe,urban,Sanitation,2013,1.2126,7858614.60735,Unimproved
+who,Europe,rural,Sanitation,2014,91.22701,236193072.14389,At least basic
+who,Europe,total,Sanitation,2014,29.16139,265786500.0385,Basic service
+who,Europe,urban,Sanitation,2014,22.59841,147460491.37691,Basic service
+who,Europe,total,Sanitation,2014,0.94423,8606057.1899,Limited service
+who,Europe,rural,Sanitation,2014,1.02736,2659895.19383,Limited service
+who,Europe,urban,Sanitation,2014,0.91125,5946162.00676,Limited service
+who,Europe,total,Sanitation,2014,0.03351,305433.11476,Open defecation
+who,Europe,rural,Sanitation,2014,0.10115,261872.13055,Open defecation
+who,Europe,urban,Sanitation,2014,0.00668,43560.98412,Open defecation
+who,Europe,total,Sanitation,2014,66.86246,609406412.06966,Safely managed service
+who,Europe,urban,Sanitation,2014,75.32872,491539355.00467,Safely managed service
+who,Europe,total,Sanitation,2014,2.9984,27328386.58809,Unimproved
+who,Europe,rural,Sanitation,2014,7.6445,19792133.22581,Unimproved
+who,Europe,urban,Sanitation,2014,1.15494,7536253.24054,Unimproved
+who,Europe,rural,Sanitation,2015,91.7005,236973720.01947,At least basic
+who,Europe,total,Sanitation,2015,28.85318,264125414.69383,Basic service
+who,Europe,urban,Sanitation,2015,22.1466,145501037.89231,Basic service
+who,Europe,total,Sanitation,2015,0.9301,8514233.64751,Limited service
+who,Europe,rural,Sanitation,2015,1.01261,2616795.32222,Limited service
+who,Europe,urban,Sanitation,2015,0.89764,5897438.27625,Limited service
+who,Europe,total,Sanitation,2015,0.03001,274704.84916,Open defecation
+who,Europe,rural,Sanitation,2015,0.09463,244543.47111,Open defecation
+who,Europe,urban,Sanitation,2015,0.00459,30161.37646,Open defecation
+who,Europe,total,Sanitation,2015,67.36556,616672193.87107,Safely managed service
+who,Europe,urban,Sanitation,2015,75.84935,498322841.24077,Safely managed service
+who,Europe,total,Sanitation,2015,2.82115,25825132.43933,Unimproved
+who,Europe,rural,Sanitation,2015,7.19226,18586339.95483,Unimproved
+who,Europe,urban,Sanitation,2015,1.10181,7238800.05287,Unimproved
+who,Europe,rural,Sanitation,2016,92.12707,237564217.14094,At least basic
+who,Europe,total,Sanitation,2016,28.53248,262317840.44293,Basic service
+who,Europe,urban,Sanitation,2016,21.70187,143557845.504,Basic service
+who,Europe,total,Sanitation,2016,0.91548,8416585.59596,Limited service
+who,Europe,rural,Sanitation,2016,0.99665,2570007.99403,Limited service
+who,Europe,urban,Sanitation,2016,0.88384,5846577.63175,Limited service
+who,Europe,total,Sanitation,2016,0.02719,249941.58191,Open defecation
+who,Europe,rural,Sanitation,2016,0.08822,227485.36847,Open defecation
+who,Europe,urban,Sanitation,2016,0.00339,22456.21429,Open defecation
+who,Europe,total,Sanitation,2016,67.86191,623899238.10246,Safely managed service
+who,Europe,urban,Sanitation,2016,76.35601,505095022.80941,Safely managed service
+who,Europe,total,Sanitation,2016,2.66295,24482230.47674,Unimproved
+who,Europe,rural,Sanitation,2016,6.78807,17504112.17465,Unimproved
+who,Europe,urban,Sanitation,2016,1.05489,6978115.11556,Unimproved
+who,Europe,rural,Sanitation,2017,92.5065,237954023.54355,At least basic
+who,Europe,total,Sanitation,2017,28.20674,260418217.75223,Basic service
+who,Europe,urban,Sanitation,2017,21.26294,141615127.74315,Basic service
+who,Europe,total,Sanitation,2017,0.90087,8317261.22853,Limited service
+who,Europe,rural,Sanitation,2017,0.98024,2521477.98123,Limited service
+who,Europe,urban,Sanitation,2017,0.87021,5795783.31327,Limited service
+who,Europe,total,Sanitation,2017,0.02474,228421.32013,Open defecation
+who,Europe,rural,Sanitation,2017,0.08235,211826.29745,Open defecation
+who,Europe,urban,Sanitation,2017,0.00249,16595.02555,Open defecation
+who,Europe,total,Sanitation,2017,68.34888,631029749.51382,Safely managed service
+who,Europe,urban,Sanitation,2017,76.85654,511878823.32325,Safely managed service
+who,Europe,total,Sanitation,2017,2.51877,23254461.08528,Unimproved
+who,Europe,rural,Sanitation,2017,6.43091,16542189.37843,Unimproved
+who,Europe,urban,Sanitation,2017,1.00782,6712268.19611,Unimproved
+who,Europe,rural,Sanitation,2018,92.82015,238036546.38563,At least basic
+who,Europe,total,Sanitation,2018,27.87488,258375272.18251,Basic service
+who,Europe,urban,Sanitation,2018,20.83415,139684951.23414,Basic service
+who,Europe,total,Sanitation,2018,0.88693,8221070.81079,Limited service
+who,Europe,rural,Sanitation,2018,0.96497,2474666.64997,Limited service
+who,Europe,urban,Sanitation,2018,0.85708,5746404.13313,Limited service
+who,Europe,total,Sanitation,2018,0.02137,198102.51771,Open defecation
+who,Europe,rural,Sanitation,2018,0.07716,197874.3479,Open defecation
+who,Europe,urban,Sanitation,2018,0.00003,228.16875,Open defecation
+who,Europe,total,Sanitation,2018,68.81956,637895842.66179,Safely managed service
+who,Europe,urban,Sanitation,2018,77.3422,518549618.31191,Safely managed service
+who,Europe,total,Sanitation,2018,2.39725,22220348.1272,Unimproved
+who,Europe,rural,Sanitation,2018,6.13772,15740125.74458,Unimproved
+who,Europe,urban,Sanitation,2018,0.96653,6480221.37307,Unimproved
+who,Europe,rural,Sanitation,2019,93.17114,238032821.65871,At least basic
+who,Europe,total,Sanitation,2019,27.56053,256358829.27824,Basic service
+who,Europe,urban,Sanitation,2019,20.7172,139776352.63175,Basic service
+who,Europe,total,Sanitation,2019,0.87329,8123067.94512,Limited service
+who,Europe,rural,Sanitation,2019,0.94961,2426055.50406,Limited service
+who,Europe,urban,Sanitation,2019,0.84439,5697012.53183,Limited service
+who,Europe,total,Sanitation,2019,0.01715,159504.73955,Open defecation
+who,Europe,rural,Sanitation,2019,0.06234,159257.08629,Open defecation
+who,Europe,urban,Sanitation,2019,0.00004,247.65417,Open defecation
+who,Europe,total,Sanitation,2019,69.27401,644363725.64769,Safely managed service
+who,Europe,urban,Sanitation,2019,77.50453,522913382.57971,Safely managed service
+who,Europe,total,Sanitation,2019,2.27502,21161509.18941,Unimproved
+who,Europe,rural,Sanitation,2019,5.81691,14860984.39469,Unimproved
+who,Europe,urban,Sanitation,2019,0.93384,6300520.70254,Unimproved
+who,Europe,rural,Sanitation,2020,93.21409,237034885.05545,At least basic
+who,Europe,total,Sanitation,2020,26.81695,250172184.16883,Basic service
+who,Europe,urban,Sanitation,2020,20.62392,139953368.69222,Basic service
+who,Europe,total,Sanitation,2020,0.86662,8084592.23995,Limited service
+who,Europe,rural,Sanitation,2020,0.95908,2438859.41571,Limited service
+who,Europe,urban,Sanitation,2020,0.83197,5645732.75849,Limited service
+who,Europe,total,Sanitation,2020,0.03656,341026.50661,Open defecation
+who,Europe,rural,Sanitation,2020,0.134,340759.238,Open defecation
+who,Europe,urban,Sanitation,2020,0.00004,267.2669,Open defecation
+who,Europe,total,Sanitation,2020,70.07198,653693215.38321,Safely managed service
+who,Europe,urban,Sanitation,2020,77.64209,526877137.98688,Safely managed service
+who,Europe,total,Sanitation,2020,2.20789,20597104.5014,Unimproved
+who,Europe,rural,Sanitation,2020,5.69282,14476332.1785,Unimproved
+who,Europe,urban,Sanitation,2020,0.90198,6120780.58283,Unimproved
+who,South-East Asia,total,Sanitation,2000,12.74359,200321243.10381,Basic service
+who,South-East Asia,rural,Sanitation,2000,6.60732,73193675.33276,Basic service
+who,South-East Asia,urban,Sanitation,2000,28.74686,133434460.57187,Basic service
+who,South-East Asia,total,Sanitation,2000,7.24366,113865770.14415,Limited service
+who,South-East Asia,rural,Sanitation,2000,3.03161,33583186.45884,Limited service
+who,South-East Asia,urban,Sanitation,2000,17.29592,80282585.06369,Limited service
+who,South-East Asia,total,Sanitation,2000,57.05408,896854672.31759,Open defecation
+who,South-East Asia,rural,Sanitation,2000,72.53947,803568395.70712,Open defecation
+who,South-East Asia,urban,Sanitation,2000,20.09741,93286274.83164,Open defecation
+who,South-East Asia,total,Sanitation,2000,12.13638,190776349.38648,Safely managed service
+who,South-East Asia,rural,Sanitation,2000,6.26088,69355966.91187,Safely managed service
+who,South-East Asia,urban,Sanitation,2000,24.79983,115113493.76782,Safely managed service
+who,South-East Asia,total,Sanitation,2000,10.82229,170119667.04955,Unimproved
+who,South-East Asia,rural,Sanitation,2000,11.56072,128065910.19941,Unimproved
+who,South-East Asia,urban,Sanitation,2000,9.05998,42053751.46798,Unimproved
+who,South-East Asia,total,Sanitation,2001,13.79467,220378386.15832,Basic service
+who,South-East Asia,rural,Sanitation,2001,7.82557,87642955.15869,Basic service
+who,South-East Asia,urban,Sanitation,2001,29.11087,139035315.65389,Basic service
+who,South-East Asia,total,Sanitation,2001,7.74996,123810362.72868,Limited service
+who,South-East Asia,rural,Sanitation,2001,3.6064,40390049.76304,Limited service
+who,South-East Asia,urban,Sanitation,2001,17.46634,83420309.41132,Limited service
+who,South-East Asia,total,Sanitation,2001,54.71191,874056803.39527,Open defecation
+who,South-East Asia,rural,Sanitation,2001,69.88748,782709032.51792,Open defecation
+who,South-East Asia,urban,Sanitation,2001,19.12616,91347740.3071,Open defecation
+who,South-East Asia,total,Sanitation,2001,13.26945,211987715.61609,Safely managed service
+who,South-East Asia,rural,Sanitation,2001,7.45064,83443845.69122,Safely managed service
+who,South-East Asia,urban,Sanitation,2001,25.59514,122243972.52467,Safely managed service
+who,South-East Asia,total,Sanitation,2001,10.47402,167329014.10163,Unimproved
+who,South-East Asia,rural,Sanitation,2001,11.22992,125770118.25913,Unimproved
+who,South-East Asia,urban,Sanitation,2001,8.7015,41558914.19503,Unimproved
+who,South-East Asia,total,Sanitation,2002,15.13516,245777528.24967,Basic service
+who,South-East Asia,rural,Sanitation,2002,9.45442,106977149.83992,Basic service
+who,South-East Asia,urban,Sanitation,2002,29.72638,146367089.25953,Basic service
+who,South-East Asia,total,Sanitation,2002,8.21343,133376699.61713,Limited service
+who,South-East Asia,rural,Sanitation,2002,4.15671,47033307.49558,Limited service
+who,South-East Asia,urban,Sanitation,2002,17.53589,86343388.8598,Limited service
+who,South-East Asia,total,Sanitation,2002,52.31821,849587453.70984,Open defecation
+who,South-East Asia,rural,Sanitation,2002,67.18178,760164314.41162,Open defecation
+who,South-East Asia,urban,Sanitation,2002,18.16137,89423148.64339,Open defecation
+who,South-East Asia,total,Sanitation,2002,14.29571,232145829.7986,Safely managed service
+who,South-East Asia,rural,Sanitation,2002,8.45117,95625274.30307,Safely managed service
+who,South-East Asia,urban,Sanitation,2002,26.18984,128953835.18447,Safely managed service
+who,South-East Asia,total,Sanitation,2002,10.03749,162997199.62476,Unimproved
+who,South-East Asia,rural,Sanitation,2002,10.75592,121703591.8098,Unimproved
+who,South-East Asia,urban,Sanitation,2002,8.38651,41293610.47831,Unimproved
+who,South-East Asia,total,Sanitation,2003,15.79119,260404272.66529,Basic service
+who,South-East Asia,rural,Sanitation,2003,10.06247,114904089.04121,Basic service
+who,South-East Asia,urban,Sanitation,2003,30.18865,153098886.55946,Basic service
+who,South-East Asia,total,Sanitation,2003,8.62764,142273929.58748,Limited service
+who,South-East Asia,rural,Sanitation,2003,4.67066,53334614.8744,Limited service
+who,South-East Asia,urban,Sanitation,2003,17.53741,88939312.36763,Limited service
+who,South-East Asia,total,Sanitation,2003,49.96212,823899305.91078,Open defecation
+who,South-East Asia,rural,Sanitation,2003,64.51297,736678302.03511,Open defecation
+who,South-East Asia,urban,Sanitation,2003,17.19858,87220984.79648,Open defecation
+who,South-East Asia,total,Sanitation,2003,15.92737,262649918.16529,Safely managed service
+who,South-East Asia,rural,Sanitation,2003,10.33141,117975142.7912,Safely managed service
+who,South-East Asia,urban,Sanitation,2003,27.02921,137076063.33946,Safely managed service
+who,South-East Asia,total,Sanitation,2003,9.69168,159820474.67116,Unimproved
+who,South-East Asia,rural,Sanitation,2003,10.42249,119015189.55809,Unimproved
+who,South-East Asia,urban,Sanitation,2003,8.04615,40805283.92396,Unimproved
+who,South-East Asia,total,Sanitation,2004,16.10353,269559697.30861,Basic service
+who,South-East Asia,rural,Sanitation,2004,10.17092,117149470.88133,Basic service
+who,South-East Asia,urban,Sanitation,2004,30.65404,160047501.30763,Basic service
+who,South-East Asia,total,Sanitation,2004,9.01565,150914546.07161,Limited service
+who,South-East Asia,rural,Sanitation,2004,5.15726,59401698.81748,Limited service
+who,South-East Asia,urban,Sanitation,2004,17.52753,91512844.80875,Limited service
+who,South-East Asia,total,Sanitation,2004,47.6159,797050412.27017,Open defecation
+who,South-East Asia,rural,Sanitation,2004,61.83929,712269550.56006,Open defecation
+who,South-East Asia,urban,Sanitation,2004,16.23815,84780844.75491,Open defecation
+who,South-East Asia,total,Sanitation,2004,17.92096,299981886.42192,Safely managed service
+who,South-East Asia,rural,Sanitation,2004,12.74484,146795969.12106,Safely managed service
+who,South-East Asia,urban,Sanitation,2004,27.87706,145548632.78712,Safely managed service
+who,South-East Asia,total,Sanitation,2004,9.34396,156410074.92602,Unimproved
+who,South-East Asia,rural,Sanitation,2004,10.0877,116190830.33892,Unimproved
+who,South-East Asia,urban,Sanitation,2004,7.70323,40219243.4516,Unimproved
+who,South-East Asia,total,Sanitation,2005,16.77325,284886543.34307,Basic service
+who,South-East Asia,rural,Sanitation,2005,10.66057,123793137.1136,Basic service
+who,South-East Asia,urban,Sanitation,2005,31.4305,168855074.59259,Basic service
+who,South-East Asia,total,Sanitation,2005,9.37018,159148566.4468,Limited service
+who,South-East Asia,rural,Sanitation,2005,5.5985,65011175.04678,Limited service
+who,South-East Asia,urban,Sanitation,2005,17.52263,94137391.72027,Limited service
+who,South-East Asia,total,Sanitation,2005,45.28087,769076580.70141,Open defecation
+who,South-East Asia,rural,Sanitation,2005,59.16051,686986584.37419,Open defecation
+who,South-East Asia,urban,Sanitation,2005,15.28014,82089993.86896,Open defecation
+who,South-East Asia,total,Sanitation,2005,19.58168,332586611.66439,Safely managed service
+who,South-East Asia,rural,Sanitation,2005,14.82927,172201120.01406,Safely managed service
+who,South-East Asia,urban,Sanitation,2005,28.40923,152623824.05985,Safely managed service
+who,South-East Asia,total,Sanitation,2005,8.99403,152759779.84432,Unimproved
+who,South-East Asia,rural,Sanitation,2005,9.75116,113232844.69369,Unimproved
+who,South-East Asia,urban,Sanitation,2005,7.3575,39526930.99833,Unimproved
+who,South-East Asia,total,Sanitation,2006,17.4603,300781300.24522,Basic service
+who,South-East Asia,rural,Sanitation,2006,11.16955,130698277.78451,Basic service
+who,South-East Asia,urban,Sanitation,2006,32.21267,177983927.83926,Basic service
+who,South-East Asia,total,Sanitation,2006,9.69772,167058487.24545,Limited service
+who,South-East Asia,rural,Sanitation,2006,6.01003,70325200.33703,Limited service
+who,South-East Asia,urban,Sanitation,2006,17.50741,96733290.15352,Limited service
+who,South-East Asia,total,Sanitation,2006,42.9543,739955742.35586,Open defecation
+who,South-East Asia,rural,Sanitation,2006,56.47693,660853802.30877,Open defecation
+who,South-East Asia,urban,Sanitation,2006,14.31638,79101952.04268,Open defecation
+who,South-East Asia,total,Sanitation,2006,21.24336,365950505.78834,Safely managed service
+who,South-East Asia,rural,Sanitation,2006,16.93077,198112076.66954,Safely managed service
+who,South-East Asia,urban,Sanitation,2006,28.94652,159937536.36435,Safely managed service
+who,South-East Asia,total,Sanitation,2006,8.64432,148912048.36512,Unimproved
+who,South-East Asia,rural,Sanitation,2006,9.41272,110141093.32132,Unimproved
+who,South-East Asia,urban,Sanitation,2006,7.01702,38770956.66018,Unimproved
+who,South-East Asia,total,Sanitation,2007,18.1135,316351729.35109,Basic service
+who,South-East Asia,rural,Sanitation,2007,11.69677,137847519.83872,Basic service
+who,South-East Asia,urban,Sanitation,2007,32.87794,186742849.26634,Basic service
+who,South-East Asia,total,Sanitation,2007,9.99381,174541517.59395,Limited service
+who,South-East Asia,rural,Sanitation,2007,6.39016,75308620.8497,Limited service
+who,South-East Asia,urban,Sanitation,2007,17.47094,99232897.55764,Limited service
+who,South-East Asia,total,Sanitation,2007,40.64006,709777379.15277,Open defecation
+who,South-East Asia,rural,Sanitation,2007,53.78635,633876897.93361,Open defecation
+who,South-East Asia,urban,Sanitation,2007,13.36304,75900475.6302,Open defecation
+who,South-East Asia,total,Sanitation,2007,22.96687,401115722.67292,Safely managed service
+who,South-East Asia,rural,Sanitation,2007,19.05511,224566140.83499,Safely managed service
+who,South-East Asia,urban,Sanitation,2007,29.63282,168310943.99488,Safely managed service
+who,South-East Asia,total,Sanitation,2007,8.28577,144710668.12927,Unimproved
+who,South-East Asia,rural,Sanitation,2007,9.0716,106909618.43181,Unimproved
+who,South-East Asia,urban,Sanitation,2007,6.65525,37801053.07037,Unimproved
+who,South-East Asia,total,Sanitation,2008,18.7852,332485840.92846,Basic service
+who,South-East Asia,rural,Sanitation,2008,12.23701,145170348.64104,Basic service
+who,South-East Asia,urban,Sanitation,2008,33.54535,195775032.90815,Basic service
+who,South-East Asia,total,Sanitation,2008,10.26357,181658549.18479,Limited service
+who,South-East Asia,rural,Sanitation,2008,6.74111,79971258.61315,Limited service
+who,South-East Asia,urban,Sanitation,2008,17.42375,101687287.27333,Limited service
+who,South-East Asia,total,Sanitation,2008,38.33296,678468634.195,Open defecation
+who,South-East Asia,rural,Sanitation,2008,51.08543,606037901.20032,Open defecation
+who,South-East Asia,urban,Sanitation,2008,12.41075,72430722.83488,Open defecation
+who,South-East Asia,total,Sanitation,2008,24.69122,437018594.56066,Safely managed service
+who,South-East Asia,rural,Sanitation,2008,21.20506,251560339.73097,Safely managed service
+who,South-East Asia,urban,Sanitation,2008,30.3281,176998700.64002,Safely managed service
+who,South-East Asia,total,Sanitation,2008,7.92706,140303790.13109,Unimproved
+who,South-East Asia,rural,Sanitation,2008,8.7314,103582589.17451,Unimproved
+who,South-East Asia,urban,Sanitation,2008,6.29205,36721225.79363,Unimproved
+who,South-East Asia,total,Sanitation,2009,19.47475,349168719.02137,Basic service
+who,South-East Asia,rural,Sanitation,2009,12.80109,152788107.21684,Basic service
+who,South-East Asia,urban,Sanitation,2009,34.21071,205050416.48059,Basic service
+who,South-East Asia,total,Sanitation,2009,10.50844,188408913.69802,Limited service
+who,South-East Asia,rural,Sanitation,2009,7.06269,84297141.50136,Limited service
+who,South-East Asia,urban,Sanitation,2009,17.37006,104111771.49988,Limited service
+who,South-East Asia,total,Sanitation,2009,36.03119,646014085.62084,Open defecation
+who,South-East Asia,rural,Sanitation,2009,48.37115,577336376.96308,Open defecation
+who,South-East Asia,urban,Sanitation,2009,11.45822,68677704.62027,Open defecation
+who,South-East Asia,total,Sanitation,2009,26.41591,473618726.86933,Safely managed service
+who,South-East Asia,rural,Sanitation,2009,23.37121,278948284.38309,Safely managed service
+who,South-East Asia,urban,Sanitation,2009,31.03244,186000634.40479,Safely managed service
+who,South-East Asia,total,Sanitation,2009,7.56971,135719696.78864,Unimproved
+who,South-East Asia,rural,Sanitation,2009,8.39386,100185344.08444,Unimproved
+who,South-East Asia,urban,Sanitation,2009,5.92857,35534354.14387,Unimproved
+who,South-East Asia,total,Sanitation,2010,20.17312,366233894.91714,Basic service
+who,South-East Asia,rural,Sanitation,2010,13.37612,160543448.96643,Basic service
+who,South-East Asia,urban,Sanitation,2010,34.87494,214561474.06891,Basic service
+who,South-East Asia,total,Sanitation,2010,10.72751,194753128.08466,Limited service
+who,South-East Asia,rural,Sanitation,2010,7.35583,88286432.93357,Limited service
+who,South-East Asia,urban,Sanitation,2010,17.30515,106466697.63055,Limited service
+who,South-East Asia,total,Sanitation,2010,33.73394,612424499.35925,Open defecation
+who,South-East Asia,rural,Sanitation,2010,45.64073,547790974.86758,Open defecation
+who,South-East Asia,urban,Sanitation,2010,10.50557,64633542.92261,Open defecation
+who,South-East Asia,total,Sanitation,2010,28.15049,511059606.45483,Safely managed service
+who,South-East Asia,rural,Sanitation,2010,25.56685,306859519.46571,Safely managed service
+who,South-East Asia,urban,Sanitation,2010,31.74889,195329072.78183,Safely managed service
+who,South-East Asia,total,Sanitation,2010,7.21494,130984018.18412,Unimproved
+who,South-East Asia,rural,Sanitation,2010,8.06046,96743622.84551,Unimproved
+who,South-East Asia,urban,Sanitation,2010,5.56545,34240364.52548,Unimproved
+who,South-East Asia,total,Sanitation,2011,20.87857,383640859.91564,Basic service
+who,South-East Asia,rural,Sanitation,2011,13.98067,168723298.69862,Basic service
+who,South-East Asia,urban,Sanitation,2011,35.51817,223996724.21516,Basic service
+who,South-East Asia,total,Sanitation,2011,10.92055,200663613.60194,Limited service
+who,South-East Asia,rural,Sanitation,2011,7.61977,91957802.74094,Limited service
+who,South-East Asia,urban,Sanitation,2011,17.237,108705810.73544,Limited service
+who,South-East Asia,total,Sanitation,2011,31.44364,577772595.3697,Open defecation
+who,South-East Asia,rural,Sanitation,2011,42.88007,517490539.529,Open defecation
+who,South-East Asia,urban,Sanitation,2011,9.55866,60282056.92711,Open defecation
+who,South-East Asia,total,Sanitation,2011,29.89366,549291815.18363,Safely managed service
+who,South-East Asia,rural,Sanitation,2011,27.78954,335373190.27506,Safely managed service
+who,South-East Asia,urban,Sanitation,2011,32.48049,204839461.76932,Safely managed service
+who,South-East Asia,total,Sanitation,2011,6.86358,126117283.92908,Unimproved
+who,South-East Asia,rural,Sanitation,2011,7.72995,93287496.63637,Unimproved
+who,South-East Asia,urban,Sanitation,2011,5.20567,32829785.98361,Unimproved
+who,South-East Asia,total,Sanitation,2012,21.59354,401432826.30144,Basic service
+who,South-East Asia,rural,Sanitation,2012,14.59856,177052197.57615,Basic service
+who,South-East Asia,urban,Sanitation,2012,36.15712,233660180.7605,Basic service
+who,South-East Asia,total,Sanitation,2012,11.08915,206151849.55922,Limited service
+who,South-East Asia,rural,Sanitation,2012,7.85433,95257824.18726,Limited service
+who,South-East Asia,urban,Sanitation,2012,17.16,110894027.58697,Limited service
+who,South-East Asia,total,Sanitation,2012,29.1571,542042577.88262,Open defecation
+who,South-East Asia,rural,Sanitation,2012,40.10417,486385742.02492,Open defecation
+who,South-East Asia,urban,Sanitation,2012,8.61247,55656849.61674,Open defecation
+who,South-East Asia,total,Sanitation,2012,31.64624,588316673.07725,Safely managed service
+who,South-East Asia,rural,Sanitation,2012,30.03987,364325325.05199,Safely managed service
+who,South-East Asia,urban,Sanitation,2012,33.225,214711809.45481,Safely managed service
+who,South-East Asia,total,Sanitation,2012,6.51398,121097622.18134,Unimproved
+who,South-East Asia,rural,Sanitation,2012,7.40307,89784822.89847,Unimproved
+who,South-East Asia,urban,Sanitation,2012,4.84541,31312796.35098,Unimproved
+who,South-East Asia,total,Sanitation,2013,22.31684,419600033.37886,Basic service
+who,South-East Asia,rural,Sanitation,2013,15.22553,185472381.98905,Basic service
+who,South-East Asia,urban,Sanitation,2013,36.79571,243597759.57162,Basic service
+who,South-East Asia,total,Sanitation,2013,11.23342,211210198.68833,Limited service
+who,South-East Asia,rural,Sanitation,2013,8.0597,98180590.43973,Limited service
+who,South-East Asia,urban,Sanitation,2013,17.07325,113029610.99342,Limited service
+who,South-East Asia,total,Sanitation,2013,26.87739,505347203.17164,Open defecation
+who,South-East Asia,rural,Sanitation,2013,37.31788,454593935.62965,Open defecation
+who,South-East Asia,urban,Sanitation,2013,7.66634,50753276.67727,Open defecation
+who,South-East Asia,total,Sanitation,2013,33.40683,628113391.17159,Safely managed service
+who,South-East Asia,rural,Sanitation,2013,32.31746,393680551.45333,Safely managed service
+who,South-East Asia,urban,Sanitation,2013,33.98087,224962746.2296,Safely managed service
+who,South-East Asia,total,Sanitation,2013,6.1655,115923442.5877,Unimproved
+who,South-East Asia,rural,Sanitation,2013,7.07942,86239171.70702,Unimproved
+who,South-East Asia,urban,Sanitation,2013,4.48384,29684239.60742,Unimproved
+who,South-East Asia,total,Sanitation,2014,23.04805,438154167.36609,Basic service
+who,South-East Asia,rural,Sanitation,2014,15.86108,193977326.86424,Basic service
+who,South-East Asia,urban,Sanitation,2014,37.43368,253826341.7187,Basic service
+who,South-East Asia,total,Sanitation,2014,11.35373,215839609.80072,Limited service
+who,South-East Asia,rural,Sanitation,2014,8.23571,100720869.55101,Limited service
+who,South-East Asia,urban,Sanitation,2014,16.97742,115118733.30653,Limited service
+who,South-East Asia,total,Sanitation,2014,24.59951,467648144.23084,Open defecation
+who,South-East Asia,rural,Sanitation,2014,34.5123,422077441.67954,Open defecation
+who,South-East Asia,urban,Sanitation,2014,6.72065,45570686.89093,Open defecation
+who,South-East Asia,total,Sanitation,2014,35.17407,668675411.52343,Safely managed service
+who,South-East Asia,rural,Sanitation,2014,34.62157,423413792.90386,Safely managed service
+who,South-East Asia,urban,Sanitation,2014,34.74748,235612081.4927,Safely managed service
+who,South-East Asia,total,Sanitation,2014,5.82464,110729165.07892,Unimproved
+who,South-East Asia,rural,Sanitation,2014,6.76934,82787519.06134,Unimproved
+who,South-East Asia,urban,Sanitation,2014,4.12077,27941673.81114,Unimproved
+who,South-East Asia,total,Sanitation,2015,23.78666,457101779.1548,Basic service
+who,South-East Asia,rural,Sanitation,2015,16.50511,202568994.94677,Basic service
+who,South-East Asia,urban,Sanitation,2015,38.07091,264350181.33779,Basic service
+who,South-East Asia,total,Sanitation,2015,11.45025,220036448.41383,Limited service
+who,South-East Asia,rural,Sanitation,2015,8.38233,102877183.89604,Limited service
+who,South-East Asia,urban,Sanitation,2015,16.87292,117159264.1153,Limited service
+who,South-East Asia,total,Sanitation,2015,22.34231,429346202.01144,Open defecation
+who,South-East Asia,rural,Sanitation,2015,31.71512,389242948.53954,Open defecation
+who,South-East Asia,urban,Sanitation,2015,5.77555,40103254.00663,Open defecation
+who,South-East Asia,total,Sanitation,2015,36.94691,709998805.00155,Safely managed service
+who,South-East Asia,rural,Sanitation,2015,36.95164,453511388.46624,Safely managed service
+who,South-East Asia,urban,Sanitation,2015,35.52467,246670018.04126,Safely managed service
+who,South-East Asia,total,Sanitation,2015,5.47387,105189840.4203,Unimproved
+who,South-East Asia,rural,Sanitation,2015,6.4458,79109937.88264,Unimproved
+who,South-East Asia,urban,Sanitation,2015,3.75595,26079902.53902,Unimproved
+who,South-East Asia,total,Sanitation,2016,24.53225,476438541.13498,Basic service
+who,South-East Asia,rural,Sanitation,2016,17.15743,211237562.42155,Basic service
+who,South-East Asia,urban,Sanitation,2016,38.70684,275174058.36555,Basic service
+who,South-East Asia,total,Sanitation,2016,11.52327,223792443.85663,Limited service
+who,South-East Asia,rural,Sanitation,2016,8.49951,104643611.49662,Limited service
+who,South-East Asia,urban,Sanitation,2016,16.75985,119148829.51266,Limited service
+who,South-East Asia,total,Sanitation,2016,20.09696,390301347.0014,Open defecation
+who,South-East Asia,rural,Sanitation,2016,28.91162,355952010.55406,Open defecation
+who,South-East Asia,urban,Sanitation,2016,4.83169,34349338.25653,Open defecation
+who,South-East Asia,total,Sanitation,2016,38.72501,752074945.04475,Safely managed service
+who,South-East Asia,rural,Sanitation,2016,39.30775,483946327.32187,Safely managed service
+who,South-East Asia,urban,Sanitation,2016,36.31296,258155527.15476,Safely managed service
+who,South-East Asia,total,Sanitation,2016,5.12251,99483790.96225,Unimproved
+who,South-East Asia,rural,Sanitation,2016,6.12369,75393222.79714,Unimproved
+who,South-East Asia,urban,Sanitation,2016,3.38866,24090594.15051,Unimproved
+who,South-East Asia,total,Sanitation,2017,25.2844,496151115.97267,Basic service
+who,South-East Asia,rural,Sanitation,2017,17.81778,219969409.47009,Basic service
+who,South-East Asia,urban,Sanitation,2017,39.34127,286298735.44945,Basic service
+who,South-East Asia,total,Sanitation,2017,11.57303,227095335.54358,Limited service
+who,South-East Asia,rural,Sanitation,2017,8.58719,106013133.38958,Limited service
+who,South-East Asia,urban,Sanitation,2017,16.63831,121082204.75423,Limited service
+who,South-East Asia,total,Sanitation,2017,17.86329,350528029.95736,Open defecation
+who,South-East Asia,rural,Sanitation,2017,26.10111,322231291.25131,Open defecation
+who,South-East Asia,urban,Sanitation,2017,3.88835,28296733.39746,Open defecation
+who,South-East Asia,total,Sanitation,2017,40.50775,794875955.33174,Safely managed service
+who,South-East Asia,rural,Sanitation,2017,41.68956,514678476.01784,Safely managed service
+who,South-East Asia,urban,Sanitation,2017,37.11266,270080457.39529,Safely managed service
+who,South-East Asia,total,Sanitation,2017,4.77153,93630790.19268,Unimproved
+who,South-East Asia,rural,Sanitation,2017,5.80436,71657674.37119,Unimproved
+who,South-East Asia,urban,Sanitation,2017,3.0194,21973111.83284,Unimproved
+who,South-East Asia,total,Sanitation,2018,26.05518,516475739.43554,Basic service
+who,South-East Asia,rural,Sanitation,2018,17.57446,217473960.20188,Basic service
+who,South-East Asia,urban,Sanitation,2018,40.14548,299001759.24334,Basic service
+who,South-East Asia,total,Sanitation,2018,11.59962,229932162.94561,Limited service
+who,South-East Asia,rural,Sanitation,2018,8.64526,106980207.82998,Limited service
+who,South-East Asia,urban,Sanitation,2018,16.50815,122951946.15835,Limited service
+who,South-East Asia,total,Sanitation,2018,15.64357,310092929.37219,Open defecation
+who,South-East Asia,rural,Sanitation,2018,23.28405,288126797.27863,Open defecation
+who,South-East Asia,urban,Sanitation,2018,2.94928,21966119.21095,Open defecation
+who,South-East Asia,total,Sanitation,2018,42.283,838149878.03498,Safely managed service
+who,South-East Asia,rural,Sanitation,2018,45.0096,556968100.08038,Safely managed service
+who,South-East Asia,urban,Sanitation,2018,37.75288,281181744.37396,Safely managed service
+who,South-East Asia,total,Sanitation,2018,4.41863,87587799.18167,Unimproved
+who,South-East Asia,rural,Sanitation,2018,5.48663,67893905.51789,Unimproved
+who,South-East Asia,urban,Sanitation,2018,2.64421,19693930.3834,Unimproved
+who,South-East Asia,total,Sanitation,2019,26.89523,538428099.36617,Basic service
+who,South-East Asia,rural,Sanitation,2019,18.25435,226325014.58086,Basic service
+who,South-East Asia,urban,Sanitation,2019,40.95278,312103087.6238,Basic service
+who,South-East Asia,total,Sanitation,2019,11.60896,232405057.20273,Limited service
+who,South-East Asia,rural,Sanitation,2019,8.68012,107619774.55281,Limited service
+who,South-East Asia,urban,Sanitation,2019,16.37377,124785284.16528,Limited service
+who,South-East Asia,total,Sanitation,2019,13.4858,269978469.32728,Open defecation
+who,South-East Asia,rural,Sanitation,2019,20.52849,254520758.82009,Open defecation
+who,South-East Asia,urban,Sanitation,2019,2.02829,15457716.06174,Open defecation
+who,South-East Asia,total,Sanitation,2019,43.98688,880593820.28517,Safely managed service
+who,South-East Asia,rural,Sanitation,2019,47.42382,587980241.2895,Safely managed service
+who,South-East Asia,urban,Sanitation,2019,38.39546,292613590.01836,Safely managed service
+who,South-East Asia,total,Sanitation,2019,4.02313,80540862.82065,Unimproved
+who,South-East Asia,rural,Sanitation,2019,5.11322,63395828.81675,Unimproved
+who,South-East Asia,urban,Sanitation,2019,2.24969,17145000.90082,Unimproved
+who,South-East Asia,total,Sanitation,2020,27.71249,560176555.65004,Basic service
+who,South-East Asia,rural,Sanitation,2020,18.90101,234697907.53683,Basic service
+who,South-East Asia,urban,Sanitation,2020,41.74597,325478631.93162,Basic service
+who,South-East Asia,total,Sanitation,2020,11.59981,234477082.12069,Limited service
+who,South-East Asia,rural,Sanitation,2020,8.68605,107856578.57453,Limited service
+who,South-East Asia,urban,Sanitation,2020,16.24038,126620496.59712,Limited service
+who,South-East Asia,total,Sanitation,2020,11.35814,229591840.44838,Open defecation
+who,South-East Asia,rural,Sanitation,2020,17.79467,220960339.30682,Open defecation
+who,South-East Asia,urban,Sanitation,2020,1.10708,8631492.22495,Open defecation
+who,South-East Asia,total,Sanitation,2020,45.7149,924074870.67948,Safely managed service
+who,South-East Asia,rural,Sanitation,2020,49.90346,619662179.4749,Safely managed service
+who,South-East Asia,urban,Sanitation,2020,39.04404,304412660.25253,Safely managed service
+who,South-East Asia,total,Sanitation,2020,3.61466,73066247.09939,Unimproved
+who,South-East Asia,rural,Sanitation,2020,4.7148,58544756.76692,Unimproved
+who,South-East Asia,urban,Sanitation,2020,1.86253,14521522.36378,Unimproved
+who,Western Pacific,total,Sanitation,2000,41.43382,714085304.05102,Basic service
+who,Western Pacific,rural,Sanitation,2000,37.76377,380424423.22625,Basic service
+who,Western Pacific,urban,Sanitation,2000,46.59701,333660866.69192,Basic service
+who,Western Pacific,total,Sanitation,2000,3.90791,67350267.37575,Limited service
+who,Western Pacific,rural,Sanitation,2000,2.87467,28958866.79973,Limited service
+who,Western Pacific,urban,Sanitation,2000,5.3615,38391399.224,Limited service
+who,Western Pacific,total,Sanitation,2000,4.10969,70827823.41526,Open defecation
+who,Western Pacific,rural,Sanitation,2000,6.60125,66499615.38185,Open defecation
+who,Western Pacific,urban,Sanitation,2000,0.60445,4328206.71088,Open defecation
+who,Western Pacific,total,Sanitation,2000,20.51462,353556291.23952,Safely managed service
+who,Western Pacific,rural,Sanitation,2000,9.3272,93960280.45966,Safely managed service
+who,Western Pacific,urban,Sanitation,2000,36.25357,259596003.52349,Safely managed service
+who,Western Pacific,total,Sanitation,2000,30.03396,517616098.91673,Unimproved
+who,Western Pacific,rural,Sanitation,2000,43.43311,437536140.89543,Unimproved
+who,Western Pacific,urban,Sanitation,2000,11.18347,80079987.03277,Unimproved
+who,Western Pacific,total,Sanitation,2001,41.70068,724139165.35484,Basic service
+who,Western Pacific,rural,Sanitation,2001,37.79786,376755729.25896,Basic service
+who,Western Pacific,urban,Sanitation,2001,46.95946,347383437.18242,Basic service
+who,Western Pacific,total,Sanitation,2001,3.9101,67899517.73251,Limited service
+who,Western Pacific,rural,Sanitation,2001,2.89629,28869239.58504,Limited service
+who,Western Pacific,urban,Sanitation,2001,5.27613,39030278.07741,Limited service
+who,Western Pacific,total,Sanitation,2001,4.01167,69663312.72988,Open defecation
+who,Western Pacific,rural,Sanitation,2001,6.55388,65326749.59488,Open defecation
+who,Western Pacific,urban,Sanitation,2001,0.58622,4336564.01185,Open defecation
+who,Western Pacific,total,Sanitation,2001,20.93192,363486252.00383,Safely managed service
+who,Western Pacific,rural,Sanitation,2001,9.44382,94132688.19957,Safely managed service
+who,Western Pacific,urban,Sanitation,2001,36.41135,269353561.82864,Safely managed service
+who,Western Pacific,total,Sanitation,2001,29.44563,511328157.17895,Unimproved
+who,Western Pacific,rural,Sanitation,2001,43.30814,431680273.66946,Unimproved
+who,Western Pacific,urban,Sanitation,2001,10.76684,79647882.31754,Unimproved
+who,Western Pacific,total,Sanitation,2002,42.64615,745936597.65278,Basic service
+who,Western Pacific,rural,Sanitation,2002,39.02527,383862090.13845,Basic service
+who,Western Pacific,urban,Sanitation,2002,47.29875,362074505.74406,Basic service
+who,Western Pacific,total,Sanitation,2002,3.96079,69279355.29604,Limited service
+who,Western Pacific,rural,Sanitation,2002,3.00789,29586329.60166,Limited service
+who,Western Pacific,urban,Sanitation,2002,5.1852,39693025.68231,Limited service
+who,Western Pacific,total,Sanitation,2002,3.80481,66550990.54298,Open defecation
+who,Western Pacific,rural,Sanitation,2002,6.33151,62278274.4659,Open defecation
+who,Western Pacific,urban,Sanitation,2002,0.55816,4272715.21278,Open defecation
+who,Western Pacific,total,Sanitation,2002,21.73006,380086952.16848,Safely managed service
+who,Western Pacific,rural,Sanitation,2002,10.15359,99873242.03275,Safely managed service
+who,Western Pacific,urban,Sanitation,2002,36.60506,280213711.64738,Safely managed service
+who,Western Pacific,total,Sanitation,2002,27.85819,487276014.63972,Unimproved
+who,Western Pacific,rural,Sanitation,2002,41.48174,408024540.15084,Unimproved
+who,Western Pacific,urban,Sanitation,2002,10.35283,79251470.88575,Unimproved
+who,Western Pacific,total,Sanitation,2003,42.62274,750755616.17951,Basic service
+who,Western Pacific,rural,Sanitation,2003,40.07802,388725806.02686,Basic service
+who,Western Pacific,urban,Sanitation,2003,45.7412,362029810.04532,Basic service
+who,Western Pacific,total,Sanitation,2003,4.00495,70543115.46614,Limited service
+who,Western Pacific,rural,Sanitation,2003,3.11852,30247250.91151,Limited service
+who,Western Pacific,urban,Sanitation,2003,5.09124,40295865.06056,Limited service
+who,Western Pacific,total,Sanitation,2003,3.59983,63407278.0952,Open defecation
+who,Western Pacific,rural,Sanitation,2003,6.10444,59208316.42566,Open defecation
+who,Western Pacific,urban,Sanitation,2003,0.53052,4198959.49458,Open defecation
+who,Western Pacific,total,Sanitation,2003,23.47551,413496958.74486,Safely managed service
+who,Western Pacific,rural,Sanitation,2003,11.04873,107164117.30348,Safely managed service
+who,Western Pacific,urban,Sanitation,2003,38.70408,306332850.16035,Safely managed service
+who,Western Pacific,total,Sanitation,2003,26.29697,463193931.51606,Unimproved
+who,Western Pacific,rural,Sanitation,2003,39.65029,384577173.97036,Unimproved
+who,Western Pacific,urban,Sanitation,2003,9.93295,78616751.57163,Unimproved
+who,Western Pacific,total,Sanitation,2004,42.45866,752988898.26305,Basic service
+who,Western Pacific,rural,Sanitation,2004,41.00573,391916312.88626,Basic service
+who,Western Pacific,urban,Sanitation,2004,44.15689,361072585.2614,Basic service
+who,Western Pacific,total,Sanitation,2004,4.04104,71666375.60589,Limited service
+who,Western Pacific,rural,Sanitation,2004,3.22733,30845495.31431,Limited service
+who,Western Pacific,urban,Sanitation,2004,4.99213,40820880.40797,Limited service
+who,Western Pacific,total,Sanitation,2004,3.39718,60247798.82597,Open defecation
+who,Western Pacific,rural,Sanitation,2004,5.87304,56132145.35357,Open defecation
+who,Western Pacific,urban,Sanitation,2004,0.50332,4115652.96981,Open defecation
+who,Western Pacific,total,Sanitation,2004,25.33997,449395145.12792,Safely managed service
+who,Western Pacific,rural,Sanitation,2004,12.07802,115436857.82452,Safely managed service
+who,Western Pacific,urban,Sanitation,2004,40.84098,333958289.5983,Safely managed service
+who,Western Pacific,total,Sanitation,2004,24.76315,439165530.47717,Unimproved
+who,Western Pacific,rural,Sanitation,2004,37.81589,361429072.45635,Unimproved
+who,Western Pacific,urban,Sanitation,2004,9.50668,77736456.90024,Unimproved
+who,Western Pacific,total,Sanitation,2005,42.15035,752571457.3204,Basic service
+who,Western Pacific,rural,Sanitation,2005,41.80946,393557591.91654,Basic service
+who,Western Pacific,urban,Sanitation,2005,42.53048,359013861.54794,Basic service
+who,Western Pacific,total,Sanitation,2005,4.06616,72599005.3714,Limited service
+who,Western Pacific,rural,Sanitation,2005,3.33445,31387611.67051,Limited service
+who,Western Pacific,urban,Sanitation,2005,4.8821,41211393.08299,Limited service
+who,Western Pacific,total,Sanitation,2005,3.19817,57101654.54611,Open defecation
+who,Western Pacific,rural,Sanitation,2005,5.63903,53080860.33681,Open defecation
+who,Western Pacific,urban,Sanitation,2005,0.47632,4020794.77988,Open defecation
+who,Western Pacific,total,Sanitation,2005,27.32781,487923097.30512,Safely managed service
+who,Western Pacific,rural,Sanitation,2005,13.24033,124632844.49614,Safely managed service
+who,Western Pacific,urban,Sanitation,2005,43.03708,363290245.45331,Safely managed service
+who,Western Pacific,total,Sanitation,2005,23.25751,415250212.45876,Unimproved
+who,Western Pacific,rural,Sanitation,2005,35.97673,338653370.25776,Unimproved
+who,Western Pacific,urban,Sanitation,2005,9.07402,76596847.23068,Unimproved
+who,Western Pacific,total,Sanitation,2006,41.71061,749698112.12484,Basic service
+who,Western Pacific,rural,Sanitation,2006,42.49157,394052347.04041,Basic service
+who,Western Pacific,urban,Sanitation,2006,40.87817,355645763.25595,Basic service
+who,Western Pacific,total,Sanitation,2006,4.08234,73375071.79521,Limited service
+who,Western Pacific,rural,Sanitation,2006,3.43854,31887822.23852,Limited service
+who,Western Pacific,urban,Sanitation,2006,4.76857,41487249.56743,Limited service
+who,Western Pacific,total,Sanitation,2006,3.00357,53985613.72039,Open defecation
+who,Western Pacific,rural,Sanitation,2006,5.39947,50072814.58313,Open defecation
+who,Western Pacific,urban,Sanitation,2006,0.44974,3912798.39259,Open defecation
+who,Western Pacific,total,Sanitation,2006,29.41358,528673663.38075,Safely managed service
+who,Western Pacific,rural,Sanitation,2006,14.53883,134828188.21043,Safely managed service
+who,Western Pacific,urban,Sanitation,2006,45.26887,393845477.92695,Safely managed service
+who,Western Pacific,total,Sanitation,2006,21.78991,391647358.77881,Unimproved
+who,Western Pacific,rural,Sanitation,2006,34.1316,316524806.58684,Unimproved
+who,Western Pacific,urban,Sanitation,2006,8.63464,75122553.17048,Unimproved
+who,Western Pacific,total,Sanitation,2007,41.17907,745042587.21736,Basic service
+who,Western Pacific,rural,Sanitation,2007,43.10233,393759803.6821,Basic service
+who,Western Pacific,urban,Sanitation,2007,39.21755,351282786.18429,Basic service
+who,Western Pacific,total,Sanitation,2007,4.04954,73267296.5329,Limited service
+who,Western Pacific,rural,Sanitation,2007,3.48361,31824349.93191,Limited service
+who,Western Pacific,urban,Sanitation,2007,4.62673,41442946.34271,Limited service
+who,Western Pacific,total,Sanitation,2007,2.81966,51015340.98643,Open defecation
+who,Western Pacific,rural,Sanitation,2007,5.15449,47088623.96073,Open defecation
+who,Western Pacific,urban,Sanitation,2007,0.43838,3926718.72426,Open defecation
+who,Western Pacific,total,Sanitation,2007,31.60281,571781772.28525,Safely managed service
+who,Western Pacific,rural,Sanitation,2007,15.97292,145920003.08422,Safely managed service
+who,Western Pacific,urban,Sanitation,2007,47.54362,425861759.46398,Safely managed service
+who,Western Pacific,total,Sanitation,2007,20.34892,368167885.97625,Unimproved
+who,Western Pacific,rural,Sanitation,2007,32.28666,294953589.82955,Unimproved
+who,Western Pacific,urban,Sanitation,2007,8.17372,73214308.58496,Unimproved
+who,Western Pacific,total,Sanitation,2008,40.52639,738055716.62976,Basic service
+who,Western Pacific,rural,Sanitation,2008,43.59663,392137940.41923,Basic service
+who,Western Pacific,urban,Sanitation,2008,37.53022,345917773.68025,Basic service
+who,Western Pacific,total,Sanitation,2008,4.00788,72990358.34859,Limited service
+who,Western Pacific,rural,Sanitation,2008,3.52245,31683338.55451,Limited service
+who,Western Pacific,urban,Sanitation,2008,4.48159,41307019.60899,Limited service
+who,Western Pacific,total,Sanitation,2008,2.63915,48063460.96644,Open defecation
+who,Western Pacific,rural,Sanitation,2008,4.90527,44121389.44964,Open defecation
+who,Western Pacific,urban,Sanitation,2008,0.42769,3942071.18073,Open defecation
+who,Western Pacific,total,Sanitation,2008,33.88981,617192217.65108,Safely managed service
+who,Western Pacific,rural,Sanitation,2008,17.53106,157686379.84484,Safely managed service
+who,Western Pacific,urban,Sanitation,2008,49.85391,459505837.2574,Safely managed service
+who,Western Pacific,total,Sanitation,2008,18.93677,344871417.40413,Unimproved
+who,Western Pacific,rural,Sanitation,2008,30.44458,273839413.22428,Unimproved
+who,Western Pacific,urban,Sanitation,2008,7.70659,71032005.65288,Unimproved
+who,Western Pacific,total,Sanitation,2009,39.75587,728768819.98461,Basic service
+who,Western Pacific,rural,Sanitation,2009,43.97447,389284435.82455,Basic service
+who,Western Pacific,urban,Sanitation,2009,35.81591,339484383.71959,Basic service
+who,Western Pacific,total,Sanitation,2009,3.95787,72552179.60446,Limited service
+who,Western Pacific,rural,Sanitation,2009,3.55541,31474340.99177,Limited service
+who,Western Pacific,urban,Sanitation,2009,4.33375,41077838.64322,Limited service
+who,Western Pacific,total,Sanitation,2009,2.46185,45128387.59275,Open defecation
+who,Western Pacific,rural,Sanitation,2009,4.65006,41164678.86817,Open defecation
+who,Western Pacific,urban,Sanitation,2009,0.41817,3963708.52221,Open defecation
+who,Western Pacific,total,Sanitation,2009,36.26952,664860149.79449,Safely managed service
+who,Western Pacific,rural,Sanitation,2009,19.21334,170086306.66616,Safely managed service
+who,Western Pacific,urban,Sanitation,2009,52.19909,494773844.616,Safely managed service
+who,Western Pacific,total,Sanitation,2009,17.55489,321800515.02368,Unimproved
+who,Western Pacific,rural,Sanitation,2009,28.60671,253241220.01636,Unimproved
+who,Western Pacific,urban,Sanitation,2009,7.23307,68559294.34373,Unimproved
+who,Western Pacific,total,Sanitation,2010,38.87137,717215408.15192,Basic service
+who,Western Pacific,rural,Sanitation,2010,44.23758,385231187.68567,Basic service
+who,Western Pacific,urban,Sanitation,2010,34.07497,331984223.31242,Basic service
+who,Western Pacific,total,Sanitation,2010,3.89957,71950871.36084,Limited service
+who,Western Pacific,rural,Sanitation,2010,3.58159,31189280.04609,Limited service
+who,Western Pacific,urban,Sanitation,2010,4.18378,40761591.33859,Limited service
+who,Western Pacific,total,Sanitation,2010,2.28831,42221621.57248,Open defecation
+who,Western Pacific,rural,Sanitation,2010,4.39057,38234146.78935,Open defecation
+who,Western Pacific,urban,Sanitation,2010,0.40928,3987475.49707,Open defecation
+who,Western Pacific,total,Sanitation,2010,38.73833,714760622.45054,Safely managed service
+who,Western Pacific,rural,Sanitation,2010,21.01644,183016073.09128,Safely managed service
+who,Western Pacific,urban,Sanitation,2010,54.57843,531744545.13527,Safely managed service
+who,Western Pacific,total,Sanitation,2010,16.20243,298950874.46421,Unimproved
+who,Western Pacific,rural,Sanitation,2010,26.77382,233152668.03639,Unimproved
+who,Western Pacific,urban,Sanitation,2010,6.75355,65798207.66214,Unimproved
+who,Western Pacific,total,Sanitation,2011,37.87661,703425907.57917,Basic service
+who,Western Pacific,rural,Sanitation,2011,44.38809,380711842.39197,Basic service
+who,Western Pacific,urban,Sanitation,2011,32.28878,322714064.49702,Basic service
+who,Western Pacific,total,Sanitation,2011,3.83218,71169417.28721,Limited service
+who,Western Pacific,rural,Sanitation,2011,3.59408,30826067.37557,Limited service
+who,Western Pacific,urban,Sanitation,2011,4.03651,40343350.02659,Limited service
+who,Western Pacific,total,Sanitation,2011,2.11786,39331912.14801,Open defecation
+who,Western Pacific,rural,Sanitation,2011,4.12022,35338716.88489,Open defecation
+who,Western Pacific,urban,Sanitation,2011,0.39953,3993194.88729,Open defecation
+who,Western Pacific,total,Sanitation,2011,41.28329,766693066.23251,Safely managed service
+who,Western Pacific,rural,Sanitation,2011,22.96585,196975637.53743,Safely managed service
+who,Western Pacific,urban,Sanitation,2011,57.00242,569717433.18087,Safely managed service
+who,Western Pacific,total,Sanitation,2011,14.89005,276530777.7531,Unimproved
+who,Western Pacific,rural,Sanitation,2011,24.93175,213836975.23954,Unimproved
+who,Western Pacific,urban,Sanitation,2011,6.27276,62693803.70273,Unimproved
+who,Western Pacific,total,Sanitation,2012,36.77998,687502358.6706,Basic service
+who,Western Pacific,rural,Sanitation,2012,44.4202,375383507.0746,Basic service
+who,Western Pacific,urban,Sanitation,2012,30.47571,312118858.67558,Basic service
+who,Western Pacific,total,Sanitation,2012,3.7563,70213951.25267,Limited service
+who,Western Pacific,rural,Sanitation,2012,3.599,30414252.14127,Limited service
+who,Western Pacific,urban,Sanitation,2012,3.8861,39799699.10006,Limited service
+who,Western Pacific,total,Sanitation,2012,1.95341,36513807.87919,Open defecation
+who,Western Pacific,rural,Sanitation,2012,3.84426,32486850.96794,Open defecation
+who,Western Pacific,urban,Sanitation,2012,0.3932,4026958.45163,Open defecation
+who,Western Pacific,total,Sanitation,2012,43.90106,820611757.94602,Safely managed service
+who,Western Pacific,rural,Sanitation,2012,25.0428,211630147.39893,Safely managed service
+who,Western Pacific,urban,Sanitation,2012,59.4618,608981597.08877,Safely managed service
+who,Western Pacific,total,Sanitation,2012,13.60925,254388100.25152,Unimproved
+who,Western Pacific,rural,Sanitation,2012,23.09374,195159168.57745,Unimproved
+who,Western Pacific,urban,Sanitation,2012,5.78319,59228936.09786,Unimproved
+who,Western Pacific,total,Sanitation,2013,35.58602,669459261.59882,Basic service
+who,Western Pacific,rural,Sanitation,2013,44.33956,369048859.79288,Basic service
+who,Western Pacific,urban,Sanitation,2013,28.64003,300410405.99101,Basic service
+who,Western Pacific,total,Sanitation,2013,3.67215,69081960.07917,Limited service
+who,Western Pacific,rural,Sanitation,2013,3.59718,29940156.03224,Limited service
+who,Western Pacific,urban,Sanitation,2013,3.73164,39141803.88988,Limited service
+who,Western Pacific,total,Sanitation,2013,1.79344,33738980.65565,Open defecation
+who,Western Pacific,rural,Sanitation,2013,3.56603,29680908.95586,Open defecation
+who,Western Pacific,urban,Sanitation,2013,0.38688,4058072.71115,Open defecation
+who,Western Pacific,total,Sanitation,2013,46.59168,876502281.75754,Safely managed service
+who,Western Pacific,rural,Sanitation,2013,27.23155,226654756.30101,Safely managed service
+who,Western Pacific,urban,Sanitation,2013,61.95408,649847512.40975,Safely managed service
+who,Western Pacific,total,Sanitation,2013,12.35671,232459717.90882,Unimproved
+who,Western Pacific,rural,Sanitation,2013,21.26569,176999435.60051,Unimproved
+who,Western Pacific,urban,Sanitation,2013,5.28738,55460284.21451,Unimproved
+who,Western Pacific,total,Sanitation,2014,34.29795,649280666.08857,Basic service
+who,Western Pacific,rural,Sanitation,2014,44.1483,361715896.92335,Basic service
+who,Western Pacific,urban,Sanitation,2014,26.78162,287564766.38407,Basic service
+who,Western Pacific,total,Sanitation,2014,3.57952,67762485.09028,Limited service
+who,Western Pacific,rural,Sanitation,2014,3.5882,29398826.39126,Limited service
+who,Western Pacific,urban,Sanitation,2014,3.5729,38363658.87508,Limited service
+who,Western Pacific,total,Sanitation,2014,1.63686,30986689.89668,Open defecation
+who,Western Pacific,rural,Sanitation,2014,3.28332,26900925.78164,Open defecation
+who,Western Pacific,urban,Sanitation,2014,0.38052,4085763.4436,Open defecation
+who,Western Pacific,total,Sanitation,2014,49.35306,934282733.33361,Safely managed service
+who,Western Pacific,rural,Sanitation,2014,29.52979,241943535.48243,Safely managed service
+who,Western Pacific,urban,Sanitation,2014,64.47926,692339209.42074,Safely managed service
+who,Western Pacific,total,Sanitation,2014,11.13261,210746924.59086,Unimproved
+who,Western Pacific,rural,Sanitation,2014,19.45039,159360940.94545,Unimproved
+who,Western Pacific,urban,Sanitation,2014,4.7857,51385977.8469,Unimproved
+who,Western Pacific,total,Sanitation,2015,32.91847,626955493.50345,Basic service
+who,Western Pacific,rural,Sanitation,2015,43.84755,353436611.56812,Basic service
+who,Western Pacific,urban,Sanitation,2015,24.89902,273518881.916,Basic service
+who,Western Pacific,total,Sanitation,2015,3.47838,66248129.35301,Limited service
+who,Western Pacific,rural,Sanitation,2015,3.57085,28783125.49323,Limited service
+who,Western Pacific,urban,Sanitation,2015,3.41052,37465003.87116,Limited service
+who,Western Pacific,total,Sanitation,2015,1.48357,28255587.25221,Open defecation
+who,Western Pacific,rural,Sanitation,2015,2.99567,24146826.98782,Open defecation
+who,Western Pacific,urban,Sanitation,2015,0.37403,4108760.25153,Open defecation
+who,Western Pacific,total,Sanitation,2015,52.17993,993803589.69328,Safely managed service
+who,Western Pacific,rural,Sanitation,2015,31.93413,257407580.22376,Safely managed service
+who,Western Pacific,urban,Sanitation,2015,67.03573,736396009.92281,Safely managed service
+who,Western Pacific,total,Sanitation,2015,9.93965,189307699.19807,Unimproved
+who,Western Pacific,rural,Sanitation,2015,17.6518,142283726.91002,Unimproved
+who,Western Pacific,urban,Sanitation,2015,4.28069,47023966.37194,Unimproved
+who,Western Pacific,total,Sanitation,2016,31.45406,602579167.80262,Basic service
+who,Western Pacific,rural,Sanitation,2016,43.44146,344287413.49719,Basic service
+who,Western Pacific,urban,Sanitation,2016,22.99582,258291752.98077,Basic service
+who,Western Pacific,total,Sanitation,2016,3.36866,64534839.35401,Limited service
+who,Western Pacific,rural,Sanitation,2016,3.54559,28099918.52505,Limited service
+who,Western Pacific,urban,Sanitation,2016,3.24382,36434920.75484,Limited service
+who,Western Pacific,total,Sanitation,2016,1.33357,25547765.93677,Open defecation
+who,Western Pacific,rural,Sanitation,2016,2.70282,21420732.0382,Open defecation
+who,Western Pacific,urban,Sanitation,2016,0.36743,4127033.78995,Open defecation
+who,Western Pacific,total,Sanitation,2016,55.06877,1054976423.38076,Safely managed service
+who,Western Pacific,rural,Sanitation,2016,34.44243,272967191.72729,Safely managed service
+who,Western Pacific,urban,Sanitation,2016,69.62259,782009231.86006,Safely managed service
+who,Western Pacific,total,Sanitation,2016,8.77495,168105532.02583,Unimproved
+who,Western Pacific,rural,Sanitation,2016,15.8677,125756585.1459,Unimproved
+who,Western Pacific,urban,Sanitation,2016,3.77034,42348946.88785,Unimproved
+who,Western Pacific,total,Sanitation,2017,29.90596,576152053.6386,Basic service
+who,Western Pacific,rural,Sanitation,2017,42.93334,334371356.61249,Basic service
+who,Western Pacific,urban,Sanitation,2017,21.06598,241780691.26503,Basic service
+who,Western Pacific,total,Sanitation,2017,3.25557,62720027.27902,Limited service
+who,Western Pacific,rural,Sanitation,2017,3.51335,27362504.80422,Limited service
+who,Western Pacific,urban,Sanitation,2017,3.08065,35357522.2784,Limited service
+who,Western Pacific,total,Sanitation,2017,1.26584,24387079.79578,Open defecation
+who,Western Pacific,rural,Sanitation,2017,2.58958,20168042.94869,Open defecation
+who,Western Pacific,urban,Sanitation,2017,0.3676,4219036.31709,Open defecation
+who,Western Pacific,total,Sanitation,2017,58.01257,1117638717.56265,Safely managed service
+who,Western Pacific,rural,Sanitation,2017,37.04922,288544909.14324,Safely managed service
+who,Western Pacific,urban,Sanitation,2017,72.23766,829093814.36975,Safely managed service
+who,Western Pacific,total,Sanitation,2017,7.56006,145647989.72203,Unimproved
+who,Western Pacific,rural,Sanitation,2017,13.91451,108368291.08094,Unimproved
+who,Western Pacific,urban,Sanitation,2017,3.24812,37279696.23588,Unimproved
+who,Western Pacific,total,Sanitation,2018,28.28361,547814851.15121,Basic service
+who,Western Pacific,rural,Sanitation,2018,42.3253,323850514.25019,Basic service
+who,Western Pacific,urban,Sanitation,2018,19.1142,223964334.25109,Basic service
+who,Western Pacific,total,Sanitation,2018,3.13437,60708459.59214,Limited service
+who,Western Pacific,rural,Sanitation,2018,3.47256,26570169.84534,Limited service
+who,Western Pacific,urban,Sanitation,2018,2.91353,34138289.63737,Limited service
+who,Western Pacific,total,Sanitation,2018,1.15781,22425200.88446,Open defecation
+who,Western Pacific,rural,Sanitation,2018,2.36817,18119955.83799,Open defecation
+who,Western Pacific,urban,Sanitation,2018,0.36743,4305244.84278,Open defecation
+who,Western Pacific,total,Sanitation,2018,61.00615,1181605929.46644,Safely managed service
+who,Western Pacific,rural,Sanitation,2018,39.75434,304178904.51532,Safely managed service
+who,Western Pacific,urban,Sanitation,2018,74.88386,877427027.05223,Safely managed service
+who,Western Pacific,total,Sanitation,2018,6.41806,124309078.90381,Unimproved
+who,Western Pacific,rural,Sanitation,2018,12.07963,92426893.20182,Unimproved
+who,Western Pacific,urban,Sanitation,2018,2.72098,31882185.44365,Unimproved
+who,Western Pacific,total,Sanitation,2019,26.53904,516599487.02837,Basic service
+who,Western Pacific,rural,Sanitation,2019,41.47888,311733529.96315,Basic service
+who,Western Pacific,urban,Sanitation,2019,17.14336,204865950.87125,Basic service
+who,Western Pacific,total,Sanitation,2019,3.03275,59034462.71707,Limited service
+who,Western Pacific,rural,Sanitation,2019,3.4936,26256095.17336,Limited service
+who,Western Pacific,urban,Sanitation,2019,2.74292,32778367.43048,Limited service
+who,Western Pacific,total,Sanitation,2019,1.05469,20530198.82532,Open defecation
+who,Western Pacific,rural,Sanitation,2019,2.14307,16106225.10376,Open defecation
+who,Western Pacific,urban,Sanitation,2019,0.3702,4423973.23971,Open defecation
+who,Western Pacific,total,Sanitation,2019,64.02083,1246206379.88561,Safely managed service
+who,Western Pacific,rural,Sanitation,2019,42.50039,319410632.56995,Safely managed service
+who,Western Pacific,urban,Sanitation,2019,77.55506,926795759.80159,Safely managed service
+who,Western Pacific,total,Sanitation,2019,5.35269,104193469.54362,Unimproved
+who,Western Pacific,rural,Sanitation,2019,10.38405,78041034.17253,Unimproved
+who,Western Pacific,urban,Sanitation,2019,2.18846,26152432.81277,Unimproved
+who,Western Pacific,total,Sanitation,2020,26.58483,519879649.78834,Basic service
+who,Western Pacific,rural,Sanitation,2020,41.78475,308371279.43847,Basic service
+who,Western Pacific,urban,Sanitation,2020,17.37163,211508367.21899,Basic service
+who,Western Pacific,total,Sanitation,2020,2.89404,56594362.86955,Limited service
+who,Western Pacific,rural,Sanitation,2020,3.43079,25319230.41619,Limited service
+who,Western Pacific,urban,Sanitation,2020,2.56869,31275132.34215,Limited service
+who,Western Pacific,total,Sanitation,2020,0.9645,18861201.89723,Open defecation
+who,Western Pacific,rural,Sanitation,2020,1.93016,14244587.99787,Open defecation
+who,Western Pacific,urban,Sanitation,2020,0.37917,4616613.70002,Open defecation
+who,Western Pacific,total,Sanitation,2020,65.29409,1276858385.21254,Safely managed service
+who,Western Pacific,rural,Sanitation,2020,44.29209,326875391.37857,Safely managed service
+who,Western Pacific,urban,Sanitation,2020,78.02413,949982998.12086,Safely managed service
+who,Western Pacific,total,Sanitation,2020,4.26254,83356123.23235,Unimproved
+who,Western Pacific,rural,Sanitation,2020,8.5622,63189023.58565,Unimproved
+who,Western Pacific,urban,Sanitation,2020,1.65637,20167098.98218,Unimproved

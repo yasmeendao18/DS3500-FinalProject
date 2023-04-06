@@ -1,0 +1,1807 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+who,Africa,total,Drinking water,2000,27.62836,180695346.00852,Basic service
+who,Africa,rural,Drinking water,2000,24.25413,106634079.32888,Basic service
+who,Africa,urban,Drinking water,2000,34.54867,74061265.39271,Basic service
+who,Africa,total,Drinking water,2000,8.85472,57911778.24316,Limited service
+who,Africa,rural,Drinking water,2000,8.86778,38987511.8007,Limited service
+who,Africa,urban,Drinking water,2000,8.82794,18924266.02863,Limited service
+who,Africa,total,Drinking water,2000,19.52627,127705976.60184,Safely managed service
+who,Africa,rural,Drinking water,2000,7.59476,33390605.3874,Safely managed service
+who,Africa,urban,Drinking water,2000,43.99696,94315370.31665,Safely managed service
+who,Africa,total,Drinking water,2000,17.84068,116681827.23609,Surface water
+who,Africa,rural,Drinking water,2000,24.91492,109539301.13847,Surface water
+who,Africa,urban,Drinking water,2000,3.3319,7142525.25487,Surface water
+who,Africa,total,Drinking water,2000,26.14997,171026371.91039,Unimproved
+who,Africa,rural,Drinking water,2000,34.36841,151101851.02898,Unimproved
+who,Africa,urban,Drinking water,2000,9.29454,19924522.56313,Unimproved
+who,Africa,total,Drinking water,2001,28.1394,188759329.98265,Basic service
+who,Africa,rural,Drinking water,2001,24.93452,111688072.24622,Basic service
+who,Africa,urban,Drinking water,2001,34.58043,77071258.01948,Basic service
+who,Africa,total,Drinking water,2001,9.11621,61151622.57596,Limited service
+who,Africa,rural,Drinking water,2001,9.21487,41275748.39101,Limited service
+who,Africa,urban,Drinking water,2001,8.91793,19875874.39465,Limited service
+who,Africa,total,Drinking water,2001,19.8587,133212292.96358,Safely managed service
+who,Africa,rural,Drinking water,2001,7.76523,34782424.76002,Safely managed service
+who,Africa,urban,Drinking water,2001,44.16363,98429867.38402,Safely managed service
+who,Africa,total,Drinking water,2001,17.42563,116891281.90196,Surface water
+who,Africa,rural,Drinking water,2001,24.4512,109523155.88333,Surface water
+who,Africa,urban,Drinking water,2001,3.30594,7368127.12794,Surface water
+who,Africa,total,Drinking water,2001,25.46006,170786267.07586,Unimproved
+who,Africa,rural,Drinking water,2001,33.63417,150656013.74042,Unimproved
+who,Africa,urban,Drinking water,2001,9.03207,20130252.83268,Unimproved
+who,Africa,total,Drinking water,2002,28.59966,196772642.25598,Basic service
+who,Africa,rural,Drinking water,2002,25.57851,116703701.06516,Basic service
+who,Africa,urban,Drinking water,2002,34.54707,80068942.93815,Basic service
+who,Africa,total,Drinking water,2002,9.33702,64240995.24449,Limited service
+who,Africa,rural,Drinking water,2002,9.57818,43701114.25764,Limited service
+who,Africa,urban,Drinking water,2002,8.86227,20539881.61745,Limited service
+who,Africa,total,Drinking water,2002,20.30059,139673038.88101,Safely managed service
+who,Africa,rural,Drinking water,2002,7.96802,36354626.73101,Safely managed service
+who,Africa,urban,Drinking water,2002,44.57844,103318412.89157,Safely managed service
+who,Africa,total,Drinking water,2002,16.83359,115819195.50698,Surface water
+who,Africa,rural,Drinking water,2002,23.74918,108357256.74416,Surface water
+who,Africa,urban,Drinking water,2002,3.21958,7461940.21707,Surface water
+who,Africa,total,Drinking water,2002,24.92915,171518639.11222,Unimproved
+who,Africa,rural,Drinking water,2002,33.12611,151140118.27557,Unimproved
+who,Africa,urban,Drinking water,2002,8.79265,20378516.22152,Unimproved
+who,Africa,total,Drinking water,2003,29.04526,204991976.90788,Basic service
+who,Africa,rural,Drinking water,2003,26.21085,121822513.62335,Basic service
+who,Africa,urban,Drinking water,2003,34.51182,83169462.86509,Basic service
+who,Africa,total,Drinking water,2003,9.55252,67418544.74502,Limited service
+who,Africa,rural,Drinking water,2003,9.94435,46219238.91454,Limited service
+who,Africa,urban,Drinking water,2003,8.79682,21199305.65476,Limited service
+who,Africa,total,Drinking water,2003,20.75418,146476227.37376,Safely managed service
+who,Africa,rural,Drinking water,2003,8.18887,38060159.27729,Safely managed service
+who,Africa,urban,Drinking water,2003,44.9881,108416068.09369,Safely managed service
+who,Africa,total,Drinking water,2003,16.2391,114610302.33386,Surface water
+who,Africa,rural,Drinking water,2003,23.04418,107104516.19923,Surface water
+who,Africa,urban,Drinking water,2003,3.11458,7505785.66331,Surface water
+who,Africa,total,Drinking water,2003,24.40894,172270325.64018,Unimproved
+who,Africa,rural,Drinking water,2003,32.61176,151572604.25413,Unimproved
+who,Africa,urban,Drinking water,2003,8.58868,20697718.03416,Unimproved
+who,Africa,total,Drinking water,2004,29.45158,213263941.57598,Basic service
+who,Africa,rural,Drinking water,2004,26.85685,127164744.87225,Basic service
+who,Africa,urban,Drinking water,2004,34.35363,86099197.75966,Basic service
+who,Africa,total,Drinking water,2004,9.75498,70637513.51532,Limited service
+who,Africa,rural,Drinking water,2004,10.30509,48793672.90073,Limited service
+who,Africa,urban,Drinking water,2004,8.71571,21843840.87419,Limited service
+who,Africa,total,Drinking water,2004,21.26565,153988193.56774,Safely managed service
+who,Africa,rural,Drinking water,2004,8.41637,39850743.83519,Safely managed service
+who,Africa,urban,Drinking water,2004,45.54091,114137451.19616,Safely managed service
+who,Africa,total,Drinking water,2004,15.64736,113305206.93412,Surface water
+who,Africa,rural,Drinking water,2004,22.33766,105766813.14201,Surface water
+who,Africa,urban,Drinking water,2004,3.00782,7538393.83748,Surface water
+who,Africa,total,Drinking water,2004,23.88043,172922309.40612,Unimproved
+who,Africa,rural,Drinking water,2004,32.08403,151915006.38834,Unimproved
+who,Africa,urban,Drinking water,2004,8.38193,21007301.9335,Unimproved
+who,Africa,total,Drinking water,2005,29.86136,221912208.11231,Basic service
+who,Africa,rural,Drinking water,2005,27.51053,132701349.459,Basic service
+who,Africa,urban,Drinking water,2005,34.20977,89210861.3202,Basic service
+who,Africa,total,Drinking water,2005,9.95091,73949377.87619,Limited service
+who,Africa,rural,Drinking water,2005,10.66707,51454302.5664,Limited service
+who,Africa,urban,Drinking water,2005,8.62621,22495076.1313,Limited service
+who,Africa,total,Drinking water,2005,21.78757,161912473.83878,Safely managed service
+who,Africa,rural,Drinking water,2005,8.64886,41719141.79296,Safely managed service
+who,Africa,urban,Drinking water,2005,46.09065,120193334.50696,Safely managed service
+who,Africa,total,Drinking water,2005,15.05561,111884501.1766,Surface water
+who,Africa,rural,Drinking water,2005,21.62704,104321400.01151,Surface water
+who,Africa,urban,Drinking water,2005,2.90023,7563102.15981,Surface water
+who,Africa,total,Drinking water,2005,23.34455,173483070.89612,Unimproved
+who,Africa,rural,Drinking water,2005,31.5465,152169493.12914,Unimproved
+who,Africa,urban,Drinking water,2005,8.17314,21313577.47648,Unimproved
+who,Africa,total,Drinking water,2006,30.23623,230664252.48891,Basic service
+who,Africa,rural,Drinking water,2006,28.13455,138290775.65878,Basic service
+who,Africa,urban,Drinking water,2006,34.04343,92373480.76521,Basic service
+who,Africa,total,Drinking water,2006,10.13804,77340416.26963,Limited service
+who,Africa,rural,Drinking water,2006,11.02807,54206687.76192,Limited service
+who,Africa,urban,Drinking water,2006,8.52573,23133729.79552,Limited service
+who,Africa,total,Drinking water,2006,22.35221,170519162.11211,Safely managed service
+who,Africa,rural,Drinking water,2006,8.92224,43855834.16917,Safely managed service
+who,Africa,urban,Drinking water,2006,46.68066,126663331.09022,Safely managed service
+who,Africa,total,Drinking water,2006,14.46875,110378271.54831,Surface water
+who,Africa,rural,Drinking water,2006,20.91673,102812754.09751,Surface water
+who,Africa,urban,Drinking water,2006,2.78821,7565519.18475,Surface water
+who,Africa,total,Drinking water,2006,22.80478,173971647.38028,Unimproved
+who,Africa,rural,Drinking water,2006,30.99841,152367631.70811,Unimproved
+who,Africa,urban,Drinking water,2006,7.96197,21604015.3163,Unimproved
+who,Africa,total,Drinking water,2007,30.57905,239531479.73919,Basic service
+who,Africa,rural,Drinking water,2007,28.7285,143903819.36674,Basic service
+who,Africa,urban,Drinking water,2007,33.86136,95627662.85489,Basic service
+who,Africa,total,Drinking water,2007,10.31743,80818394.18874,Limited service
+who,Africa,rural,Drinking water,2007,11.38828,57044984.05385,Limited service
+who,Africa,urban,Drinking water,2007,8.41807,23773410.94604,Limited service
+who,Africa,total,Drinking water,2007,22.95885,179841023.43298,Safely managed service
+who,Africa,rural,Drinking water,2007,9.23549,46261437.5388,Safely managed service
+who,Africa,urban,Drinking water,2007,47.29998,133579587.95054,Safely managed service
+who,Africa,total,Drinking water,2007,13.8834,108751279.60167,Surface water
+who,Africa,rural,Drinking water,2007,20.20335,101200499.7608,Surface water
+who,Africa,urban,Drinking water,2007,2.6737,7550780.85647,Surface water
+who,Africa,total,Drinking water,2007,22.26127,174376786.03741,Unimproved
+who,Africa,rural,Drinking water,2007,30.44438,152498812.50881,Unimproved
+who,Africa,urban,Drinking water,2007,7.7469,21877969.95333,Unimproved
+who,Africa,total,Drinking water,2008,30.90807,248649133.66292,Basic service
+who,Africa,rural,Drinking water,2008,29.32059,149622249.2186,Basic service
+who,Africa,urban,Drinking water,2008,33.66176,99026883.23158,Basic service
+who,Africa,total,Drinking water,2008,10.48928,84384098.87145,Limited service
+who,Africa,rural,Drinking water,2008,11.74827,59951116.22608,Limited service
+who,Africa,urban,Drinking water,2008,8.30539,24432982.12477,Limited service
+who,Africa,total,Drinking water,2008,23.60065,189862455.01608,Safely managed service
+who,Africa,rural,Drinking water,2008,9.56587,48814424.96411,Safely managed service
+who,Africa,urban,Drinking water,2008,47.94581,141048029.90231,Safely managed service
+who,Africa,total,Drinking water,2008,13.29547,106959372.99394,Surface water
+who,Africa,rural,Drinking water,2008,19.48553,99434208.11846,Surface water
+who,Africa,urban,Drinking water,2008,2.55799,7525163.93838,Surface water
+who,Africa,total,Drinking water,2008,21.70654,174624711.45561,Unimproved
+who,Africa,rural,Drinking water,2008,29.87974,152475610.47924,Unimproved
+who,Africa,urban,Drinking water,2008,7.52904,22149100.69595,Unimproved
+who,Africa,total,Drinking water,2009,31.21733,257963006.75198,Basic service
+who,Africa,rural,Drinking water,2009,29.90358,155464704.25869,Basic service
+who,Africa,urban,Drinking water,2009,33.44603,102498300.1177,Basic service
+who,Africa,total,Drinking water,2009,10.65346,88034399.38061,Limited service
+who,Africa,rural,Drinking water,2009,12.10817,62948743.61952,Limited service
+who,Africa,urban,Drinking water,2009,8.18565,25085654.84858,Limited service
+who,Africa,total,Drinking water,2009,24.2668,200527562.04986,Safely managed service
+who,Africa,rural,Drinking water,2009,9.91111,51526539.37084,Safely managed service
+who,Africa,urban,Drinking water,2009,48.62024,149001021.54247,Safely managed service
+who,Africa,total,Drinking water,2009,12.7118,105043395.1716,Surface water
+who,Africa,rural,Drinking water,2009,18.7663,97563473.71109,Surface water
+who,Africa,urban,Drinking water,2009,2.44076,7479920.14216,Surface water
+who,Africa,total,Drinking water,2009,21.15061,174777057.64596,Unimproved
+who,Africa,rural,Drinking water,2009,29.31084,152383120.06986,Unimproved
+who,Africa,urban,Drinking water,2009,7.30732,22393936.12878,Unimproved
+who,Africa,total,Drinking water,2010,31.50549,267451469.38967,Basic service
+who,Africa,rural,Drinking water,2010,30.47627,161412601.45779,Basic service
+who,Africa,urban,Drinking water,2010,33.21284,106038867.46726,Basic service
+who,Africa,total,Drinking water,2010,10.80964,91763479.10409,Limited service
+who,Africa,rural,Drinking water,2010,12.46789,66034155.53553,Limited service
+who,Africa,urban,Drinking water,2010,8.05878,25729323.50136,Limited service
+who,Africa,total,Drinking water,2010,24.95897,211877804.12508,Safely managed service
+who,Africa,rural,Drinking water,2010,10.27084,54397830.31363,Safely managed service
+who,Africa,urban,Drinking water,2010,49.32491,157479972.80331,Safely managed service
+who,Africa,total,Drinking water,2010,12.13221,102990841.39415,Surface water
+who,Africa,rural,Drinking water,2010,18.04646,95580116.7723,Surface water
+who,Africa,urban,Drinking water,2010,2.32114,7410724.73433,Surface water
+who,Africa,total,Drinking water,2010,20.59369,174820745.98701,Unimproved
+who,Africa,rural,Drinking water,2010,28.73853,152208937.58475,Unimproved
+who,Africa,urban,Drinking water,2010,7.08233,22611804.14041,Unimproved
+who,Africa,total,Drinking water,2011,31.82866,280723812.37399,Basic service
+who,Africa,rural,Drinking water,2011,31.11053,170362671.26023,Basic service
+who,Africa,urban,Drinking water,2011,33.00471,110361140.56404,Basic service
+who,Africa,total,Drinking water,2011,11.11625,98043549.54889,Limited service
+who,Africa,rural,Drinking water,2011,13.00779,71231234.48475,Limited service
+who,Africa,urban,Drinking water,2011,8.01852,26812314.91589,Limited service
+who,Africa,total,Drinking water,2011,25.42981,224286961.31133,Safely managed service
+who,Africa,rural,Drinking water,2011,10.51812,57597693.01727,Safely managed service
+who,Africa,urban,Drinking water,2011,49.85026,166689267.56303,Safely managed service
+who,Africa,total,Drinking water,2011,11.66116,102849600.74672,Surface water
+who,Africa,rural,Drinking water,2011,17.40163,95292118.69894,Surface water
+who,Africa,urban,Drinking water,2011,2.26015,7557481.96898,Surface water
+who,Africa,total,Drinking water,2011,19.96413,176080490.01819,Unimproved
+who,Africa,rural,Drinking water,2011,27.96192,153120745.69727,Unimproved
+who,Africa,urban,Drinking water,2011,6.86636,22959742.88606,Unimproved
+who,Africa,total,Drinking water,2012,32.04148,290360701.13085,Basic service
+who,Africa,rural,Drinking water,2012,31.62371,176426002.58131,Basic service
+who,Africa,urban,Drinking water,2012,32.71063,113934697.14742,Basic service
+who,Africa,total,Drinking water,2012,11.28034,102222726.14601,Limited service
+who,Africa,rural,Drinking water,2012,13.40559,74788662.45886,Limited service
+who,Africa,urban,Drinking water,2012,7.87632,27434063.11785,Limited service
+who,Africa,total,Drinking water,2012,26.18607,237298817.87214,Safely managed service
+who,Africa,rural,Drinking water,2012,10.91388,60887638.17487,Safely managed service
+who,Africa,urban,Drinking water,2012,50.64762,176411179.04852,Safely managed service
+who,Africa,total,Drinking water,2012,11.07949,100402635.88166,Surface water
+who,Africa,rural,Drinking water,2012,16.66852,92992268.40431,Surface water
+who,Africa,urban,Drinking water,2012,2.12752,7410366.80205,Surface water
+who,Africa,total,Drinking water,2012,19.41261,175917545.07024,Unimproved
+who,Africa,rural,Drinking water,2012,27.38829,152796967.41508,Unimproved
+who,Africa,urban,Drinking water,2012,6.63791,23120579.84281,Unimproved
+who,Africa,total,Drinking water,2013,32.23197,300093653.5242,Basic service
+who,Africa,rural,Drinking water,2013,32.12474,182567863.17057,Basic service
+who,Africa,urban,Drinking water,2013,32.39997,117525789.55114,Basic service
+who,Africa,total,Drinking water,2013,11.43762,106489264.32002,Limited service
+who,Africa,rural,Drinking water,2013,13.80579,78459587.87123,Limited service
+who,Africa,urban,Drinking water,2013,7.72733,28029676.68554,Limited service
+who,Africa,total,Drinking water,2013,26.96681,251072800.29902,Safely managed service
+who,Africa,rural,Drinking water,2013,11.32491,64360537.42542,Safely managed service
+who,Africa,urban,Drinking water,2013,51.47356,186712258.83133,Safely managed service
+who,Africa,total,Drinking water,2013,10.49513,97714215.78853,Surface water
+who,Africa,rural,Drinking water,2013,15.9273,90516301.54083,Surface water
+who,Africa,urban,Drinking water,2013,1.98435,7197915.17061,Surface water
+who,Africa,total,Drinking water,2013,18.86847,175673663.06823,Unimproved
+who,Africa,rural,Drinking water,2013,26.81727,152405022.22894,Unimproved
+who,Africa,urban,Drinking water,2013,6.41479,23268639.68337,Unimproved
+who,Africa,total,Drinking water,2014,32.40004,309899958.14731,Basic service
+who,Africa,rural,Drinking water,2014,32.61383,188768022.76276,Basic service
+who,Africa,urban,Drinking water,2014,32.07241,121131934.98952,Basic service
+who,Africa,total,Drinking water,2014,11.58783,110835285.93609,Limited service
+who,Africa,rural,Drinking water,2014,14.20797,82235368.32984,Limited service
+who,Africa,urban,Drinking water,2014,7.57247,28599917.50802,Limited service
+who,Africa,total,Drinking water,2014,27.77174,265631121.39675,Safely managed service
+who,Africa,rural,Drinking water,2014,11.75054,68011830.45882,Safely managed service
+who,Africa,urban,Drinking water,2014,52.32416,197619290.3251,Safely managed service
+who,Africa,total,Drinking water,2014,9.92053,94887909.11362,Surface water
+who,Africa,rural,Drinking water,2014,15.18665,87899919.25112,Surface water
+who,Africa,urban,Drinking water,2014,1.85023,6987989.82955,Surface water
+who,Africa,total,Drinking water,2014,18.31986,175225830.30526,Unimproved
+who,Africa,rural,Drinking water,2014,26.24101,151882283.33645,Unimproved
+who,Africa,urban,Drinking water,2014,6.18073,23343548.11381,Unimproved
+who,Africa,total,Drinking water,2015,32.5509,319807619.03286,Basic service
+who,Africa,rural,Drinking water,2015,33.09225,195023550.9447,Basic service
+who,Africa,urban,Drinking water,2015,31.73941,124784067.54077,Basic service
+who,Africa,total,Drinking water,2015,11.72987,115244171.02954,Limited service
+who,Africa,rural,Drinking water,2015,14.61101,86107496.52061,Limited service
+who,Africa,urban,Drinking water,2015,7.41105,29136674.18029,Limited service
+who,Africa,total,Drinking water,2015,28.59701,280961281.25041,Safely managed service
+who,Africa,rural,Drinking water,2015,12.19032,71841572.57035,Safely managed service
+who,Africa,urban,Drinking water,2015,53.19057,209119709.02681,Safely managed service
+who,Africa,total,Drinking water,2015,9.35122,91874278.38475,Surface water
+who,Africa,rural,Drinking water,2015,14.44571,85133347.81809,Surface water
+who,Africa,urban,Drinking water,2015,1.71459,6740930.16753,Surface water
+who,Africa,total,Drinking water,2015,17.77101,174597427.40047,Unimproved
+who,Africa,rural,Drinking water,2015,25.6607,151226969.52125,Unimproved
+who,Africa,urban,Drinking water,2015,5.94438,23370455.9916,Unimproved
+who,Africa,total,Drinking water,2016,32.6801,329757889.87215,Basic service
+who,Africa,rural,Drinking water,2016,33.55915,201323640.67231,Basic service
+who,Africa,urban,Drinking water,2016,31.39118,128434250.7903,Basic service
+who,Africa,total,Drinking water,2016,11.86471,119720650.60289,Limited service
+who,Africa,rural,Drinking water,2016,15.01544,90078632.03464,Limited service
+who,Africa,urban,Drinking water,2016,7.24494,29642019.31848,Limited service
+who,Africa,total,Drinking water,2016,29.44574,297121670.47772,Safely managed service
+who,Africa,rural,Drinking water,2016,12.64479,75856989.87384,Safely managed service
+who,Africa,urban,Drinking water,2016,54.08028,221264680.96567,Safely managed service
+who,Africa,total,Drinking water,2016,8.78811,88676215.39169,Surface water
+who,Africa,rural,Drinking water,2016,13.70514,82218103.07119,Surface water
+who,Africa,urban,Drinking water,2016,1.57846,6458113.03351,Surface water
+who,Africa,total,Drinking water,2016,17.22134,173771604.95556,Unimproved
+who,Africa,rural,Drinking water,2016,25.07548,150429501.12442,Unimproved
+who,Africa,urban,Drinking water,2016,5.70515,23342101.54804,Unimproved
+who,Africa,total,Drinking water,2017,32.82625,340129145.8276,Basic service
+who,Africa,rural,Drinking water,2017,34.0502,207875158.60671,Basic service
+who,Africa,urban,Drinking water,2017,31.07079,132253988.33985,Basic service
+who,Africa,total,Drinking water,2017,11.98652,124198298.66393,Limited service
+who,Africa,rural,Drinking water,2017,15.40641,94055519.51164,Limited service
+who,Africa,urban,Drinking water,2017,7.08153,30142779.70352,Limited service
+who,Africa,total,Drinking water,2017,30.30123,313966186.04136,Safely managed service
+who,Africa,rural,Drinking water,2017,13.12946,80154863.15007,Safely managed service
+who,Africa,urban,Drinking water,2017,54.92994,233811323.04516,Safely managed service
+who,Africa,total,Drinking water,2017,8.20583,85024711.52434,Surface water
+who,Africa,rural,Drinking water,2017,12.91835,78866053.31841,Surface water
+who,Africa,urban,Drinking water,2017,1.44687,6158658.6981,Surface water
+who,Africa,total,Drinking water,2017,16.68017,172831547.94276,Unimproved
+who,Africa,rural,Drinking water,2017,24.49558,149544567.12016,Unimproved
+who,Africa,urban,Drinking water,2017,5.47087,23286980.63036,Unimproved
+who,Africa,total,Drinking water,2018,32.87973,349754953.96732,Basic service
+who,Africa,rural,Drinking water,2018,34.48525,214174873.35999,Basic service
+who,Africa,urban,Drinking water,2018,30.62723,135580081.05241,Basic service
+who,Africa,total,Drinking water,2018,12.12093,128935258.6552,Limited service
+who,Africa,rural,Drinking water,2018,15.81943,98248515.47831,Limited service
+who,Africa,urban,Drinking water,2018,6.93207,30686742.79609,Limited service
+who,Africa,total,Drinking water,2018,31.21736,332071659.0272,Safely managed service
+who,Africa,rural,Drinking water,2018,13.61228,84540704.9017,Safely managed service
+who,Africa,urban,Drinking water,2018,55.91669,247530957.89968,Safely managed service
+who,Africa,total,Drinking water,2018,7.65496,81428879.74838,Surface water
+who,Africa,rural,Drinking water,2018,12.17687,75625915.08301,Surface water
+who,Africa,urban,Drinking water,2018,1.31088,5802964.04255,Surface water
+who,Africa,total,Drinking water,2018,16.12702,171549640.60191,Unimproved
+who,Africa,rural,Drinking water,2018,23.90617,148472221.07261,Unimproved
+who,Africa,urban,Drinking water,2018,5.21314,23077418.25183,Unimproved
+who,Africa,total,Drinking water,2019,33.08723,361232736.50088,Basic service
+who,Africa,rural,Drinking water,2019,34.92691,220586423.80149,Basic service
+who,Africa,urban,Drinking water,2019,30.56246,140646311.26817,Basic service
+who,Africa,total,Drinking water,2019,12.25437,133788161.5155,Limited service
+who,Africa,rural,Drinking water,2019,16.23105,102509792.15663,Limited service
+who,Africa,urban,Drinking water,2019,6.79679,31278368.12484,Limited service
+who,Africa,total,Drinking water,2019,31.97249,349062526.25622,Safely managed service
+who,Africa,rural,Drinking water,2019,14.08778,88973586.35883,Safely managed service
+who,Africa,urban,Drinking water,2019,56.51736,260088942.71219,Safely managed service
+who,Africa,total,Drinking water,2019,7.1327,77871891.7702,Surface water
+who,Africa,rural,Drinking water,2019,11.45769,72362860.64018,Surface water
+who,Africa,urban,Drinking water,2019,1.19711,5509029.983,Surface water
+who,Africa,total,Drinking water,2019,15.55321,169803544.95721,Unimproved
+who,Africa,rural,Drinking water,2019,23.29657,147133201.14523,Unimproved
+who,Africa,urban,Drinking water,2019,4.92627,22670345.2758,Unimproved
+who,Africa,total,Drinking water,2020,33.52697,375556171.34637,Basic service
+who,Africa,rural,Drinking water,2020,35.38996,227194322.51035,Basic service
+who,Africa,urban,Drinking water,2020,31.02589,148361849.97029,Basic service
+who,Africa,total,Drinking water,2020,12.36687,138528915.26287,Limited service
+who,Africa,rural,Drinking water,2020,16.60633,106608299.97921,Limited service
+who,Africa,urban,Drinking water,2020,6.67534,31920615.23438,Limited service
+who,Africa,total,Drinking water,2020,32.36523,362542806.25098,Safely managed service
+who,Africa,rural,Drinking water,2020,14.38232,92330780.83591,Safely managed service
+who,Africa,urban,Drinking water,2020,56.50758,270212029.11052,Safely managed service
+who,Africa,total,Drinking water,2020,6.6488,74477247.41195,Surface water
+who,Africa,rural,Drinking water,2020,10.78617,69244398.91738,Surface water
+who,Africa,urban,Drinking water,2020,1.09431,5232848.22457,Surface water
+who,Africa,total,Drinking water,2020,15.09212,169056126.22783,Unimproved
+who,Africa,rural,Drinking water,2020,22.83522,146596206.24015,Unimproved
+who,Africa,urban,Drinking water,2020,4.69689,22459914.86776,Unimproved
+who,Americas,total,Drinking water,2000,15.43204,127929897.93382,Basic service
+who,Americas,rural,Drinking water,2000,35.32303,68081398.7772,Basic service
+who,Americas,urban,Drinking water,2000,9.40645,59848497.96423,Basic service
+who,Americas,total,Drinking water,2000,0.55171,4573594.31085,Limited service
+who,Americas,rural,Drinking water,2000,1.65949,3198491.18433,Limited service
+who,Americas,urban,Drinking water,2000,0.21613,1375103.09901,Limited service
+who,Americas,total,Drinking water,2000,78.39885,649917632.72254,Safely managed service
+who,Americas,rural,Drinking water,2000,45.12254,86968913.52717,Safely managed service
+who,Americas,urban,Drinking water,2000,88.47926,562948707.84209,Safely managed service
+who,Americas,total,Drinking water,2000,1.66441,13797761.08804,Surface water
+who,Americas,rural,Drinking water,2000,6.27481,12094027.87136,Surface water
+who,Americas,urban,Drinking water,2000,0.26778,1703733.18528,Surface water
+who,Americas,total,Drinking water,2000,3.95299,32769883.94475,Unimproved
+who,Americas,rural,Drinking water,2000,11.62013,22396572.18295,Unimproved
+who,Americas,urban,Drinking water,2000,1.63039,10373328.54839,Unimproved
+who,Americas,total,Drinking water,2001,15.51319,130239491.83513,Basic service
+who,Americas,rural,Drinking water,2001,35.72092,68836554.19804,Basic service
+who,Americas,urban,Drinking water,2001,9.49285,61402939.05097,Basic service
+who,Americas,total,Drinking water,2001,0.53385,4481924.52615,Limited service
+who,Americas,rural,Drinking water,2001,1.61143,3105332.23413,Limited service
+who,Americas,urban,Drinking water,2001,0.21282,1376592.33686,Limited service
+who,Americas,total,Drinking water,2001,78.5712,659636772.90437,Safely managed service
+who,Americas,rural,Drinking water,2001,45.37523,87441041.13683,Safely managed service
+who,Americas,urban,Drinking water,2001,88.46103,572195740.31285,Safely managed service
+who,Americas,total,Drinking water,2001,1.61381,13548544.26067,Surface water
+who,Americas,rural,Drinking water,2001,6.14255,11837094.85553,Surface water
+who,Americas,urban,Drinking water,2001,0.26459,1711449.52748,Surface water
+who,Americas,total,Drinking water,2001,3.76795,31633465.47452,Unimproved
+who,Americas,rural,Drinking water,2001,11.14986,21486512.56548,Unimproved
+who,Americas,urban,Drinking water,2001,1.56871,10146949.95084,Unimproved
+who,Americas,total,Drinking water,2002,15.60661,132614390.60001,Basic service
+who,Americas,rural,Drinking water,2002,36.12862,69647183.81518,Basic service
+who,Americas,urban,Drinking water,2002,9.58468,62967206.32177,Basic service
+who,Americas,total,Drinking water,2002,0.51318,4360696.86638,Limited service
+who,Americas,rural,Drinking water,2002,1.55325,2994294.5915,Limited service
+who,Americas,urban,Drinking water,2002,0.20799,1366402.27266,Limited service
+who,Americas,total,Drinking water,2002,78.73375,669026057.23435,Safely managed service
+who,Americas,rural,Drinking water,2002,45.6545,88010768.11903,Safely managed service
+who,Americas,urban,Drinking water,2002,88.44044,581015282.10703,Safely managed service
+who,Americas,total,Drinking water,2002,1.57827,13411092.84521,Surface water
+who,Americas,rural,Drinking water,2002,6.0778,11716524.3347,Surface water
+who,Americas,urban,Drinking water,2002,0.25794,1694568.5468,Surface water
+who,Americas,total,Drinking water,2002,3.56819,30320029.4532,Unimproved
+who,Americas,rural,Drinking water,2002,10.58583,20406903.44079,Unimproved
+who,Americas,urban,Drinking water,2002,1.50895,9913130.79174,Unimproved
+who,Americas,total,Drinking water,2003,15.70163,134983767.1798,Basic service
+who,Americas,rural,Drinking water,2003,36.53572,70434788.11376,Basic service
+who,Americas,urban,Drinking water,2003,9.67901,64548980.39956,Basic service
+who,Americas,total,Drinking water,2003,0.49238,4232869.69695,Limited service
+who,Americas,rural,Drinking water,2003,1.49288,2878023.15591,Limited service
+who,Americas,urban,Drinking water,2003,0.20316,1354846.57313,Limited service
+who,Americas,total,Drinking water,2003,78.89062,678206797.81929,Safely managed service
+who,Americas,rural,Drinking water,2003,45.93225,88549720.36907,Safely managed service
+who,Americas,urban,Drinking water,2003,88.41807,589657087.93759,Safely managed service
+who,Americas,total,Drinking water,2003,1.52087,13074637.30734,Surface water
+who,Americas,rural,Drinking water,2003,5.92182,11416282.75197,Surface water
+who,Americas,urban,Drinking water,2003,0.24867,1658354.61917,Surface water
+who,Americas,total,Drinking water,2003,3.3945,29181854.29663,Unimproved
+who,Americas,rural,Drinking water,2003,10.11733,19504518.61549,Unimproved
+who,Americas,urban,Drinking water,2003,1.4511,9677328.00454,Unimproved
+who,Americas,total,Drinking water,2004,15.79524,137348571.48317,Basic service
+who,Americas,rural,Drinking water,2004,36.93318,71205244.79259,Basic service
+who,Americas,urban,Drinking water,2004,9.7735,66143327.56315,Basic service
+who,Americas,total,Drinking water,2004,0.47292,4112316.00442,Limited service
+who,Americas,rural,Drinking water,2004,1.43754,2771499.10766,Limited service
+who,Americas,urban,Drinking water,2004,0.19812,1340816.93464,Limited service
+who,Americas,total,Drinking water,2004,79.0424,687318687.39708,Safely managed service
+who,Americas,rural,Drinking water,2004,46.2045,89079865.88693,Safely managed service
+who,Americas,urban,Drinking water,2004,88.3972,598238820.97193,Safely managed service
+who,Americas,total,Drinking water,2004,1.46476,12736889.7742,Surface water
+who,Americas,rural,Drinking water,2004,5.76788,11120163.30078,Surface water
+who,Americas,urban,Drinking water,2004,0.23889,1616726.63782,Surface water
+who,Americas,total,Drinking water,2004,3.22469,28040517.34111,Unimproved
+who,Americas,rural,Drinking water,2004,9.65691,18618029.68105,Unimproved
+who,Americas,urban,Drinking water,2004,1.39229,9422484.83614,Unimproved
+who,Americas,total,Drinking water,2005,15.80843,139033103.72748,Basic service
+who,Americas,rural,Drinking water,2005,36.96867,71276956.73233,Basic service
+who,Americas,urban,Drinking water,2005,9.86716,67756146.9899,Basic service
+who,Americas,total,Drinking water,2005,0.4534,3987551.35431,Limited service
+who,Americas,rural,Drinking water,2005,1.37856,2657915.67861,Limited service
+who,Americas,urban,Drinking water,2005,0.19363,1329635.69798,Limited service
+who,Americas,total,Drinking water,2005,79.09519,695631788.03356,Safely managed service
+who,Americas,rural,Drinking water,2005,46.03753,88762042.78331,Safely managed service
+who,Americas,urban,Drinking water,2005,88.37696,606869735.30809,Safely managed service
+who,Americas,total,Drinking water,2005,1.40823,12385165.84217,Surface water
+who,Americas,rural,Drinking water,2005,5.61166,10819492.64383,Surface water
+who,Americas,urban,Drinking water,2005,0.22801,1565673.36323,Surface water
+who,Americas,total,Drinking water,2005,3.23476,28449280.04336,Unimproved
+who,Americas,rural,Drinking water,2005,10.00358,19287262.58992,Unimproved
+who,Americas,urban,Drinking water,2005,1.33424,9162025.3008,Unimproved
+who,Americas,total,Drinking water,2006,15.90201,141448613.57134,Basic service
+who,Americas,rural,Drinking water,2006,37.3736,72052144.56757,Basic service
+who,Americas,urban,Drinking water,2006,9.96056,69396469.42597,Basic service
+who,Americas,total,Drinking water,2006,0.43375,3858172.55625,Limited service
+who,Americas,rural,Drinking water,2006,1.31772,2540421.09736,Limited service
+who,Americas,urban,Drinking water,2006,0.18914,1317751.47889,Limited service
+who,Americas,total,Drinking water,2006,79.24497,704885169.87299,Safely managed service
+who,Americas,rural,Drinking water,2006,46.31302,89286347.17804,Safely managed service
+who,Americas,urban,Drinking water,2006,88.35764,615598820.90063,Safely managed service
+who,Americas,total,Drinking water,2006,1.35254,12030853.10184,Surface water
+who,Americas,rural,Drinking water,2006,5.45304,10512845.89298,Surface water
+who,Americas,urban,Drinking water,2006,0.21788,1518007.30781,Surface water
+who,Americas,total,Drinking water,2006,3.06674,27278705.89847,Unimproved
+who,Americas,rural,Drinking water,2006,9.54262,18397113.06587,Unimproved
+who,Americas,urban,Drinking water,2006,1.27478,8881585.2027,Unimproved
+who,Americas,total,Drinking water,2007,16.00077,143935315.95705,Basic service
+who,Americas,rural,Drinking water,2007,37.78016,72810439.91131,Basic service
+who,Americas,urban,Drinking water,2007,10.0625,71124877.97628,Basic service
+who,Americas,total,Drinking water,2007,0.4139,3723215.46409,Limited service
+who,Americas,rural,Drinking water,2007,1.25507,2418785.55109,Limited service
+who,Americas,urban,Drinking water,2007,0.18455,1304429.94469,Limited service
+who,Americas,total,Drinking water,2007,79.3873,714130552.20399,Safely managed service
+who,Americas,rural,Drinking water,2007,46.58687,89782849.49691,Safely managed service
+who,Americas,urban,Drinking water,2007,88.33052,624347721.37991,Safely managed service
+who,Americas,total,Drinking water,2007,1.29704,11667527.62497,Surface water
+who,Americas,rural,Drinking water,2007,5.29282,10200402.92201,Surface water
+who,Americas,urban,Drinking water,2007,0.20756,1467124.71574,Surface water
+who,Americas,total,Drinking water,2007,2.901,26095988.749,Unimproved
+who,Americas,rural,Drinking water,2007,9.08507,17508869.96287,Unimproved
+who,Americas,urban,Drinking water,2007,1.21488,8587119.50538,Unimproved
+who,Americas,total,Drinking water,2008,16.08711,146326560.85999,Basic service
+who,Americas,rural,Drinking water,2008,38.11132,73416216.83675,Basic service
+who,Americas,urban,Drinking water,2008,10.16948,72910342.69433,Basic service
+who,Americas,total,Drinking water,2008,0.39586,3600669.93208,Limited service
+who,Americas,rural,Drinking water,2008,1.19844,2308630.22849,Limited service
+who,Americas,urban,Drinking water,2008,0.18021,1292039.6806,Limited service
+who,Americas,total,Drinking water,2008,79.53673,723457382.72273,Safely managed service
+who,Americas,rural,Drinking water,2008,46.92605,90396594.25226,Safely managed service
+who,Americas,urban,Drinking water,2008,88.29881,633060776.65498,Safely managed service
+who,Americas,total,Drinking water,2008,1.24193,11296454.32042,Surface water
+who,Americas,rural,Drinking water,2008,5.13072,9883618.04529,Surface water
+who,Americas,urban,Drinking water,2008,0.19706,1412836.25342,Surface water
+who,Americas,total,Drinking water,2008,2.73838,24908014.16569,Unimproved
+who,Americas,rural,Drinking water,2008,8.63348,16631207.2034,Unimproved
+who,Americas,urban,Drinking water,2008,1.15444,8276814.84067,Unimproved
+who,Americas,total,Drinking water,2009,16.15967,148592969.39819,Basic service
+who,Americas,rural,Drinking water,2009,38.38787,73906683.43929,Basic service
+who,Americas,urban,Drinking water,2009,10.27316,74686285.78672,Basic service
+who,Americas,total,Drinking water,2009,0.39299,3613629.74894,Limited service
+who,Americas,rural,Drinking water,2009,1.19839,2307218.65226,Limited service
+who,Americas,urban,Drinking water,2009,0.1797,1306411.0852,Limited service
+who,Americas,total,Drinking water,2009,79.68119,732692408.13061,Safely managed service
+who,Americas,rural,Drinking water,2009,47.25985,90987572.24101,Safely managed service
+who,Americas,urban,Drinking water,2009,88.26705,641704839.127,Safely managed service
+who,Americas,total,Drinking water,2009,1.18795,10923565.5126,Surface water
+who,Americas,rural,Drinking water,2009,4.96957,9567718.77169,Surface water
+who,Americas,urban,Drinking water,2009,0.1865,1355846.66651,Surface water
+who,Americas,total,Drinking water,2009,2.57821,23707379.18058,Unimproved
+who,Americas,rural,Drinking water,2009,8.18432,15756958.10576,Unimproved
+who,Americas,urban,Drinking water,2009,1.09359,7950424.3443,Unimproved
+who,Americas,total,Drinking water,2010,16.35718,152009589.79041,Basic service
+who,Americas,rural,Drinking water,2010,38.71595,74473282.38733,Basic service
+who,Americas,urban,Drinking water,2010,10.52116,77536307.00555,Basic service
+who,Americas,total,Drinking water,2010,0.3904,3628067.5943,Limited service
+who,Americas,rural,Drinking water,2010,1.19874,2305867.21125,Limited service
+who,Americas,urban,Drinking water,2010,0.17941,1322200.36687,Limited service
+who,Americas,total,Drinking water,2010,79.72733,740917236.79825,Safely managed service
+who,Americas,rural,Drinking water,2010,47.65681,91671767.96734,Safely managed service
+who,Americas,urban,Drinking water,2010,88.09828,649245470.45546,Safely managed service
+who,Americas,total,Drinking water,2010,1.13439,10542023.92425,Surface water
+who,Americas,rural,Drinking water,2010,4.80663,9245939.23414,Surface water
+who,Americas,urban,Drinking water,2010,0.17587,1296084.60902,Surface water
+who,Americas,total,Drinking water,2010,2.3907,22217101.8928,Unimproved
+who,Americas,rural,Drinking water,2010,7.62187,14661295.50894,Unimproved
+who,Americas,urban,Drinking water,2010,1.02527,7555804.97611,Unimproved
+who,Americas,total,Drinking water,2011,16.55523,155442171.86619,Basic service
+who,Americas,rural,Drinking water,2011,39.04379,75007105.60354,Basic service
+who,Americas,urban,Drinking water,2011,10.77033,80435067.99098,Basic service
+who,Americas,total,Drinking water,2011,0.388,3643083.22739,Limited service
+who,Americas,rural,Drinking water,2011,1.19971,2304772.49947,Limited service
+who,Americas,urban,Drinking water,2011,0.1792,1338310.77982,Limited service
+who,Americas,total,Drinking water,2011,79.76942,748979652.86608,Safely managed service
+who,Americas,rural,Drinking water,2011,48.05146,92311765.07777,Safely managed service
+who,Americas,urban,Drinking water,2011,87.92847,656667890.78302,Safely managed service
+who,Americas,total,Drinking water,2011,1.08125,10152209.39132,Surface water
+who,Americas,rural,Drinking water,2011,4.64234,8918413.84552,Surface water
+who,Americas,urban,Drinking water,2011,0.16521,1233795.73856,Surface water
+who,Americas,total,Drinking water,2011,2.20609,20713695.64902,Unimproved
+who,Americas,rural,Drinking water,2011,7.0627,13568162.2797,Unimproved
+who,Americas,urban,Drinking water,2011,0.95679,7145535.71237,Unimproved
+who,Americas,total,Drinking water,2012,16.75583,158911356.56032,Basic service
+who,Americas,rural,Drinking water,2012,39.36989,75530622.28391,Basic service
+who,Americas,urban,Drinking water,2012,11.02124,83380734.99826,Basic service
+who,Americas,total,Drinking water,2012,0.38563,3657265.95334,Limited service
+who,Americas,rural,Drinking water,2012,1.20104,2304183.03381,Limited service
+who,Americas,urban,Drinking water,2012,0.17885,1353082.93774,Limited service
+who,Americas,total,Drinking water,2012,79.80538,756869834.49852,Safely managed service
+who,Americas,rural,Drinking water,2012,48.44767,92946234.25347,Safely managed service
+who,Americas,urban,Drinking water,2012,87.75723,663923602.65133,Safely managed service
+who,Americas,total,Drinking water,2012,1.0286,9755217.85226,Surface water
+who,Americas,rural,Drinking water,2012,4.47567,8586508.22171,Surface water
+who,Americas,urban,Drinking water,2012,0.15448,1168709.68997,Surface water
+who,Americas,total,Drinking water,2012,2.02456,19200774.13652,Unimproved
+who,Americas,rural,Drinking water,2012,6.50574,12481171.9741,Unimproved
+who,Americas,urban,Drinking water,2012,0.88819,6719596.39494,Unimproved
+who,Americas,total,Drinking water,2013,16.86769,161541365.45193,Basic service
+who,Americas,rural,Drinking water,2013,39.25007,75177471.93358,Basic service
+who,Americas,urban,Drinking water,2013,11.27227,86363893.86911,Basic service
+who,Americas,total,Drinking water,2013,0.38267,3664856.33038,Limited service
+who,Americas,rural,Drinking water,2013,1.20127,2300850.21073,Limited service
+who,Americas,urban,Drinking water,2013,0.17803,1364006.12669,Limited service
+who,Americas,total,Drinking water,2013,79.92173,765408067.10773,Safely managed service
+who,Americas,rural,Drinking water,2013,49.26035,94350613.91829,Safely managed service
+who,Americas,urban,Drinking water,2013,87.58683,671057455.49342,Safely managed service
+who,Americas,total,Drinking water,2013,0.96699,9260821.92519,Surface water
+who,Americas,rural,Drinking water,2013,4.2481,8136582.11365,Surface water
+who,Americas,urban,Drinking water,2013,0.14674,1124239.82212,Surface water
+who,Americas,total,Drinking water,2013,1.86092,17821990.18381,Unimproved
+who,Americas,rural,Drinking water,2013,6.04021,11569099.67675,Unimproved
+who,Americas,urban,Drinking water,2013,0.81613,6252887.86766,Unimproved
+who,Americas,total,Drinking water,2014,16.97921,164160842.92104,Basic service
+who,Americas,rural,Drinking water,2014,39.135,74811590.8003,Basic service
+who,Americas,urban,Drinking water,2014,11.51895,89349253.33723,Basic service
+who,Americas,total,Drinking water,2014,0.37871,3661499.90639,Limited service
+who,Americas,rural,Drinking water,2014,1.19858,2291237.58756,Limited service
+who,Americas,urban,Drinking water,2014,0.17665,1370262.35287,Limited service
+who,Americas,total,Drinking water,2014,80.03644,773819965.88095,Safely managed service
+who,Americas,rural,Drinking water,2014,50.06733,95710132.60778,Safely managed service
+who,Americas,urban,Drinking water,2014,87.42228,678109836.13051,Safely managed service
+who,Americas,total,Drinking water,2014,0.90193,8720204.82208,Surface water
+who,Americas,rural,Drinking water,2014,4.02249,7689498.98137,Surface water
+who,Americas,urban,Drinking water,2014,0.13288,1030705.94707,Surface water
+who,Americas,total,Drinking water,2014,1.70371,16472025.46857,Unimproved
+who,Americas,rural,Drinking water,2014,5.5766,10660397.3716,Unimproved
+who,Americas,urban,Drinking water,2014,0.74924,5811625.93133,Unimproved
+who,Americas,total,Drinking water,2015,17.08651,166730797.16617,Basic service
+who,Americas,rural,Drinking water,2015,39.02452,74435039.8242,Basic service
+who,Americas,urban,Drinking water,2015,11.75645,92295754.01107,Basic service
+who,Americas,total,Drinking water,2015,0.37406,3650128.03517,Limited service
+who,Americas,rural,Drinking water,2015,1.19531,2279917.41029,Limited service
+who,Americas,urban,Drinking water,2015,0.17453,1370210.56041,Limited service
+who,Americas,total,Drinking water,2015,80.15346,782140660.80126,Safely managed service
+who,Americas,rural,Drinking water,2015,50.86661,97022548.40421,Safely managed service
+who,Americas,urban,Drinking water,2015,87.26899,685118093.5484,Safely managed service
+who,Americas,total,Drinking water,2015,0.80892,7893505.96397,Surface water
+who,Americas,rural,Drinking water,2015,3.79794,7244149.68316,Surface water
+who,Americas,urban,Drinking water,2015,0.08271,649356.17046,Surface water
+who,Americas,total,Drinking water,2015,1.57704,15388852.03342,Unimproved
+who,Americas,rural,Drinking water,2015,5.11563,9757507.95333,Unimproved
+who,Americas,urban,Drinking water,2015,0.71731,5631355.68366,Unimproved
+who,Americas,total,Drinking water,2016,17.18384,169191659.21706,Basic service
+who,Americas,rural,Drinking water,2016,38.91793,74049377.65697,Basic service
+who,Americas,urban,Drinking water,2016,11.97773,95142280.21095,Basic service
+who,Americas,total,Drinking water,2016,0.36971,3640154.54357,Limited service
+who,Americas,rural,Drinking water,2016,1.18853,2261420.9073,Limited service
+who,Americas,urban,Drinking water,2016,0.17357,1378733.61125,Limited service
+who,Americas,total,Drinking water,2016,80.25912,790229069.03089,Safely managed service
+who,Americas,rural,Drinking water,2016,51.56474,98112546.00299,Safely managed service
+who,Americas,urban,Drinking water,2016,87.13248,692116515.24375,Safely managed service
+who,Americas,total,Drinking water,2016,0.74479,7333192.70222,Surface water
+who,Americas,rural,Drinking water,2016,3.56874,6790264.11002,Surface water
+who,Americas,urban,Drinking water,2016,0.06835,542928.55481,Surface water
+who,Americas,total,Drinking water,2016,1.44253,14203152.50725,Unimproved
+who,Americas,rural,Drinking water,2016,4.76006,9056995.93473,Unimproved
+who,Americas,urban,Drinking water,2016,0.64786,5146162.24545,Unimproved
+who,Americas,total,Drinking water,2017,17.29654,171791336.03794,Basic service
+who,Americas,rural,Drinking water,2017,38.74482,73514262.88825,Basic service
+who,Americas,urban,Drinking water,2017,12.23154,98277075.32958,Basic service
+who,Americas,total,Drinking water,2017,0.34074,3384319.17985,Limited service
+who,Americas,rural,Drinking water,2017,1.23589,2344968.43241,Limited service
+who,Americas,urban,Drinking water,2017,0.12936,1039350.77196,Limited service
+who,Americas,total,Drinking water,2017,80.3923,798466013.05878,Safely managed service
+who,Americas,rural,Drinking water,2017,52.39997,99423476.9394,Safely managed service
+who,Americas,urban,Drinking water,2017,87.00268,699042551.20345,Safely managed service
+who,Americas,total,Drinking water,2017,0.70454,6997556.40505,Surface water
+who,Americas,rural,Drinking water,2017,3.40869,6467624.81286,Surface water
+who,Americas,urban,Drinking water,2017,0.06596,529931.61008,Surface water
+who,Americas,total,Drinking water,2017,1.26587,12572822.61939,Unimproved
+who,Americas,rural,Drinking water,2017,4.21063,7989239.19307,Unimproved
+who,Americas,urban,Drinking water,2017,0.57047,4583565.79074,Unimproved
+who,Americas,total,Drinking water,2018,17.37583,174047035.78483,Basic service
+who,Americas,rural,Drinking water,2018,38.63463,73074848.10263,Basic service
+who,Americas,urban,Drinking water,2018,12.42707,100972188.5564,Basic service
+who,Americas,total,Drinking water,2018,0.34192,3424846.93366,Limited service
+who,Americas,rural,Drinking water,2018,1.24884,2362099.20518,Limited service
+who,Americas,urban,Drinking water,2018,0.1308,1062747.75565,Limited service
+who,Americas,total,Drinking water,2018,80.50224,806360043.28591,Safely managed service
+who,Americas,rural,Drinking water,2018,53.11045,100454892.51729,Safely managed service
+who,Americas,urban,Drinking water,2018,86.87869,705905152.30628,Safely managed service
+who,Americas,total,Drinking water,2018,0.65398,6550630.31055,Surface water
+who,Americas,rural,Drinking water,2018,3.38429,6401157.28236,Surface water
+who,Americas,urban,Drinking water,2018,0.0184,149473.09944,Surface water
+who,Americas,total,Drinking water,2018,1.12603,11279043.98504,Unimproved
+who,Americas,rural,Drinking water,2018,3.62179,6850374.58055,Unimproved
+who,Americas,urban,Drinking water,2018,0.54505,4428650.85741,Unimproved
+who,Americas,total,Drinking water,2019,17.45057,176244679.39475,Basic service
+who,Americas,rural,Drinking water,2019,38.53192,72616288.49754,Basic service
+who,Americas,urban,Drinking water,2019,12.61442,103628393.281,Basic service
+who,Americas,total,Drinking water,2019,0.33475,3380839.84165,Limited service
+who,Americas,rural,Drinking water,2019,1.21791,2295244.85925,Limited service
+who,Americas,urban,Drinking water,2019,0.13215,1085595.01631,Limited service
+who,Americas,total,Drinking water,2019,80.59425,813973674.18412,Safely managed service
+who,Americas,rural,Drinking water,2019,53.86158,101506177.36966,Safely managed service
+who,Americas,urban,Drinking water,2019,86.72684,712467510.80638,Safely managed service
+who,Americas,total,Drinking water,2019,0.59542,6013569.44069,Surface water
+who,Americas,rural,Drinking water,2019,3.11621,5872734.0543,Surface water
+who,Americas,urban,Drinking water,2019,0.01714,140835.42506,Surface water
+who,Americas,total,Drinking water,2019,1.02501,10352217.13778,Unimproved
+who,Americas,rural,Drinking water,2019,3.27237,6167027.29725,Unimproved
+who,Americas,urban,Drinking water,2019,0.50945,4185161.22007,Unimproved
+who,Americas,total,Drinking water,2020,17.53307,178510499.11464,Basic service
+who,Americas,rural,Drinking water,2020,38.65953,72558883.82317,Basic service
+who,Americas,urban,Drinking water,2020,12.75835,105951616.1211,Basic service
+who,Americas,total,Drinking water,2020,0.28208,2871994.08204,Limited service
+who,Americas,rural,Drinking water,2020,0.94231,1768601.9347,Limited service
+who,Americas,urban,Drinking water,2020,0.13287,1103392.1464,Limited service
+who,Americas,total,Drinking water,2020,80.70283,821664679.77395,Safely managed service
+who,Americas,rural,Drinking water,2020,54.61279,102501066.54937,Safely managed service
+who,Americas,urban,Drinking water,2020,86.59935,719163622.82918,Safely managed service
+who,Americas,total,Drinking water,2020,0.54517,5550531.3046,Surface water
+who,Americas,rural,Drinking water,2020,2.8869,5418337.34798,Surface water
+who,Americas,urban,Drinking water,2020,0.01592,132193.90341,Surface water
+who,Americas,total,Drinking water,2020,0.93685,9538430.72476,Unimproved
+who,Americas,rural,Drinking water,2020,2.89846,5440035.08598,Unimproved
+who,Americas,urban,Drinking water,2020,0.49351,4098381.3139,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2000,27.41885,130836739.46781,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2000,32.18375,81598978.63794,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2000,22.01681,49237759.15677,Basic service
+who,Eastern Mediterranean,total,Drinking water,2000,4.20165,20049333.10301,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2000,5.64619,14315400.28297,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2000,2.56394,5733932.58303,Limited service
+who,Eastern Mediterranean,total,Drinking water,2000,53.38114,254723145.96151,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2000,37.95569,96233222.31397,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2000,70.86922,158489919.7195,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2000,4.56365,21776731.94987,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2000,8.02703,20351811.30816,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2000,0.63716,1424920.4356,Surface water
+who,Eastern Mediterranean,total,Drinking water,2000,10.43471,49792176.5178,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2000,16.18734,41041549.86496,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2000,3.91287,8750629.5351,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2001,27.56863,134553903.73401,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2001,32.42176,83741117.25367,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2001,22.11346,50812788.193,Basic service
+who,Eastern Mediterranean,total,Drinking water,2001,4.24071,20697607.60184,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2001,5.7205,14775291.691,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2001,2.57736,5922316.19972,Limited service
+who,Eastern Mediterranean,total,Drinking water,2001,53.44604,260853517.77354,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2001,37.98933,98121438.73298,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2001,70.82015,162732081.48935,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2001,4.49893,21957901.9774,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2001,7.94013,20508317.34195,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2001,0.63085,1449585.00762,Surface water
+who,Eastern Mediterranean,total,Drinking water,2001,10.24569,50006033.9137,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2001,15.92828,41140645.69296,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2001,3.85817,8865390.14031,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2002,27.78955,138726125.841,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2002,32.75379,86187174.56775,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2002,22.25604,52538954.83939,Basic service
+who,Eastern Mediterranean,total,Drinking water,2002,4.27856,21358673.31154,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2002,5.79283,15243059.44534,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2002,2.59064,6115614.45489,Limited service
+who,Eastern Mediterranean,total,Drinking water,2002,53.52502,267198293.66888,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2002,38.05529,100137371.9663,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2002,70.76872,167060927.25904,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2002,4.40094,21969606.72983,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2002,7.79807,20519566.26551,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2002,0.61425,1450041.16583,Surface water
+who,Eastern Mediterranean,total,Drinking water,2002,10.00593,49949870.44875,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2002,15.60001,41049333.4921,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2002,3.77036,8900530.36085,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2003,28.01684,143052148.99356,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2003,33.10336,88721347.63313,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2003,22.39704,54330804.10324,Basic service
+who,Eastern Mediterranean,total,Drinking water,2003,4.33779,22148483.55567,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2003,5.90395,15823371.21992,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2003,2.60743,6325112.82534,Limited service
+who,Eastern Mediterranean,total,Drinking water,2003,53.64566,273911206.32749,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2003,38.17961,102326368.61904,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2003,70.73321,171584840.86482,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2003,4.29353,21922489.40732,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2003,7.6403,20477005.49343,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2003,0.59588,1445484.54781,Surface water
+who,Eastern Mediterranean,total,Drinking water,2003,9.70618,49559113.71544,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2003,15.17278,40665044.61248,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2003,3.66644,8894064.51878,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2004,28.24073,147485963.36639,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2004,33.45983,91305161.24737,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2004,22.52948,56180801.53668,Basic service
+who,Eastern Mediterranean,total,Drinking water,2004,4.39754,22965944.68615,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2004,6.01797,16421832.02123,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2004,2.6243,6544112.65453,Limited service
+who,Eastern Mediterranean,total,Drinking water,2004,53.78524,280891031.44731,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2004,38.3158,104556101.50883,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2004,70.71339,176334926.30231,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2004,4.17904,21824873.72576,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2004,7.47046,20385370.69974,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2004,0.57727,1439503.19001,Surface water
+who,Eastern Mediterranean,total,Drinking water,2004,9.39745,49077770.77439,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2004,14.73594,40211425.82882,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2004,3.55556,8866346.41647,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2005,28.50827,152279330.1103,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2005,33.86791,94011232.10591,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2005,22.70985,58268099.1973,Basic service
+who,Eastern Mediterranean,total,Drinking water,2005,4.57288,24426423.08704,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2005,6.1892,17180109.62707,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2005,2.82423,7246313.67636,Limited service
+who,Eastern Mediterranean,total,Drinking water,2005,53.91364,287984245.37624,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2005,38.54874,107004391.18555,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2005,70.53645,180979855.59651,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2005,4.03359,21545774.81917,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2005,7.25636,20142358.65482,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2005,0.54698,1403416.41543,Surface water
+who,Eastern Mediterranean,total,Drinking water,2005,8.97162,47922638.60725,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2005,14.13779,39243961.72792,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2005,3.38249,8678677.38439,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2006,28.84252,157578234.48531,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2006,34.29434,96781445.67152,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2006,23.0176,60796788.16381,Basic service
+who,Eastern Mediterranean,total,Drinking water,2006,4.6769,25551777.89843,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2006,6.36003,17948528.49564,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2006,2.87858,7603249.30237,Limited service
+who,Eastern Mediterranean,total,Drinking water,2006,54.07033,295407830.06491,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2006,38.79712,109488645.77414,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2006,70.3888,185919182.92026,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2006,3.87858,21190217.54813,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2006,7.0272,19831321.93925,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2006,0.51448,1358895.53599,Surface water
+who,Eastern Mediterranean,total,Drinking water,2006,8.53166,46611894.00268,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2006,13.52131,38158239.86374,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2006,3.20054,8453652.79757,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2007,29.18675,163091710.64587,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2007,34.70265,99687053.47208,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2007,23.35122,63404656.64411,Basic service
+who,Eastern Mediterranean,total,Drinking water,2007,4.76384,26619689.27982,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2007,6.5205,18730819.23409,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2007,2.90538,7888870.05042,Limited service
+who,Eastern Mediterranean,total,Drinking water,2007,54.21371,302939006.26444,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2007,39.03638,112136151.90186,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2007,70.27054,190802850.67786,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2007,3.73408,20865518.71905,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2007,6.81187,19567823.46134,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2007,0.47793,1297695.4418,Surface water
+who,Eastern Mediterranean,total,Drinking water,2007,8.10163,45270818.99082,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2007,12.92861,37138802.83663,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2007,2.99493,8132017.29581,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2008,29.53868,168804263.46637,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2008,35.17094,102656843.45729,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2008,23.65883,66147421.49892,Basic service
+who,Eastern Mediterranean,total,Drinking water,2008,4.84607,27693746.45412,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2008,6.66143,19443363.66914,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2008,2.9509,8250383.05878,Limited service
+who,Eastern Mediterranean,total,Drinking water,2008,54.39645,310858575.18342,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2008,39.32335,114776906.06454,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2008,70.13218,196081671.02292,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2008,3.56707,20384683.09591,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2008,6.55793,19141270.85004,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2008,0.44473,1243412.50217,Surface water
+who,Eastern Mediterranean,total,Drinking water,2008,7.65172,43727194.7996,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2008,12.28635,35861372.36929,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2008,2.81335,7865822.04749,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2009,29.89575,174693592.03357,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2009,35.63886,105675177.1094,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2009,23.97923,69018413.05789,Basic service
+who,Eastern Mediterranean,total,Drinking water,2009,4.92517,28779852.64244,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2009,6.79672,20153397.78023,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2009,2.99711,8626454.50895,Limited service
+who,Eastern Mediterranean,total,Drinking water,2009,54.56468,318844584.39271,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2009,39.60495,117435271.1759,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2009,69.97611,201409311.0785,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2009,3.4049,19896297.04349,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2009,6.31355,18720727.60327,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2009,0.40843,1175569.11512,Surface water
+who,Eastern Mediterranean,total,Drinking water,2009,7.2095,42128150.88837,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2009,11.64592,34532104.53249,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2009,2.63911,7596052.24982,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2010,30.26054,180767681.52004,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2010,36.10289,108731605.27974,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2010,24.32013,72036077.5431,Basic service
+who,Eastern Mediterranean,total,Drinking water,2010,5.00186,29879656.49573,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2010,6.92637,20860247.43228,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2010,3.04505,9019409.37415,Limited service
+who,Eastern Mediterranean,total,Drinking water,2010,54.7106,326825172.88929,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2010,39.87695,120097995.71719,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2010,69.79324,206727176.99363,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2010,3.2476,19400246.48206,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2010,6.0741,18293465.34823,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2010,0.37366,1106781.49262,Surface water
+who,Eastern Mediterranean,total,Drinking water,2010,6.77939,40498125.61347,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2010,11.01968,33188126.31255,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2010,2.46793,7310000.5965,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2011,30.64125,187079996.33459,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2011,36.56492,111939441.46011,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2011,24.68396,75140555.2982,Basic service
+who,Eastern Mediterranean,total,Drinking water,2011,5.0801,31016493.90878,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2011,7.05499,21598077.13173,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2011,3.09399,9418416.89335,Limited service
+who,Eastern Mediterranean,total,Drinking water,2011,54.82115,334710210.78578,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2011,40.14572,122901667.65968,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2011,69.57991,211808542.71925,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2011,3.09805,18915126.58613,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2011,5.83758,17871115.19611,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2011,0.34296,1044011.53178,Surface water
+who,Eastern Mediterranean,total,Drinking water,2011,6.35945,38827567.18472,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2011,10.39678,31828599.29538,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2011,2.29919,6998969.31772,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2012,31.036,193623126.71216,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2012,37.02435,115257713.09425,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2012,25.07181,78365414.99508,Basic service
+who,Eastern Mediterranean,total,Drinking water,2012,5.15021,32130408.47448,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2012,7.16907,22317499.90993,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2012,3.13949,9812908.7599,Limited service
+who,Eastern Mediterranean,total,Drinking water,2012,54.9058,342538771.14714,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2012,40.4024,125773664.16312,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2012,69.35067,216765110.23376,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2012,2.95633,18443529.9554,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2012,5.61189,17469947.99746,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2012,0.31148,973582.02187,Surface water
+who,Eastern Mediterranean,total,Drinking water,2012,5.95167,37130446.7102,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2012,9.79228,30483618.91655,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2012,2.12655,6646827.33939,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2013,31.43451,200321616.97815,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2013,37.48551,118634943.45889,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2013,25.46467,81686674.20458,Basic service
+who,Eastern Mediterranean,total,Drinking water,2013,5.21924,33260484.00843,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2013,7.27802,23033637.25206,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2013,3.18808,10226846.87283,Limited service
+who,Eastern Mediterranean,total,Drinking water,2013,54.9834,350390777.56856,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2013,40.65951,128680085.70244,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2013,69.11519,221710692.99943,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2013,2.81561,17942918.45201,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2013,5.38619,17046334.77048,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2013,0.2795,896583.7484,Surface water
+who,Eastern Mediterranean,total,Drinking water,2013,5.54724,35350698.99222,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2013,9.19078,29087170.79613,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2013,1.95257,6263527.35476,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2014,31.8334,207134399.19492,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2014,37.95327,122074516.21307,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2014,25.85105,85059882.53625,Basic service
+who,Eastern Mediterranean,total,Drinking water,2014,5.28683,34400490.18844,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2014,7.38287,23746581.4992,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2014,3.23789,10653908.54449,Limited service
+who,Eastern Mediterranean,total,Drinking water,2014,55.06397,358291709.69142,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2014,40.92107,131620280.54105,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2014,68.88905,226671429.99076,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2014,2.67579,17410898.55997,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2014,5.16086,16599600.3531,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2014,0.24657,811298.04123,Surface water
+who,Eastern Mediterranean,total,Drinking water,2014,5.14001,33445185.36525,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2014,8.58193,27603282.08759,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2014,1.77545,5841904.69727,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2015,32.22287,213981900.62051,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2015,38.42567,125469688.11055,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2015,26.22252,88512211.58986,Basic service
+who,Eastern Mediterranean,total,Drinking water,2015,5.35164,35538536.51722,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2015,7.48261,24432643.10277,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2015,3.29022,11105893.20197,Limited service
+who,Eastern Mediterranean,total,Drinking water,2015,55.1617,366311427.6787,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2015,41.18601,134482905.09792,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2015,68.68124,231828522.33709,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2015,2.53313,16821699.34729,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2015,4.9321,16104586.02435,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2015,0.21245,717113.14704,Surface water
+who,Eastern Mediterranean,total,Drinking water,2015,4.73066,31414805.83695,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2015,7.9736,26035848.24972,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2015,1.59356,5378957.3337,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2016,32.60915,220887603.24686,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2016,38.90648,128930282.9939,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2016,26.57771,91957321.36034,Basic service
+who,Eastern Mediterranean,total,Drinking water,2016,5.41243,36662711.05444,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2016,7.57918,25116269.9338,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2016,3.33718,11546441.36774,Limited service
+who,Eastern Mediterranean,total,Drinking water,2016,55.2579,374305554.30096,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2016,41.45918,137389545.42299,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2016,68.47399,236916009.37822,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2016,2.38976,16187765.95019,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2016,4.69568,15560784.6548,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2016,0.18121,626981.48017,Surface water
+who,Eastern Mediterranean,total,Drinking water,2016,4.33076,29335664.44754,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2016,7.35948,24388228.80351,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2016,1.42992,4947434.82354,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2017,32.97571,227738790.16222,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2017,39.35896,132325937.9755,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2017,26.92061,95412848.38227,Basic service
+who,Eastern Mediterranean,total,Drinking water,2017,5.43792,37555710.73027,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2017,7.61188,25591336.50808,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2017,3.37573,11964373.662,Limited service
+who,Eastern Mediterranean,total,Drinking water,2017,55.30381,381942353.58613,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2017,41.65358,140040494.24274,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2017,68.2523,241901851.50556,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2017,2.2419,15483126.5954,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2017,4.43594,14913737.34955,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2017,0.16065,569389.09231,Surface water
+who,Eastern Mediterranean,total,Drinking water,2017,4.04066,27905832.92529,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2017,6.93965,23331284.62779,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2017,1.29071,4574557.96751,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2018,33.33725,234654975.03565,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2018,39.80534,135723924.9853,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2018,27.26026,98931053.62627,Basic service
+who,Eastern Mediterranean,total,Drinking water,2018,5.46599,38474140.91693,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2018,7.64781,26076681.7661,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2018,3.4161,12397459.98366,Limited service
+who,Eastern Mediterranean,total,Drinking water,2018,55.34909,389592443.62534,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2018,41.85059,142697600.66457,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2018,68.03139,246894843.56605,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2018,2.09217,14726432.89116,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2018,4.17252,14227016.67012,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2018,0.13761,499416.81393,Surface water
+who,Eastern Mediterranean,total,Drinking water,2018,3.75549,26434243.53092,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2018,6.52372,22243885.99691,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2018,1.15464,4190358.21009,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2019,33.57116,240791738.97134,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2019,40.25003,139150614.71295,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2019,27.35655,101641125.99072,Basic service
+who,Eastern Mediterranean,total,Drinking water,2019,5.49319,39400361.06082,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2019,7.68104,26554556.78751,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2019,3.45743,12845804.65632,Limited service
+who,Eastern Mediterranean,total,Drinking water,2019,55.50593,398120562.53598,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2019,42.04627,145360499.99339,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2019,68.02998,252760063.17722,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2019,1.94447,13946894.21375,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2019,3.90442,13498190.07036,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2019,0.12077,448704.38694,Surface water
+who,Eastern Mediterranean,total,Drinking water,2019,3.48524,24998148.2174,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2019,6.11823,21151678.75344,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2019,1.03527,3846461.82842,Unimproved
+who,Eastern Mediterranean,total,Drinking water,2020,33.78897,246937266.8995,Basic service
+who,Eastern Mediterranean,rural,Drinking water,2020,40.69112,142603798.29466,Basic service
+who,Eastern Mediterranean,urban,Drinking water,2020,27.42962,104333471.21204,Basic service
+who,Eastern Mediterranean,total,Drinking water,2020,5.52023,40343052.86962,Limited service
+who,Eastern Mediterranean,rural,Drinking water,2020,7.71136,27024781.99406,Limited service
+who,Eastern Mediterranean,urban,Drinking water,2020,3.50142,13318271.27192,Limited service
+who,Eastern Mediterranean,total,Drinking water,2020,55.64811,406688732.85706,Safely managed service
+who,Eastern Mediterranean,rural,Drinking water,2020,42.23535,148015611.72081,Safely managed service
+who,Eastern Mediterranean,urban,Drinking water,2020,68.00604,258673126.12015,Safely managed service
+who,Eastern Mediterranean,total,Drinking water,2020,1.80371,13181911.51493,Surface water
+who,Eastern Mediterranean,rural,Drinking water,2020,3.63563,12741233.55108,Surface water
+who,Eastern Mediterranean,urban,Drinking water,2020,0.11586,440678.06228,Surface water
+who,Eastern Mediterranean,total,Drinking water,2020,3.23899,23671247.85962,Unimproved
+who,Eastern Mediterranean,rural,Drinking water,2020,5.72653,20068886.26974,Unimproved
+who,Eastern Mediterranean,urban,Drinking water,2020,0.94707,3602349.96361,Unimproved
+who,Europe,total,Drinking water,2000,9.64737,83511237.90497,Basic service
+who,Europe,rural,Drinking water,2000,20.13562,54336975.34912,Basic service
+who,Europe,urban,Drinking water,2000,4.8968,29174262.85599,Basic service
+who,Europe,total,Drinking water,2000,0.82065,7103817.67628,Limited service
+who,Europe,rural,Drinking water,2000,1.6875,4553807.87774,Limited service
+who,Europe,urban,Drinking water,2000,0.42801,2550009.82251,Limited service
+who,Europe,total,Drinking water,2000,86.97736,752908300.36171,Safely managed service
+who,Europe,rural,Drinking water,2000,71.42469,192743098.26129,Safely managed service
+who,Europe,urban,Drinking water,2000,94.02182,560165201.11383,Safely managed service
+who,Europe,total,Drinking water,2000,0.82007,7098841.32588,Surface water
+who,Europe,rural,Drinking water,2000,2.36871,6392089.30275,Surface water
+who,Europe,urban,Drinking water,2000,0.11863,706752.07073,Surface water
+who,Europe,total,Drinking water,2000,1.73455,15014915.73003,Unimproved
+who,Europe,rural,Drinking water,2000,4.38347,11829016.83442,Unimproved
+who,Europe,urban,Drinking water,2000,0.53474,3185899.35994,Unimproved
+who,Europe,total,Drinking water,2001,9.61508,83405168.19479,Basic service
+who,Europe,rural,Drinking water,2001,20.19938,54356012.71847,Basic service
+who,Europe,urban,Drinking water,2001,4.85493,29049156.44926,Basic service
+who,Europe,total,Drinking water,2001,0.79218,6871694.04833,Limited service
+who,Europe,rural,Drinking water,2001,1.61084,4334729.40631,Limited service
+who,Europe,urban,Drinking water,2001,0.424,2536964.72213,Limited service
+who,Europe,total,Drinking water,2001,87.09204,755472362.3055,Safely managed service
+who,Europe,rural,Drinking water,2001,71.55072,192541096.77405,Safely managed service
+who,Europe,urban,Drinking water,2001,94.08155,562931274.12375,Safely managed service
+who,Europe,total,Drinking water,2001,0.80164,6953792.97438,Surface water
+who,Europe,rural,Drinking water,2001,2.32651,6260577.09705,Surface water
+who,Europe,urban,Drinking water,2001,0.11586,693215.96032,Surface water
+who,Europe,total,Drinking water,2001,1.69906,14738343.777,Unimproved
+who,Europe,rural,Drinking water,2001,4.31255,11604954.98422,Unimproved
+who,Europe,urban,Drinking water,2001,0.52368,3133382.40055,Unimproved
+who,Europe,total,Drinking water,2002,9.55343,83081754.95581,Basic service
+who,Europe,rural,Drinking water,2002,20.21751,54198999.04489,Basic service
+who,Europe,urban,Drinking water,2002,4.8012,28882756.21565,Basic service
+who,Europe,total,Drinking water,2002,0.76409,6644972.74568,Limited service
+who,Europe,rural,Drinking water,2002,1.53811,4123370.50682,Limited service
+who,Europe,urban,Drinking water,2002,0.41917,2521602.26114,Limited service
+who,Europe,total,Drinking water,2002,87.26739,758924025.64384,Safely managed service
+who,Europe,rural,Drinking water,2002,71.80553,192495934.72669,Safely managed service
+who,Europe,urban,Drinking water,2002,94.15766,566428091.46113,Safely managed service
+who,Europe,total,Drinking water,2002,0.7806,6788499.26336,Surface water
+who,Europe,rural,Drinking water,2002,2.27792,6106633.99598,Surface water
+who,Europe,urban,Drinking water,2002,0.11335,681865.30471,Surface water
+who,Europe,total,Drinking water,2002,1.63449,14214414.79217,Unimproved
+who,Europe,rural,Drinking water,2002,4.16094,11154616.41822,Unimproved
+who,Europe,urban,Drinking water,2002,0.50863,3059798.47678,Unimproved
+who,Europe,total,Drinking water,2003,9.48559,82734811.2188,Basic service
+who,Europe,rural,Drinking water,2003,20.22829,54018030.98897,Basic service
+who,Europe,urban,Drinking water,2003,4.74521,28716780.93261,Basic service
+who,Europe,total,Drinking water,2003,0.73721,6430096.92894,Limited service
+who,Europe,rural,Drinking water,2003,1.46274,3906124.79143,Limited service
+who,Europe,urban,Drinking water,2003,0.41707,2523972.18726,Limited service
+who,Europe,total,Drinking water,2003,87.44842,762738970.3363,Safely managed service
+who,Europe,rural,Drinking water,2003,72.07171,192461728.73266,Safely managed service
+who,Europe,urban,Drinking water,2003,94.23361,570277243.09006,Safely managed service
+who,Europe,total,Drinking water,2003,0.75811,6612358.0756,Surface water
+who,Europe,rural,Drinking water,2003,2.2281,5949955.47262,Surface water
+who,Europe,urban,Drinking water,2003,0.10946,662402.68547,Surface water
+who,Europe,total,Drinking water,2003,1.57067,13699641.94037,Unimproved
+who,Europe,rural,Drinking water,2003,4.00916,10706140.01633,Unimproved
+who,Europe,urban,Drinking water,2003,0.49465,2993501.6666,Unimproved
+who,Europe,total,Drinking water,2004,9.22728,80740057.35111,Basic service
+who,Europe,rural,Drinking water,2004,19.65449,52286014.82429,Basic service
+who,Europe,urban,Drinking water,2004,4.67234,28454043.15093,Basic service
+who,Europe,total,Drinking water,2004,0.74093,6483203.93905,Limited service
+who,Europe,rural,Drinking water,2004,1.38488,3684124.63126,Limited service
+who,Europe,urban,Drinking water,2004,0.45963,2799079.35373,Limited service
+who,Europe,total,Drinking water,2004,87.7897,768172548.059,Safely managed service
+who,Europe,rural,Drinking water,2004,72.92691,194004374.68009,Safely managed service
+who,Europe,urban,Drinking water,2004,94.28224,574168176.97328,Safely managed service
+who,Europe,total,Drinking water,2004,0.73631,6442819.74533,Surface water
+who,Europe,rural,Drinking water,2004,2.17726,5792062.45747,Surface water
+who,Europe,urban,Drinking water,2004,0.10686,650757.34984,Surface water
+who,Europe,total,Drinking water,2004,1.50578,13175803.40551,Unimproved
+who,Europe,rural,Drinking water,2004,3.85647,10259200.10908,Unimproved
+who,Europe,urban,Drinking water,2004,0.47893,2916604.73461,Unimproved
+who,Europe,total,Drinking water,2005,8.82288,77461639.07801,Basic service
+who,Europe,rural,Drinking water,2005,18.77888,49767093.69789,Basic service
+who,Europe,urban,Drinking water,2005,4.51826,27694546.23016,Basic service
+who,Europe,total,Drinking water,2005,0.70948,6228952.30899,Limited service
+who,Europe,rural,Drinking water,2005,1.2489,3309798.23047,Limited service
+who,Europe,urban,Drinking water,2005,0.47625,2919154.14324,Limited service
+who,Europe,total,Drinking water,2005,88.36472,775810043.9202,Safely managed service
+who,Europe,rural,Drinking water,2005,74.31434,196945080.79906,Safely managed service
+who,Europe,urban,Drinking water,2005,94.43959,578864970.27968,Safely managed service
+who,Europe,total,Drinking water,2005,0.69166,6072480.05296,Surface water
+who,Europe,rural,Drinking water,2005,2.06071,5461210.5657,Surface water
+who,Europe,urban,Drinking water,2005,0.09973,611269.5611,Surface water
+who,Europe,total,Drinking water,2005,1.41127,12390466.43983,Unimproved
+who,Europe,rural,Drinking water,2005,3.59716,9533063.14185,Unimproved
+who,Europe,urban,Drinking water,2005,0.46617,2857402.41321,Unimproved
+who,Europe,total,Drinking water,2006,8.5657,75521143.94345,Basic service
+who,Europe,rural,Drinking water,2006,18.18774,48063130.1074,Basic service
+who,Europe,urban,Drinking water,2006,4.4473,27458013.69337,Basic service
+who,Europe,total,Drinking water,2006,0.70458,6212046.78914,Limited service
+who,Europe,rural,Drinking water,2006,1.16407,3076183.36881,Limited service
+who,Europe,urban,Drinking water,2006,0.50791,3135863.41702,Limited service
+who,Europe,total,Drinking water,2006,88.70959,782125117.26939,Safely managed service
+who,Europe,rural,Drinking water,2006,75.18758,198691593.45471,Safely managed service
+who,Europe,urban,Drinking water,2006,94.49725,583433525.22545,Safely managed service
+who,Europe,total,Drinking water,2006,0.66956,5903270.32834,Surface water
+who,Europe,rural,Drinking water,2006,2.00693,5303549.49344,Surface water
+who,Europe,urban,Drinking water,2006,0.09714,599720.80856,Surface water
+who,Europe,total,Drinking water,2006,1.35057,11907565.96968,Unimproved
+who,Europe,rural,Drinking water,2006,3.45367,9126722.20748,Unimproved
+who,Europe,urban,Drinking water,2006,0.45041,2780845.62161,Unimproved
+who,Europe,total,Drinking water,2007,8.31229,73557512.46236,Basic service
+who,Europe,rural,Drinking water,2007,17.59691,46337050.41446,Basic service
+who,Europe,urban,Drinking water,2007,4.3791,27220461.87156,Basic service
+who,Europe,total,Drinking water,2007,0.69798,6176564.87224,Limited service
+who,Europe,rural,Drinking water,2007,1.07514,2831120.14909,Limited service
+who,Europe,urban,Drinking water,2007,0.5382,3345444.71476,Limited service
+who,Europe,total,Drinking water,2007,89.05196,788042682.7267,Safely managed service
+who,Europe,rural,Drinking water,2007,76.06464,200297169.64525,Safely managed service
+who,Europe,urban,Drinking water,2007,94.55371,587745512.99228,Safely managed service
+who,Europe,total,Drinking water,2007,0.64772,5731877.28021,Surface water
+who,Europe,rural,Drinking water,2007,1.95382,5144888.3405,Surface water
+who,Europe,urban,Drinking water,2007,0.09443,586988.91692,Surface water
+who,Europe,total,Drinking water,2007,1.29005,11415945.95849,Unimproved
+who,Europe,rural,Drinking water,2007,3.3095,8714727.50871,Unimproved
+who,Europe,urban,Drinking water,2007,0.43456,2701218.55049,Unimproved
+who,Europe,total,Drinking water,2008,8.06871,71677727.5038,Basic service
+who,Europe,rural,Drinking water,2008,17.03789,44712859.70981,Basic service
+who,Europe,urban,Drinking water,2008,4.30811,26964867.80741,Basic service
+who,Europe,total,Drinking water,2008,0.69744,6195647.73667,Limited service
+who,Europe,rural,Drinking water,2008,0.99383,2608117.27892,Limited service
+who,Europe,urban,Drinking water,2008,0.57317,3587530.43921,Limited service
+who,Europe,total,Drinking water,2008,89.38285,794025248.79284,Safely managed service
+who,Europe,rural,Drinking water,2008,76.91972,201861939.25068,Safely managed service
+who,Europe,urban,Drinking water,2008,94.60841,592163305.1279,Safely managed service
+who,Europe,total,Drinking water,2008,0.52321,4647878.41547,Surface water
+who,Europe,rural,Drinking water,2008,1.55222,4073511.83806,Surface water
+who,Europe,urban,Drinking water,2008,0.09177,574366.59691,Surface water
+who,Europe,total,Drinking water,2008,1.32779,11795283.45033,Unimproved
+who,Europe,rural,Drinking water,2008,3.49635,9175531.87703,Unimproved
+who,Europe,urban,Drinking water,2008,0.41855,2619754.72457,Unimproved
+who,Europe,total,Drinking water,2009,7.79255,69503347.77383,Basic service
+who,Europe,rural,Drinking water,2009,16.35396,42781360.24062,Basic service
+who,Europe,urban,Drinking water,2009,4.2394,26721987.2475,Basic service
+who,Europe,total,Drinking water,2009,0.71651,6390715.12561,Limited service
+who,Europe,rural,Drinking water,2009,0.97862,2560042.69711,Limited service
+who,Europe,urban,Drinking water,2009,0.60773,3830672.39496,Limited service
+who,Europe,total,Drinking water,2009,89.72064,800236614.94077,Safely managed service
+who,Europe,rural,Drinking water,2009,77.81593,203563581.18362,Safely managed service
+who,Europe,urban,Drinking water,2009,94.66131,596673028.82542,Safely managed service
+who,Europe,total,Drinking water,2009,0.50196,4477053.16088,Surface water
+who,Europe,rural,Drinking water,2009,1.49686,3915733.88534,Surface water
+who,Europe,urban,Drinking water,2009,0.08905,561319.26372,Surface water
+who,Europe,total,Drinking water,2009,1.26834,11312609.59891,Unimproved
+who,Europe,rural,Drinking water,2009,3.35462,8775556.38021,Unimproved
+who,Europe,urban,Drinking water,2009,0.4025,2537053.8594,Unimproved
+who,Europe,total,Drinking water,2010,7.52416,67390161.41178,Basic service
+who,Europe,rural,Drinking water,2010,15.67911,40900128.39978,Basic service
+who,Europe,urban,Drinking water,2010,4.17302,26490033.46371,Basic service
+who,Europe,total,Drinking water,2010,0.73488,6581981.62047,Limited service
+who,Europe,rural,Drinking water,2010,0.96166,2508557.35475,Limited service
+who,Europe,urban,Drinking water,2010,0.64169,4073424.30689,Limited service
+who,Europe,total,Drinking water,2010,90.05893,806613033.27481,Safely managed service
+who,Europe,rural,Drinking water,2010,78.72867,205369611.3568,Safely managed service
+who,Europe,urban,Drinking water,2010,94.71491,601243426.71374,Safely managed service
+who,Europe,total,Drinking water,2010,0.48004,4299440.94234,Surface water
+who,Europe,rural,Drinking water,2010,1.4382,3751640.48069,Surface water
+who,Europe,urban,Drinking water,2010,0.0863,547800.49243,Surface water
+who,Europe,total,Drinking water,2010,1.20199,10765647.05149,Unimproved
+who,Europe,rural,Drinking water,2010,3.19237,8327522.89748,Unimproved
+who,Europe,urban,Drinking water,2010,0.38408,2438118.59422,Unimproved
+who,Europe,total,Drinking water,2011,7.26537,65352183.55215,Basic service
+who,Europe,rural,Drinking water,2011,15.02207,39093940.18607,Basic service
+who,Europe,urban,Drinking water,2011,4.10761,26258243.44983,Basic service
+who,Europe,total,Drinking water,2011,0.75312,6774375.78219,Limited service
+who,Europe,rural,Drinking water,2011,0.94414,2457071.43359,Limited service
+who,Europe,urban,Drinking water,2011,0.67536,4317304.35579,Limited service
+who,Europe,total,Drinking water,2011,90.38685,813031962.24377,Safely managed service
+who,Europe,rural,Drinking water,2011,79.62508,207219004.73458,Safely managed service
+who,Europe,urban,Drinking water,2011,94.76799,605812958.23594,Safely managed service
+who,Europe,total,Drinking water,2011,0.45841,4123442.08426,Surface water
+who,Europe,rural,Drinking water,2011,1.38023,3591959.28996,Surface water
+who,Europe,urban,Drinking water,2011,0.08314,531482.80064,Surface water
+who,Europe,total,Drinking water,2011,1.13624,10220500.33763,Unimproved
+who,Europe,rural,Drinking water,2011,3.02848,7881410.79069,Unimproved
+who,Europe,urban,Drinking water,2011,0.36591,2339086.13144,Unimproved
+who,Europe,total,Drinking water,2012,7.01842,63407184.37759,Basic service
+who,Europe,rural,Drinking water,2012,14.3819,37363621.62232,Basic service
+who,Europe,urban,Drinking water,2012,4.04628,26043562.31857,Basic service
+who,Europe,total,Drinking water,2012,0.77111,6966485.96049,Limited service
+who,Europe,rural,Drinking water,2012,0.92573,2404998.66576,Limited service
+who,Europe,urban,Drinking water,2012,0.7087,4561487.2437,Limited service
+who,Europe,total,Drinking water,2012,90.70182,819435592.59303,Safely managed service
+who,Europe,rural,Drinking water,2012,80.50802,209156705.97645,Safely managed service
+who,Europe,urban,Drinking water,2012,94.81638,610278880.47422,Safely managed service
+who,Europe,total,Drinking water,2012,0.43721,3949957.34565,Surface water
+who,Europe,rural,Drinking water,2012,1.32092,3431690.90276,Surface water
+who,Europe,urban,Drinking water,2012,0.08052,518266.41784,Surface water
+who,Europe,total,Drinking water,2012,1.07144,9679787.62234,Unimproved
+who,Europe,rural,Drinking water,2012,2.86344,7439095.97405,Unimproved
+who,Europe,urban,Drinking water,2012,0.34813,2240700.92567,Unimproved
+who,Europe,total,Drinking water,2013,6.79847,61691219.2933,Basic service
+who,Europe,rural,Drinking water,2013,13.82338,35850580.02196,Basic service
+who,Europe,urban,Drinking water,2013,3.98726,25840638.896,Basic service
+who,Europe,total,Drinking water,2013,0.77412,7024549.16691,Limited service
+who,Europe,rural,Drinking water,2013,0.85813,2225529.85172,Limited service
+who,Europe,urban,Drinking water,2013,0.7405,4799019.27758,Limited service
+who,Europe,total,Drinking water,2013,91.00334,825789476.0776,Safely managed service
+who,Europe,rural,Drinking water,2013,81.36253,211011594.44344,Safely managed service
+who,Europe,urban,Drinking water,2013,94.86138,614777877.40328,Safely managed service
+who,Europe,total,Drinking water,2013,0.41551,3770441.01944,Surface water
+who,Europe,rural,Drinking water,2013,1.25918,3265640.35302,Surface water
+who,Europe,urban,Drinking water,2013,0.07789,504800.64026,Surface water
+who,Europe,total,Drinking water,2013,1.00856,9151985.54275,Unimproved
+who,Europe,rural,Drinking water,2013,2.69679,6994049.78599,Unimproved
+who,Europe,urban,Drinking water,2013,0.33297,2157937.61788,Unimproved
+who,Europe,total,Drinking water,2014,6.69713,61039807.07331,Basic service
+who,Europe,rural,Drinking water,2014,13.67171,35397014.32055,Basic service
+who,Europe,urban,Drinking water,2014,3.92977,25642792.81461,Basic service
+who,Europe,total,Drinking water,2014,0.79101,7209497.11845,Limited service
+who,Europe,rural,Drinking water,2014,0.84293,2182393.17475,Limited service
+who,Europe,urban,Drinking water,2014,0.77041,5027103.95256,Limited service
+who,Europe,total,Drinking water,2014,91.16726,830928306.28144,Safely managed service
+who,Europe,rural,Drinking water,2014,81.75115,211659425.63441,Safely managed service
+who,Europe,urban,Drinking water,2014,94.90335,619268881.76477,Safely managed service
+who,Europe,total,Drinking water,2014,0.40239,3667500.55135,Surface water
+who,Europe,rural,Drinking water,2014,1.19423,3091938.28328,Surface water
+who,Europe,urban,Drinking water,2014,0.08821,575562.27067,Surface water
+who,Europe,total,Drinking water,2014,0.94222,8587677.97454,Unimproved
+who,Europe,rural,Drinking water,2014,2.53998,6576196.0263,Unimproved
+who,Europe,urban,Drinking water,2014,0.30826,2011481.81039,Unimproved
+who,Europe,total,Drinking water,2015,6.63862,60770667.6611,Basic service
+who,Europe,rural,Drinking water,2015,13.59286,35126865.41884,Basic service
+who,Europe,urban,Drinking water,2015,3.90322,25643801.87664,Basic service
+who,Europe,total,Drinking water,2015,0.78075,7147101.21432,Limited service
+who,Europe,rural,Drinking water,2015,0.82578,2133985.00276,Limited service
+who,Europe,urban,Drinking water,2015,0.76304,5013116.17054,Limited service
+who,Europe,total,Drinking water,2015,91.31138,835875065.712,Safely managed service
+who,Europe,rural,Drinking water,2015,82.05678,212052274.34531,Safely managed service
+who,Europe,urban,Drinking water,2015,94.9516,623822786.56405,Safely managed service
+who,Europe,total,Drinking water,2015,0.38043,3482512.73118,Surface water
+who,Europe,rural,Drinking water,2015,1.12666,2911520.66851,Surface water
+who,Europe,urban,Drinking water,2015,0.08691,570992.04098,Surface water
+who,Europe,total,Drinking water,2015,0.88882,8136332.1814,Unimproved
+who,Europe,rural,Drinking water,2015,2.39793,6196757.67318,Unimproved
+who,Europe,urban,Drinking water,2015,0.29522,1939582.18513,Unimproved
+who,Europe,total,Drinking water,2016,6.59032,60589118.10977,Basic service
+who,Europe,rural,Drinking water,2016,13.53375,34898925.02719,Basic service
+who,Europe,urban,Drinking water,2016,3.88363,25690193.34337,Basic service
+who,Europe,total,Drinking water,2016,0.7735,7111282.97053,Limited service
+who,Europe,rural,Drinking water,2016,0.81563,2103242.006,Limited service
+who,Europe,urban,Drinking water,2016,0.75707,5008040.98997,Limited service
+who,Europe,total,Drinking water,2016,91.44292,840694988.76423,Safely managed service
+who,Europe,rural,Drinking water,2016,82.33955,212325547.18202,Safely managed service
+who,Europe,urban,Drinking water,2016,94.9916,628369444.44704,Safely managed service
+who,Europe,total,Drinking water,2016,0.35784,3289869.85005,Surface water
+who,Europe,rural,Drinking water,2016,1.05638,2724053.6853,Surface water
+who,Europe,urban,Drinking water,2016,0.08554,565816.18105,Surface water
+who,Europe,total,Drinking water,2016,0.83542,7680576.50542,Unimproved
+who,Europe,rural,Drinking water,2016,2.25468,5814050.92714,Unimproved
+who,Europe,urban,Drinking water,2016,0.28217,1866522.31424,Unimproved
+who,Europe,total,Drinking water,2017,6.55237,60494645.42816,Basic service
+who,Europe,rural,Drinking water,2017,13.50183,34730684.88647,Basic service
+who,Europe,urban,Drinking water,2017,3.86835,25763961.12846,Basic service
+who,Europe,total,Drinking water,2017,0.76657,7077379.93949,Limited service
+who,Europe,rural,Drinking water,2017,0.80653,2074636.48649,Limited service
+who,Europe,urban,Drinking water,2017,0.75114,5002743.50825,Limited service
+who,Europe,total,Drinking water,2017,91.5652,845373951.80564,Safely managed service
+who,Europe,rural,Drinking water,2017,82.60329,212480042.12715,Safely managed service
+who,Europe,urban,Drinking water,2017,95.02646,632893916.13414,Safely managed service
+who,Europe,total,Drinking water,2017,0.32554,3005508.28384,Surface water
+who,Europe,rural,Drinking water,2017,0.97909,2518498.17225,Surface water
+who,Europe,urban,Drinking water,2017,0.07312,487010.14635,Surface water
+who,Europe,total,Drinking water,2017,0.79032,7296625.44379,Unimproved
+who,Europe,rural,Drinking water,2017,2.10927,5425655.08096,Unimproved
+who,Europe,urban,Drinking water,2017,0.28092,1870966.68413,Unimproved
+who,Europe,total,Drinking water,2018,6.53935,60613940.0641,Basic service
+who,Europe,rural,Drinking water,2018,13.54847,34744936.54531,Basic service
+who,Europe,urban,Drinking water,2018,3.85839,25869003.31609,Basic service
+who,Europe,total,Drinking water,2018,0.75966,7041360.26619,Limited service
+who,Europe,rural,Drinking water,2018,0.80127,2054842.87659,Limited service
+who,Europe,urban,Drinking water,2018,0.74374,4986517.36581,Limited service
+who,Europe,total,Drinking water,2018,91.64908,849505090.25921,Safely managed service
+who,Europe,rural,Drinking water,2018,82.7445,212197618.30798,Safely managed service
+who,Europe,urban,Drinking water,2018,95.05505,637307469.13493,Safely managed service
+who,Europe,total,Drinking water,2018,0.30477,2824920.48537,Surface water
+who,Europe,rural,Drinking water,2018,0.90656,2324859.48747,Surface water
+who,Europe,urban,Drinking water,2018,0.07458,500060.9881,Surface water
+who,Europe,total,Drinking water,2018,0.74714,6925325.22606,Unimproved
+who,Europe,rural,Drinking water,2018,1.99921,5126951.85166,Unimproved
+who,Europe,urban,Drinking water,2018,0.26823,1798372.41608,Unimproved
+who,Europe,total,Drinking water,2019,6.52763,60717858.70473,Basic service
+who,Europe,rural,Drinking water,2019,13.59937,34743554.54308,Basic service
+who,Europe,urban,Drinking water,2019,3.84983,25974304.67636,Basic service
+who,Europe,total,Drinking water,2019,0.7507,6982797.8124,Limited service
+who,Europe,rural,Drinking water,2019,0.79031,2019065.70329,Limited service
+who,Europe,urban,Drinking water,2019,0.73571,4963732.18725,Limited service
+who,Europe,total,Drinking water,2019,91.72671,853211221.12635,Safely managed service
+who,Europe,rural,Drinking water,2019,82.86497,211702713.77661,Safely managed service
+who,Europe,urban,Drinking water,2019,95.08232,641508517.22312,Safely managed service
+who,Europe,total,Drinking water,2019,0.29057,2702776.7125,Surface water
+who,Europe,rural,Drinking water,2019,0.85721,2189990.39459,Surface water
+who,Europe,urban,Drinking water,2019,0.076,512786.3341,Surface water
+who,Europe,total,Drinking water,2019,0.70439,6551982.44402,Unimproved
+who,Europe,rural,Drinking water,2019,1.88814,4823802.56528,Unimproved
+who,Europe,urban,Drinking water,2019,0.25614,1728175.67917,Unimproved
+who,Europe,total,Drinking water,2020,6.53847,60996573.75163,Basic service
+who,Europe,rural,Drinking water,2020,13.71729,34881821.83378,Basic service
+who,Europe,urban,Drinking water,2020,3.84834,26114751.47362,Basic service
+who,Europe,total,Drinking water,2020,0.74445,6944863.68213,Limited service
+who,Europe,rural,Drinking water,2020,0.78412,1993948.56545,Limited service
+who,Europe,urban,Drinking water,2020,0.72958,4950915.06068,Limited service
+who,Europe,total,Drinking water,2020,91.76525,856067086.94367,Safely managed service
+who,Europe,rural,Drinking water,2020,82.8635,210714275.56332,Safely managed service
+who,Europe,urban,Drinking water,2020,95.101,645352804.33865,Safely managed service
+who,Europe,total,Drinking water,2020,0.28671,2674662.6831,Surface water
+who,Europe,rural,Drinking water,2020,0.85463,2173246.42766,Surface water
+who,Europe,urban,Drinking water,2020,0.07389,501416.23793,Surface water
+who,Europe,total,Drinking water,2020,0.66513,6204935.73948,Unimproved
+who,Europe,rural,Drinking water,2020,1.78046,4527543.92289,Unimproved
+who,Europe,urban,Drinking water,2020,0.24719,1677400.17712,Unimproved
+who,South-East Asia,total,Drinking water,2000,80.73497,1269103433.58715,At least basic
+who,South-East Asia,urban,Drinking water,2000,92.01949,427127366.2798,At least basic
+who,South-East Asia,rural,Drinking water,2000,39.36798,436105527.56279,Basic service
+who,South-East Asia,total,Drinking water,2000,3.38162,53157017.42892,Limited service
+who,South-East Asia,rural,Drinking water,2000,4.00721,44390541.96313,Limited service
+who,South-East Asia,urban,Drinking water,2000,1.88863,8766475.43659,Limited service
+who,South-East Asia,rural,Drinking water,2000,36.63861,405870526.17126,Safely managed service
+who,South-East Asia,total,Drinking water,2000,2.28161,35865494.94077,Surface water
+who,South-East Asia,rural,Drinking water,2000,3.00217,33257069.01663,Surface water
+who,South-East Asia,urban,Drinking water,2000,0.56195,2608425.82574,Surface water
+who,South-East Asia,total,Drinking water,2000,13.6018,213811778.3631,Unimproved
+who,South-East Asia,rural,Drinking water,2000,16.98403,188143469.89619,Unimproved
+who,South-East Asia,urban,Drinking water,2000,5.52993,25668302.50783,Unimproved
+who,South-East Asia,total,Drinking water,2001,81.33886,1299438940.90916,At least basic
+who,South-East Asia,urban,Drinking water,2001,92.2235,440465216.76499,At least basic
+who,South-East Asia,rural,Drinking water,2001,39.0353,437178145.82781,Basic service
+who,South-East Asia,total,Drinking water,2001,3.3823,54034297.77754,Limited service
+who,South-East Asia,rural,Drinking water,2001,4.02838,45116050.51217,Limited service
+who,South-East Asia,urban,Drinking water,2001,1.86728,8918245.41082,Limited service
+who,South-East Asia,rural,Drinking water,2001,37.66179,421795485.18679,Safely managed service
+who,South-East Asia,total,Drinking water,2001,2.20695,35257394.94031,Surface water
+who,South-East Asia,rural,Drinking water,2001,2.91516,32648495.36843,Surface water
+who,South-East Asia,urban,Drinking water,2001,0.54624,2608898.32597,Surface water
+who,South-East Asia,total,Drinking water,2001,13.0719,208831697.46288,Unimproved
+who,South-East Asia,rural,Drinking water,2001,16.35938,183217824.4948,Unimproved
+who,South-East Asia,urban,Drinking water,2001,5.36297,25613889.64779,Unimproved
+who,South-East Asia,total,Drinking water,2002,81.90682,1330072363.04645,At least basic
+who,South-East Asia,urban,Drinking water,2002,92.38535,454887992.30029,At least basic
+who,South-East Asia,rural,Drinking water,2002,38.66038,437443597.51447,Basic service
+who,South-East Asia,total,Drinking water,2002,3.40394,55276078.08591,Limited service
+who,South-East Asia,rural,Drinking water,2002,4.06602,46007201.99702,Limited service
+who,South-East Asia,urban,Drinking water,2002,1.88246,9268876.47058,Limited service
+who,South-East Asia,rural,Drinking water,2002,38.68664,437740701.31615,Safely managed service
+who,South-East Asia,total,Drinking water,2002,2.13442,34660467.12288,Surface water
+who,South-East Asia,rural,Drinking water,2002,2.83209,32045147.71025,Surface water
+who,South-East Asia,urban,Drinking water,2002,0.53116,2615319.86234,Surface water
+who,South-East Asia,total,Drinking water,2002,12.55482,203875854.53694,Unimproved
+who,South-East Asia,rural,Drinking water,2002,15.75488,178266989.32211,Unimproved
+who,South-East Asia,urban,Drinking water,2002,5.20103,25608869.63535,Unimproved
+who,South-East Asia,total,Drinking water,2003,82.48843,1360273786.77166,At least basic
+who,South-East Asia,urban,Drinking water,2003,92.5553,469385428.9812,At least basic
+who,South-East Asia,rural,Drinking water,2003,38.2818,437142716.2369,Basic service
+who,South-East Asia,total,Drinking water,2003,3.42411,56465284.40823,Limited service
+who,South-East Asia,rural,Drinking water,2003,4.10198,46840782.50471,Limited service
+who,South-East Asia,urban,Drinking water,2003,1.8978,9624500.64313,Limited service
+who,South-East Asia,rural,Drinking water,2003,39.73576,453745576.53214,Safely managed service
+who,South-East Asia,total,Drinking water,2003,2.05999,33970152.42924,Surface water
+who,South-East Asia,rural,Drinking water,2003,2.74609,31357841.16277,Surface water
+who,South-East Asia,urban,Drinking water,2003,0.51511,2612310.46727,Surface water
+who,South-East Asia,total,Drinking water,2003,12.02747,198338713.03174,Unimproved
+who,South-East Asia,rural,Drinking water,2003,15.13436,172820421.86348,Unimproved
+who,South-East Asia,urban,Drinking water,2003,5.0318,25518288.83793,Unimproved
+who,South-East Asia,total,Drinking water,2004,83.06435,1390427895.7441,At least basic
+who,South-East Asia,urban,Drinking water,2004,92.72359,484118295.0989,At least basic
+who,South-East Asia,rural,Drinking water,2004,37.88674,436382319.47437,Basic service
+who,South-East Asia,total,Drinking water,2004,3.44392,57648275.55909,Limited service
+who,South-East Asia,rural,Drinking water,2004,4.13768,47658129.86685,Limited service
+who,South-East Asia,urban,Drinking water,2004,1.91342,9990144.50479,Limited service
+who,South-East Asia,rural,Drinking water,2004,40.79912,469927280.26678,Safely managed service
+who,South-East Asia,total,Drinking water,2004,1.98619,33247132.94539,Surface water
+who,South-East Asia,rural,Drinking water,2004,2.66026,30641061.04063,Surface water
+who,South-East Asia,urban,Drinking water,2004,0.49914,2606071.18769,Surface water
+who,South-East Asia,total,Drinking water,2004,11.50555,192593300.93524,Unimproved
+who,South-East Asia,rural,Drinking water,2004,14.5162,167198729.07252,Unimproved
+who,South-East Asia,urban,Drinking water,2004,4.86384,25394569.76867,Unimproved
+who,South-East Asia,total,Drinking water,2005,83.631,1420437422.57794,At least basic
+who,South-East Asia,urban,Drinking water,2005,92.88146,498990065.18671,At least basic
+who,South-East Asia,rural,Drinking water,2005,37.36308,433869389.08542,Basic service
+who,South-East Asia,total,Drinking water,2005,3.46304,58818333.03386,Limited service
+who,South-East Asia,rural,Drinking water,2005,4.16957,48418089.30518,Limited service
+who,South-East Asia,urban,Drinking water,2005,1.93589,10400243.58497,Limited service
+who,South-East Asia,rural,Drinking water,2005,41.98825,487577965.38866,Safely managed service
+who,South-East Asia,total,Drinking water,2005,1.91161,32467896.8767,Surface water
+who,South-East Asia,rural,Drinking water,2005,2.57242,29871561.44317,Surface water
+who,South-East Asia,urban,Drinking water,2005,0.48328,2596335.31941,Surface water
+who,South-East Asia,total,Drinking water,2005,10.99435,186734414.58885,Unimproved
+who,South-East Asia,rural,Drinking water,2005,13.90668,161487856.01757,Unimproved
+who,South-East Asia,urban,Drinking water,2005,4.69937,25246554.117,Unimproved
+who,South-East Asia,total,Drinking water,2006,84.1908,1450319551.52773,At least basic
+who,South-East Asia,urban,Drinking water,2006,93.03954,514069213.49889,At least basic
+who,South-East Asia,rural,Drinking water,2006,36.80916,430715224.52222,Basic service
+who,South-East Asia,total,Drinking water,2006,3.48381,60014196.46891,Limited service
+who,South-East Asia,rural,Drinking water,2006,4.20439,49196869.86051,Limited service
+who,South-East Asia,urban,Drinking water,2006,1.95779,10817327.61114,Limited service
+who,South-East Asia,rural,Drinking water,2006,43.20332,505535166.0252,Safely managed service
+who,South-East Asia,total,Drinking water,2006,1.83771,31657378.88298,Surface water
+who,South-East Asia,rural,Drinking water,2006,2.48471,29074329.69669,Surface water
+who,South-East Asia,urban,Drinking water,2006,0.4675,2583049.69313,Surface water
+who,South-East Asia,total,Drinking water,2006,10.48768,180666942.50879,Unimproved
+who,South-East Asia,rural,Drinking water,2006,13.29842,155608860.31421,Unimproved
+who,South-East Asia,urban,Drinking water,2006,4.53517,25058084.20801,Unimproved
+who,South-East Asia,total,Drinking water,2007,84.7457,1480081203.67885,At least basic
+who,South-East Asia,urban,Drinking water,2007,93.19676,529346629.61688,At least basic
+who,South-East Asia,rural,Drinking water,2007,36.23877,427077099.80353,Basic service
+who,South-East Asia,total,Drinking water,2007,3.50449,61205728.93079,Limited service
+who,South-East Asia,rural,Drinking water,2007,4.2391,49958218.19261,Limited service
+who,South-East Asia,urban,Drinking water,2007,1.98024,11247510.38397,Limited service
+who,South-East Asia,rural,Drinking water,2007,44.4339,523657476.8957,Safely managed service
+who,South-East Asia,total,Drinking water,2007,1.76453,30817490.53546,Surface water
+who,South-East Asia,rural,Drinking water,2007,2.3972,28251219.26815,Surface water
+who,South-East Asia,urban,Drinking water,2007,0.45182,2566271.00526,Surface water
+who,South-East Asia,total,Drinking water,2007,9.98528,174392608.68395,Unimproved
+who,South-East Asia,rural,Drinking water,2007,12.69102,149564783.73002,Unimproved
+who,South-East Asia,urban,Drinking water,2007,4.37119,24827827.65395,Unimproved
+who,South-East Asia,total,Drinking water,2008,85.29601,1509684199.36455,At least basic
+who,South-East Asia,urban,Drinking water,2008,93.35324,544821621.68416,At least basic
+who,South-East Asia,rural,Drinking water,2008,35.65119,422938067.53435,Basic service
+who,South-East Asia,total,Drinking water,2008,3.52506,62391220.43559,Limited service
+who,South-East Asia,rural,Drinking water,2008,4.27374,50700357.8301,Limited service
+who,South-East Asia,urban,Drinking water,2008,2.00319,11690861.63629,Limited service
+who,South-East Asia,rural,Drinking water,2008,45.68105,541924546.90458,Safely managed service
+who,South-East Asia,total,Drinking water,2008,1.69225,29951675.00228,Surface water
+who,South-East Asia,rural,Drinking water,2008,2.31012,27405455.47361,Surface water
+who,South-East Asia,urban,Drinking water,2008,0.43629,2546219.08398,Surface water
+who,South-East Asia,total,Drinking water,2008,9.48669,167908265.16683,Unimproved
+who,South-East Asia,rural,Drinking water,2008,12.0839,143354009.61854,Unimproved
+who,South-East Asia,urban,Drinking water,2008,4.20729,24554280.07882,Unimproved
+who,South-East Asia,total,Drinking water,2009,85.84206,1539088238.24613,At least basic
+who,South-East Asia,urban,Drinking water,2009,93.50939,560471805.87363,At least basic
+who,South-East Asia,rural,Drinking water,2009,35.04474,418278353.35121,Basic service
+who,South-East Asia,total,Drinking water,2009,3.54519,63562841.95367,Limited service
+who,South-East Asia,rural,Drinking water,2009,4.30785,51416540.45034,Limited service
+who,South-East Asia,urban,Drinking water,2009,2.02649,12146301.13586,Limited service
+who,South-East Asia,rural,Drinking water,2009,46.94698,560338146.25543,Safely managed service
+who,South-East Asia,total,Drinking water,2009,1.62105,29064375.6739,Surface water
+who,South-East Asia,rural,Drinking water,2009,2.22372,26541375.69967,Surface water
+who,South-East Asia,urban,Drinking water,2009,0.42094,2522999.78993,Surface water
+who,South-East Asia,total,Drinking water,2009,8.99169,161214632.06049,Unimproved
+who,South-East Asia,rural,Drinking water,2009,11.47671,136980838.39335,Unimproved
+who,South-East Asia,urban,Drinking water,2009,4.04318,24233794.86658,Unimproved
+who,South-East Asia,total,Drinking water,2010,86.38354,1568254373.93736,At least basic
+who,South-East Asia,urban,Drinking water,2010,93.66531,576258188.56271,At least basic
+who,South-East Asia,rural,Drinking water,2010,34.41914,413106723.01778,Basic service
+who,South-East Asia,total,Drinking water,2010,3.56505,64721882.71055,Limited service
+who,South-East Asia,rural,Drinking water,2010,4.34154,52108211.86774,Limited service
+who,South-East Asia,urban,Drinking water,2010,2.05023,12613672.56273,Limited service
+who,South-East Asia,rural,Drinking water,2010,48.23178,578889410.20321,Safely managed service
+who,South-East Asia,total,Drinking water,2010,1.55115,28160373.11463,Surface water
+who,South-East Asia,rural,Drinking water,2010,2.13825,25663738.47558,Surface water
+who,South-East Asia,urban,Drinking water,2010,0.4058,2496635.50491,Surface water
+who,South-East Asia,total,Drinking water,2010,8.50027,154318577.45612,Unimproved
+who,South-East Asia,rural,Drinking water,2010,10.8693,130455915.5157,Unimproved
+who,South-East Asia,urban,Drinking water,2010,3.87865,23862632.33554,Unimproved
+who,South-East Asia,total,Drinking water,2011,86.91837,1597112943.11912,At least basic
+who,South-East Asia,urban,Drinking water,2011,93.81829,591668652.64037,At least basic
+who,South-East Asia,rural,Drinking water,2011,33.76427,407478097.60763,Basic service
+who,South-East Asia,total,Drinking water,2011,3.58455,65865650.67783,Limited service
+who,South-East Asia,rural,Drinking water,2011,4.37299,52774628.05822,Limited service
+who,South-East Asia,urban,Drinking water,2011,2.07579,13091022.70704,Limited service
+who,South-East Asia,rural,Drinking water,2011,49.54841,597966220.56447,Safely managed service
+who,South-East Asia,total,Drinking water,2011,1.48303,27250436.0654,Surface water
+who,South-East Asia,rural,Drinking water,2011,2.05368,24784502.66021,Surface water
+who,South-East Asia,urban,Drinking water,2011,0.39101,2465933.45966,Surface water
+who,South-East Asia,total,Drinking water,2011,8.01405,147257097.62842,Unimproved
+who,South-East Asia,rural,Drinking water,2011,10.26065,123828878.98947,Unimproved
+who,South-East Asia,urban,Drinking water,2011,3.71491,23428217.43541,Unimproved
+who,South-East Asia,total,Drinking water,2012,87.45005,1625732770.70228,At least basic
+who,South-East Asia,urban,Drinking water,2012,93.9704,607270224.93432,At least basic
+who,South-East Asia,rural,Drinking water,2012,33.08937,401309849.61518,Basic service
+who,South-East Asia,total,Drinking water,2012,3.60343,66989280.44811,Limited service
+who,South-East Asia,rural,Drinking water,2012,4.40353,53406237.74217,Limited service
+who,South-East Asia,urban,Drinking water,2012,2.10187,13583044.17989,Limited service
+who,South-East Asia,rural,Drinking water,2012,50.88635,617152713.50558,Safely managed service
+who,South-East Asia,total,Drinking water,2012,1.41385,26284027.29965,Surface water
+who,South-East Asia,rural,Drinking water,2012,1.96986,23890637.07757,Surface water
+who,South-East Asia,urban,Drinking water,2012,0.37036,2393390.8996,Surface water
+who,South-East Asia,total,Drinking water,2012,7.53267,140035476.58627,Unimproved
+who,South-East Asia,rural,Drinking water,2012,9.65088,117046473.7995,Unimproved
+who,South-East Asia,urban,Drinking water,2012,3.55737,22989000.68139,Unimproved
+who,South-East Asia,total,Drinking water,2013,87.97855,1654167725.97023,At least basic
+who,South-East Asia,urban,Drinking water,2013,94.12225,623115326.50474,At least basic
+who,South-East Asia,rural,Drinking water,2013,32.39685,394647618.41281,Basic service
+who,South-East Asia,total,Drinking water,2013,3.62166,68094183.64157,Limited service
+who,South-East Asia,rural,Drinking water,2013,4.43325,54004345.9892,Limited service
+who,South-East Asia,urban,Drinking water,2013,2.12829,14089838.79809,Limited service
+who,South-East Asia,rural,Drinking water,2013,52.24284,636404803.14638,Safely managed service
+who,South-East Asia,total,Drinking water,2013,1.34302,25251338.28101,Surface water
+who,South-East Asia,rural,Drinking water,2013,1.87956,22896231.15216,Surface water
+who,South-East Asia,urban,Drinking water,2013,0.35574,2355107.58777,Surface water
+who,South-East Asia,total,Drinking water,2013,7.05677,132681045.11539,Unimproved
+who,South-East Asia,rural,Drinking water,2013,9.0475,110213632.51946,Unimproved
+who,South-East Asia,urban,Drinking water,2013,3.39372,22467381.73045,Unimproved
+who,South-East Asia,total,Drinking water,2014,88.50392,1682500700.43571,At least basic
+who,South-East Asia,urban,Drinking water,2014,94.27374,639241511.82702,At least basic
+who,South-East Asia,rural,Drinking water,2014,31.68754,387531325.37294,Basic service
+who,South-East Asia,total,Drinking water,2014,3.63926,69184026.69177,Limited service
+who,South-East Asia,rural,Drinking water,2014,4.46215,54571029.84303,Limited service
+who,South-East Asia,urban,Drinking water,2014,2.15509,14612994.55655,Limited service
+who,South-East Asia,rural,Drinking water,2014,53.61735,655727817.85832,Safely managed service
+who,South-East Asia,total,Drinking water,2014,1.2791,24316260.27429,Surface water
+who,South-East Asia,rural,Drinking water,2014,1.79869,21997580.75631,Surface water
+who,South-East Asia,urban,Drinking water,2014,0.34195,2318678.7043,Surface water
+who,South-East Asia,total,Drinking water,2014,6.57772,125045522.39233,Unimproved
+who,South-East Asia,rural,Drinking water,2014,8.43427,103149196.22941,Unimproved
+who,South-East Asia,urban,Drinking water,2014,3.22922,21896353.45266,Unimproved
+who,South-East Asia,total,Drinking water,2015,89.02522,1710773589.47723,At least basic
+who,South-East Asia,urban,Drinking water,2015,94.42246,655634284.26715,At least basic
+who,South-East Asia,rural,Drinking water,2015,30.96183,379997797.04184,Basic service
+who,South-East Asia,total,Drinking water,2015,3.65631,70262271.8011,Limited service
+who,South-East Asia,rural,Drinking water,2015,4.49015,55108053.68466,Limited service
+who,South-East Asia,urban,Drinking water,2015,2.18246,15154218.14401,Limited service
+who,South-East Asia,rural,Drinking water,2015,55.00985,675141600.82241,Safely managed service
+who,South-East Asia,total,Drinking water,2015,1.21569,23361529.53044,Surface water
+who,South-East Asia,rural,Drinking water,2015,1.71779,21082592.33389,Surface water
+who,South-East Asia,urban,Drinking water,2015,0.32821,2278937.22409,Surface water
+who,South-East Asia,total,Drinking water,2015,6.10279,117275615.90073,Unimproved
+who,South-East Asia,rural,Drinking water,2015,7.82039,95980409.84843,Unimproved
+who,South-East Asia,urban,Drinking water,2015,3.06687,21295206.11076,Unimproved
+who,South-East Asia,total,Drinking water,2016,89.53974,1738943322.29447,At least basic
+who,South-East Asia,urban,Drinking water,2016,94.57301,672336903.31709,At least basic
+who,South-East Asia,rural,Drinking water,2016,30.21958,372055227.57161,Basic service
+who,South-East Asia,total,Drinking water,2016,3.67291,71331176.06825,Limited service
+who,South-East Asia,rural,Drinking water,2016,4.51741,55617065.20361,Limited service
+who,South-East Asia,urban,Drinking water,2016,2.2104,15714110.8274,Limited service
+who,South-East Asia,rural,Drinking water,2016,56.41379,694551164.50366,Safely managed service
+who,South-East Asia,total,Drinking water,2016,1.15273,22387100.44409,Surface water
+who,South-East Asia,rural,Drinking water,2016,1.63675,20151261.12297,Surface water
+who,South-East Asia,urban,Drinking water,2016,0.3145,2235839.41553,Surface water
+who,South-East Asia,total,Drinking water,2016,5.63462,109429473.88141,Unimproved
+who,South-East Asia,rural,Drinking water,2016,7.21247,88798016.18939,Unimproved
+who,South-East Asia,urban,Drinking water,2016,2.90209,20631483.89371,Unimproved
+who,South-East Asia,total,Drinking water,2017,90.05542,1767140599.02346,At least basic
+who,South-East Asia,urban,Drinking water,2017,94.71623,689279614.47708,At least basic
+who,South-East Asia,rural,Drinking water,2017,29.46049,363704519.04526,Basic service
+who,South-East Asia,total,Drinking water,2017,3.68912,72390933.50043,Limited service
+who,South-East Asia,rural,Drinking water,2017,4.54398,56097644.6705,Limited service
+who,South-East Asia,urban,Drinking water,2017,2.23892,16293288.34872,Limited service
+who,South-East Asia,rural,Drinking water,2017,57.84752,714156528.68406,Safely managed service
+who,South-East Asia,total,Drinking water,2017,1.07907,21174317.35874,Surface water
+who,South-East Asia,rural,Drinking water,2017,1.5378,18984925.4861,Surface water
+who,South-East Asia,urban,Drinking water,2017,0.30085,2189391.58043,Surface water
+who,South-East Asia,total,Drinking water,2017,5.17639,101575345.27739,Unimproved
+who,South-East Asia,rural,Drinking water,2017,6.61021,81606366.61408,Unimproved
+who,South-East Asia,urban,Drinking water,2017,2.744,19968974.39868,Unimproved
+who,South-East Asia,total,Drinking water,2018,90.55829,1795081269.18197,At least basic
+who,South-East Asia,urban,Drinking water,2018,94.85962,706510174.07871,At least basic
+who,South-East Asia,rural,Drinking water,2018,28.68848,355003533.06925,Basic service
+who,South-East Asia,total,Drinking water,2018,3.70203,73382978.74201,Limited service
+who,South-East Asia,rural,Drinking water,2018,4.5658,56499145.70913,Limited service
+who,South-East Asia,urban,Drinking water,2018,2.26691,16883830.04959,Limited service
+who,South-East Asia,rural,Drinking water,2018,59.28092,733567537.20476,Safely managed service
+who,South-East Asia,total,Drinking water,2018,1.01794,20178032.78461,Surface water
+who,South-East Asia,rural,Drinking water,2018,1.45768,18037972.35726,Surface water
+who,South-East Asia,urban,Drinking water,2018,0.28734,2140059.59302,Surface water
+who,South-East Asia,total,Drinking water,2018,4.72174,93596161.58089,Unimproved
+who,South-East Asia,rural,Drinking water,2018,6.00713,74334782.56961,Unimproved
+who,South-East Asia,urban,Drinking water,2018,2.58613,19261415.47664,Unimproved
+who,South-East Asia,total,Drinking water,2019,91.05039,1822779964.99497,At least basic
+who,South-East Asia,urban,Drinking water,2019,95.00669,724050437.09551,At least basic
+who,South-East Asia,rural,Drinking water,2019,27.91933,346155519.01629,Basic service
+who,South-East Asia,total,Drinking water,2019,3.71494,74371027.31881,Limited service
+who,South-East Asia,rural,Drinking water,2019,4.59119,56923525.62506,Limited service
+who,South-East Asia,urban,Drinking water,2019,2.28938,17447502.83737,Limited service
+who,South-East Asia,rural,Drinking water,2019,60.6992,752573983.38709,Safely managed service
+who,South-East Asia,total,Drinking water,2019,0.95898,19198196.82004,Surface water
+who,South-East Asia,rural,Drinking water,2019,1.38005,17110417.9238,Surface water
+who,South-East Asia,urban,Drinking water,2019,0.27395,2087779.26293,Surface water
+who,South-East Asia,total,Drinking water,2019,4.2757,85597144.7784,Unimproved
+who,South-East Asia,rural,Drinking water,2019,5.41022,67078172.109,Unimproved
+who,South-East Asia,urban,Drinking water,2019,2.42997,18518939.63753,Unimproved
+who,South-East Asia,total,Drinking water,2020,91.54053,1850387949.63529,At least basic
+who,South-East Asia,urban,Drinking water,2020,95.14835,741838164.33982,At least basic
+who,South-East Asia,rural,Drinking water,2020,27.13192,336902904.86291,Basic service
+who,South-East Asia,total,Drinking water,2020,3.7298,75393757.256,Limited service
+who,South-East Asia,rural,Drinking water,2020,4.61506,57306190.24261,Limited service
+who,South-East Asia,urban,Drinking water,2020,2.31992,18087564.36336,Limited service
+who,South-East Asia,rural,Drinking water,2020,62.1433,771646865.14445,Safely managed service
+who,South-East Asia,total,Drinking water,2020,0.9008,18208689.95466,Surface water
+who,South-East Asia,rural,Drinking water,2020,1.30274,16176408.63704,Surface water
+who,South-East Asia,urban,Drinking water,2020,0.26066,2032280.63541,Surface water
+who,South-East Asia,total,Drinking water,2020,3.82886,77396144.63523,Unimproved
+who,South-East Asia,rural,Drinking water,2020,4.80699,59689392.77299,Unimproved
+who,South-East Asia,urban,Drinking water,2020,2.27108,17706783.7796,Unimproved
+who,Western Pacific,total,Drinking water,2000,82.44453,1420878475.44601,At least basic
+who,Western Pacific,rural,Drinking water,2000,71.34998,718764980.55902,At least basic
+who,Western Pacific,urban,Drinking water,2000,8.48996,60792920.30954,Basic service
+who,Western Pacific,total,Drinking water,2000,0.62043,10692791.58113,Limited service
+who,Western Pacific,rural,Drinking water,2000,0.5871,5914276.48314,Limited service
+who,Western Pacific,urban,Drinking water,2000,0.66734,4778514.88678,Limited service
+who,Western Pacific,urban,Drinking water,2000,89.56284,641320533.24512,Safely managed service
+who,Western Pacific,total,Drinking water,2000,3.09337,53312256.25016,Surface water
+who,Western Pacific,rural,Drinking water,2000,5.04954,50868003.11381,Surface water
+who,Western Pacific,urban,Drinking water,2000,0.34135,2444252.14291,Surface water
+who,Western Pacific,total,Drinking water,2000,13.84167,238552240.96392,Unimproved
+who,Western Pacific,rural,Drinking water,2000,23.01338,231832032.74388,Unimproved
+who,Western Pacific,urban,Drinking water,2000,0.93851,6720242.59799,Unimproved
+who,Western Pacific,total,Drinking water,2001,82.77933,1437476600.12116,At least basic
+who,Western Pacific,rural,Drinking water,2001,71.42935,711982550.18106,At least basic
+who,Western Pacific,urban,Drinking water,2001,8.50384,62907273.00119,Basic service
+who,Western Pacific,total,Drinking water,2001,0.62493,10852059.00852,Limited service
+who,Western Pacific,rural,Drinking water,2001,0.59259,5906683.58063,Limited service
+who,Western Pacific,urban,Drinking water,2001,0.66852,4945375.45106,Limited service
+who,Western Pacific,urban,Drinking water,2001,89.56881,662586815.19081,Safely managed service
+who,Western Pacific,total,Drinking water,2001,3.01512,52358109.67099,Surface water
+who,Western Pacific,rural,Drinking water,2001,5.00524,49890447.55759,Surface water
+who,Western Pacific,urban,Drinking water,2001,0.33358,2467662.79291,Surface water
+who,Western Pacific,total,Drinking water,2001,13.58061,235829595.53706,Unimproved
+who,Western Pacific,rural,Drinking water,2001,22.97282,228984995.37436,Unimproved
+who,Western Pacific,urban,Drinking water,2001,0.92526,6844596.98188,Unimproved
+who,Western Pacific,total,Drinking water,2002,83.75191,1464929795.32922,At least basic
+who,Western Pacific,rural,Drinking water,2002,72.61818,714290186.1128,At least basic
+who,Western Pacific,urban,Drinking water,2002,8.12907,62228487.82207,Basic service
+who,Western Pacific,total,Drinking water,2002,0.63448,11097852.95031,Limited service
+who,Western Pacific,rural,Drinking water,2002,0.6485,6378828.1308,Limited service
+who,Western Pacific,urban,Drinking water,2002,0.61646,4719024.77577,Limited service
+who,Western Pacific,urban,Drinking water,2002,89.92897,688411142.07937,Safely managed service
+who,Western Pacific,total,Drinking water,2002,2.90662,50840616.84314,Surface water
+who,Western Pacific,rural,Drinking water,2002,4.92414,48435014.50783,Surface water
+who,Western Pacific,urban,Drinking water,2002,0.31425,2405601.65323,Surface water
+who,Western Pacific,total,Drinking water,2002,12.70698,222261618.05882,Unimproved
+who,Western Pacific,rural,Drinking water,2002,21.80918,214520443.684,Unimproved
+who,Western Pacific,urban,Drinking water,2002,1.01125,7741172.84107,Unimproved
+who,Western Pacific,total,Drinking water,2003,84.55051,1489270002.04226,At least basic
+who,Western Pacific,rural,Drinking water,2003,73.5478,713356763.66323,At least basic
+who,Western Pacific,urban,Drinking water,2003,8.16445,64619544.95697,Basic service
+who,Western Pacific,total,Drinking water,2003,0.65811,11591971.29058,Limited service
+who,Western Pacific,rural,Drinking water,2003,0.71004,6886804.02315,Limited service
+who,Western Pacific,urban,Drinking water,2003,0.59448,4705167.19281,Limited service
+who,Western Pacific,urban,Drinking water,2003,89.86947,711293699.09433,Safely managed service
+who,Western Pacific,total,Drinking water,2003,2.82401,49742037.24252,Surface water
+who,Western Pacific,rural,Drinking water,2003,4.87829,47315646.71359,Surface water
+who,Western Pacific,urban,Drinking water,2003,0.30657,2426388.75217,Surface water
+who,Western Pacific,total,Drinking water,2003,11.96737,210792872.31091,Unimproved
+who,Western Pacific,rural,Drinking water,2003,20.86387,202363434.26812,Unimproved
+who,Western Pacific,urban,Drinking water,2003,1.06503,8429436.33538,Unimproved
+who,Western Pacific,total,Drinking water,2004,85.32861,1513272023.47095,At least basic
+who,Western Pacific,rural,Drinking water,2004,74.47999,711849847.72672,At least basic
+who,Western Pacific,urban,Drinking water,2004,8.20015,67052928.82994,Basic service
+who,Western Pacific,total,Drinking water,2004,0.68048,12068083.62029,Limited service
+who,Western Pacific,rural,Drinking water,2004,0.77297,7387769.42429,Limited service
+who,Western Pacific,urban,Drinking water,2004,0.57237,4680314.17252,Limited service
+who,Western Pacific,urban,Drinking water,2004,89.80871,734369307.63126,Safely managed service
+who,Western Pacific,total,Drinking water,2004,2.74085,48608067.6176,Surface water
+who,Western Pacific,rural,Drinking water,2004,4.82999,46163149.97631,Surface water
+who,Western Pacific,urban,Drinking water,2004,0.299,2444917.21817,Surface water
+who,Western Pacific,total,Drinking water,2004,11.25005,199515538.81353,Unimproved
+who,Western Pacific,rural,Drinking water,2004,19.91705,190359141.36819,Unimproved
+who,Western Pacific,urban,Drinking water,2004,1.11977,9156397.28583,Unimproved
+who,Western Pacific,total,Drinking water,2005,86.08706,1537037458.52924,At least basic
+who,Western Pacific,rural,Drinking water,2005,75.41527,709893177.15814,At least basic
+who,Western Pacific,urban,Drinking water,2005,8.23416,69507293.00726,Basic service
+who,Western Pacific,total,Drinking water,2005,0.7043,12574812.48471,Limited service
+who,Western Pacific,rural,Drinking water,2005,0.84187,7924646.56541,Limited service
+who,Western Pacific,urban,Drinking water,2005,0.55088,4650165.90368,Limited service
+who,Western Pacific,urban,Drinking water,2005,89.75326,757637001.02664,Safely managed service
+who,Western Pacific,total,Drinking water,2005,2.53718,45300007.65501,Surface water
+who,Western Pacific,rural,Drinking water,2005,4.55084,42837587.38929,Surface water
+who,Western Pacific,urban,Drinking water,2005,0.29171,2462420.74575,Surface water
+who,Western Pacific,total,Drinking water,2005,10.67146,190533095.65504,Unimproved
+who,Western Pacific,rural,Drinking water,2005,19.19202,180656838.91891,Unimproved
+who,Western Pacific,urban,Drinking water,2005,1.16999,9876261.41146,Unimproved
+who,Western Pacific,total,Drinking water,2006,86.81321,1560363109.07941,At least basic
+who,Western Pacific,rural,Drinking water,2006,76.3516,708058768.5614,At least basic
+who,Western Pacific,urban,Drinking water,2006,8.26152,71876410.92436,Basic service
+who,Western Pacific,total,Drinking water,2006,0.72913,13105254.57727,Limited service
+who,Western Pacific,rural,Drinking water,2006,0.91593,8494058.1422,Limited service
+who,Western Pacific,urban,Drinking water,2006,0.53001,4611196.35638,Limited service
+who,Western Pacific,urban,Drinking water,2006,89.70293,780427889.18406,Safely managed service
+who,Western Pacific,total,Drinking water,2006,2.34038,42065433.84047,Surface water
+who,Western Pacific,rural,Drinking water,2006,4.26909,39590111.6168,Surface water
+who,Western Pacific,urban,Drinking water,2006,0.28452,2475321.6261,Surface water
+who,Western Pacific,total,Drinking water,2006,10.11729,181846040.84642,Unimproved
+who,Western Pacific,rural,Drinking water,2006,18.46337,171223019.10502,Unimproved
+who,Western Pacific,urban,Drinking water,2006,1.22102,10623024.22164,Unimproved
+who,Western Pacific,total,Drinking water,2007,87.51682,1583419755.55278,At least basic
+who,Western Pacific,rural,Drinking water,2007,77.29257,706103486.35893,At least basic
+who,Western Pacific,urban,Drinking water,2007,8.28782,74236365.48895,Basic service
+who,Western Pacific,total,Drinking water,2007,0.7528,13620134.7617,Limited service
+who,Western Pacific,rural,Drinking water,2007,0.9918,9060543.239,Limited service
+who,Western Pacific,urban,Drinking water,2007,0.50904,4559591.71193,Limited service
+who,Western Pacific,urban,Drinking water,2007,89.65662,803079912.21712,Safely managed service
+who,Western Pacific,total,Drinking water,2007,2.1504,38906669.57332,Surface water
+who,Western Pacific,rural,Drinking water,2007,3.98451,36400313.6091,Surface water
+who,Western Pacific,urban,Drinking water,2007,0.27981,2506357.29609,Surface water
+who,Western Pacific,total,Drinking water,2007,9.57999,173328337.80351,Unimproved
+who,Western Pacific,rural,Drinking water,2007,17.73113,161982054.70432,Unimproved
+who,Western Pacific,urban,Drinking water,2007,1.26671,11346292.5852,Unimproved
+who,Western Pacific,total,Drinking water,2008,88.19695,1606219103.44914,At least basic
+who,Western Pacific,rural,Drinking water,2008,78.23035,703657364.32419,At least basic
+who,Western Pacific,urban,Drinking water,2008,8.31447,76634855.6968,Basic service
+who,Western Pacific,total,Drinking water,2008,0.77554,14123924.70029,Limited service
+who,Western Pacific,rural,Drinking water,2008,1.07024,9626490.54328,Limited service
+who,Western Pacific,urban,Drinking water,2008,0.48795,4497434.08806,Limited service
+who,Western Pacific,urban,Drinking water,2008,89.60862,825926898.19403,Safely managed service
+who,Western Pacific,total,Drinking water,2008,1.985,36150213.51929,Surface water
+who,Western Pacific,rural,Drinking water,2008,3.737,33613152.03334,Surface water
+who,Western Pacific,urban,Drinking water,2008,0.27526,2537061.22892,Surface water
+who,Western Pacific,total,Drinking water,2008,9.04252,164679904.71995,Unimproved
+who,Western Pacific,rural,Drinking water,2008,16.9624,152571448.87466,Unimproved
+who,Western Pacific,urban,Drinking water,2008,1.3137,12108458.17151,Unimproved
+who,Western Pacific,total,Drinking water,2009,88.85383,1628788460.54083,At least basic
+who,Western Pacific,rural,Drinking water,2009,79.1675,700831033.64376,At least basic
+who,Western Pacific,urban,Drinking water,2009,8.3432,79081769.18077,Basic service
+who,Western Pacific,total,Drinking water,2009,0.79726,14614698.47656,Limited service
+who,Western Pacific,rural,Drinking water,2009,1.15138,10192620.82256,Limited service
+who,Western Pacific,urban,Drinking water,2009,0.46653,4422077.6216,Limited service
+who,Western Pacific,urban,Drinking water,2009,89.55715,848875578.50777,Safely managed service
+who,Western Pacific,total,Drinking water,2009,1.80428,33074377.73324,Surface water
+who,Western Pacific,rural,Drinking water,2009,3.44598,30505562.96474,Surface water
+who,Western Pacific,urban,Drinking water,2009,0.27101,2568814.61666,Surface water
+who,Western Pacific,total,Drinking water,2009,8.54464,156632576.43858,Unimproved
+who,Western Pacific,rural,Drinking water,2009,16.23514,143721746.17483,Unimproved
+who,Western Pacific,urban,Drinking water,2009,1.3621,12910829.91796,Unimproved
+who,Western Pacific,total,Drinking water,2010,89.48792,1651141122.4392,At least basic
+who,Western Pacific,rural,Drinking water,2010,80.10317,697557133.02245,At least basic
+who,Western Pacific,urban,Drinking water,2010,8.37438,81589554.06542,Basic service
+who,Western Pacific,total,Drinking water,2010,0.81791,15091222.45719,Limited service
+who,Western Pacific,rural,Drinking water,2010,1.23487,10753564.31835,Limited service
+who,Western Pacific,urban,Drinking water,2010,0.44522,4337658.29201,Limited service
+who,Western Pacific,urban,Drinking water,2010,89.50178,871994354.82798,Safely managed service
+who,Western Pacific,total,Drinking water,2010,1.62893,30055288.54429,Surface water
+who,Western Pacific,rural,Drinking water,2010,3.15284,27455625.91194,Surface water
+who,Western Pacific,urban,Drinking water,2010,0.26683,2599663.14847,Surface water
+who,Western Pacific,total,Drinking water,2010,8.06525,148811831.45525,Unimproved
+who,Western Pacific,rural,Drinking water,2010,15.50912,135057018.8678,Unimproved
+who,Western Pacific,urban,Drinking water,2010,1.4118,13754812.61064,Unimproved
+who,Western Pacific,total,Drinking water,2011,90.09091,1673124343.58732,At least basic
+who,Western Pacific,rural,Drinking water,2011,81.04969,695154471.83595,At least basic
+who,Western Pacific,urban,Drinking water,2011,7.75832,77541422.54531,Basic service
+who,Western Pacific,total,Drinking water,2011,0.83768,15556975.97515,Limited service
+who,Western Pacific,rural,Drinking water,2011,1.3191,11313810.20363,Limited service
+who,Western Pacific,urban,Drinking water,2011,0.42455,4243165.68714,Limited service
+who,Western Pacific,urban,Drinking water,2011,90.09133,900428498.06125,Safely managed service
+who,Western Pacific,total,Drinking water,2011,1.46006,27115488.57411,Surface water
+who,Western Pacific,rural,Drinking water,2011,2.85515,24488309.38871,Surface water
+who,Western Pacific,urban,Drinking water,2011,0.26286,2627178.92366,Surface water
+who,Western Pacific,total,Drinking water,2011,7.61135,141354242.80729,Unimproved
+who,Western Pacific,rural,Drinking water,2011,14.77606,126732663.38462,Unimproved
+who,Western Pacific,urban,Drinking water,2011,1.46295,14621581.07813,Unimproved
+who,Western Pacific,total,Drinking water,2012,90.66734,1694781013.79902,At least basic
+who,Western Pacific,rural,Drinking water,2012,81.99648,692930896.92616,At least basic
+who,Western Pacific,urban,Drinking water,2012,7.14002,73124977.61718,Basic service
+who,Western Pacific,total,Drinking water,2012,0.85664,16012602.57039,Limited service
+who,Western Pacific,rural,Drinking water,2012,1.40533,11876112.06806,Limited service
+who,Western Pacific,urban,Drinking water,2012,0.40389,4136490.95793,Limited service
+who,Western Pacific,urban,Drinking water,2012,90.68199,928725102.77722,Safely managed service
+who,Western Pacific,total,Drinking water,2012,1.29698,24243535.08837,Surface water
+who,Western Pacific,rural,Drinking water,2012,2.55506,21592155.41723,Surface water
+who,Western Pacific,urban,Drinking water,2012,0.25888,2651380.69524,Surface water
+who,Western Pacific,total,Drinking water,2012,7.17904,134192854.73963,Unimproved
+who,Western Pacific,rural,Drinking water,2012,14.04312,118674759.55156,Unimproved
+who,Western Pacific,urban,Drinking water,2012,1.51521,15518097.36735,Unimproved
+who,Western Pacific,total,Drinking water,2013,91.22114,1716090545.21007,At least basic
+who,Western Pacific,rural,Drinking water,2013,82.93845,690316688.43341,At least basic
+who,Western Pacific,urban,Drinking water,2013,6.51601,68347658.7973,Basic service
+who,Western Pacific,total,Drinking water,2013,0.87461,16453578.01482,Limited service
+who,Western Pacific,rural,Drinking water,2013,1.49394,12434420.01145,Limited service
+who,Western Pacific,urban,Drinking water,2013,0.38317,4019158.34864,Limited service
+who,Western Pacific,urban,Drinking water,2013,91.27751,957426261.28828,Safely managed service
+who,Western Pacific,total,Drinking water,2013,1.14012,21448466.88869,Surface water
+who,Western Pacific,rural,Drinking water,2013,2.25346,18756123.10508,Surface water
+who,Western Pacific,urban,Drinking water,2013,0.25668,2692344.41862,Surface water
+who,Western Pacific,total,Drinking water,2013,6.76412,127249559.26432,Unimproved
+who,Western Pacific,rural,Drinking water,2013,13.31415,110816903.55856,Unimproved
+who,Western Pacific,urban,Drinking water,2013,1.56663,16432656.36345,Unimproved
+who,Western Pacific,total,Drinking water,2014,91.77543,1737363472.11633,At least basic
+who,Western Pacific,rural,Drinking water,2014,83.9144,687527552.61029,At least basic
+who,Western Pacific,urban,Drinking water,2014,5.89581,63305593.9802,Basic service
+who,Western Pacific,total,Drinking water,2014,0.86964,16462851.22194,Limited service
+who,Western Pacific,rural,Drinking water,2014,1.54696,12674583.10156,Limited service
+who,Western Pacific,urban,Drinking water,2014,0.35281,3788267.85306,Limited service
+who,Western Pacific,urban,Drinking water,2014,91.87801,986530380.87128,Safely managed service
+who,Western Pacific,total,Drinking water,2014,0.98739,18691793.39797,Surface water
+who,Western Pacific,rural,Drinking water,2014,1.95042,15980146.55241,Surface water
+who,Western Pacific,urban,Drinking water,2014,0.25254,2711646.45538,Surface water
+who,Western Pacific,total,Drinking water,2014,6.36754,120541331.15305,Unimproved
+who,Western Pacific,rural,Drinking water,2014,12.58822,103137839.26405,Unimproved
+who,Western Pacific,urban,Drinking water,2014,1.62083,17403486.81048,Unimproved
+who,Western Pacific,total,Drinking water,2015,92.29289,1757783202.39268,At least basic
+who,Western Pacific,rural,Drinking water,2015,84.84344,683887265.18755,At least basic
+who,Western Pacific,urban,Drinking water,2015,5.27567,57953951.53485,Basic service
+who,Western Pacific,total,Drinking water,2015,0.87782,16718771.52816,Limited service
+who,Western Pacific,rural,Drinking water,2015,1.64255,13239886.26349,Limited service
+who,Western Pacific,urban,Drinking water,2015,0.31669,3478885.25794,Limited service
+who,Western Pacific,urban,Drinking water,2015,92.48342,1015941999.34897,Safely managed service
+who,Western Pacific,total,Drinking water,2015,0.84041,16006234.84724,Surface water
+who,Western Pacific,rural,Drinking water,2015,1.64587,13266665.64202,Surface water
+who,Western Pacific,urban,Drinking water,2015,0.24939,2739569.19772,Surface water
+who,Western Pacific,total,Drinking water,2015,5.98887,114062263.13941,Unimproved
+who,Western Pacific,rural,Drinking water,2015,11.86814,95664040.2386,Unimproved
+who,Western Pacific,urban,Drinking water,2015,1.67483,18398216.99398,Unimproved
+who,Western Pacific,total,Drinking water,2016,92.78286,1777481817.78359,At least basic
+who,Western Pacific,rural,Drinking water,2016,85.76482,679713537.83594,At least basic
+who,Western Pacific,urban,Drinking water,2016,4.64137,52132439.88639,Basic service
+who,Western Pacific,total,Drinking water,2016,0.88983,17046886.44274,Limited service
+who,Western Pacific,rural,Drinking water,2016,1.74099,13797869.53269,Limited service
+who,Western Pacific,urban,Drinking water,2016,0.28926,3249016.84123,Limited service
+who,Western Pacific,urban,Drinking water,2016,93.09337,1045635825.78861,Safely managed service
+who,Western Pacific,total,Drinking water,2016,0.70212,13450725.29777,Surface water
+who,Western Pacific,rural,Drinking water,2016,1.3449,10658730.65927,Surface water
+who,Western Pacific,urban,Drinking water,2016,0.24857,2791994.58555,Surface water
+who,Western Pacific,total,Drinking water,2016,5.62519,107764304.17523,Unimproved
+who,Western Pacific,rural,Drinking water,2016,11.14929,88361695.16587,Unimproved
+who,Western Pacific,urban,Drinking water,2016,1.72742,19402609.1717,Unimproved
+who,Western Pacific,total,Drinking water,2017,93.24809,1796467275.96436,At least basic
+who,Western Pacific,rural,Drinking water,2017,86.68175,675090541.95832,At least basic
+who,Western Pacific,urban,Drinking water,2017,3.99661,45870317.57475,Basic service
+who,Western Pacific,total,Drinking water,2017,0.90407,17417408.19528,Limited service
+who,Western Pacific,rural,Drinking water,2017,1.84176,14343915.4815,Limited service
+who,Western Pacific,urban,Drinking water,2017,0.26779,3073492.33722,Limited service
+who,Western Pacific,urban,Drinking water,2017,93.7072,1075506329.46826,Safely managed service
+who,Western Pacific,total,Drinking water,2017,0.591,11385899.01664,Surface water
+who,Western Pacific,rural,Drinking water,2017,1.09677,8541772.27703,Surface water
+who,Western Pacific,urban,Drinking water,2017,0.2478,2844126.53495,Surface water
+who,Western Pacific,total,Drinking water,2017,5.25684,101275348.72147,Unimproved
+who,Western Pacific,rural,Drinking water,2017,10.37972,80838852.29331,Unimproved
+who,Western Pacific,urban,Drinking water,2017,1.7806,20436494.55096,Unimproved
+who,Western Pacific,total,Drinking water,2018,93.69022,1814651616.76248,At least basic
+who,Western Pacific,rural,Drinking water,2018,87.59203,670207323.12028,At least basic
+who,Western Pacific,urban,Drinking water,2018,3.34841,39233879.55318,Basic service
+who,Western Pacific,total,Drinking water,2018,0.91743,17769457.0615,Limited service
+who,Western Pacific,rural,Drinking water,2018,1.94517,14883432.26042,Limited service
+who,Western Pacific,urban,Drinking water,2018,0.24631,2886024.6279,Limited service
+who,Western Pacific,urban,Drinking water,2018,94.324,1105210387.59052,Safely managed service
+who,Western Pacific,total,Drinking water,2018,0.48501,9393912.83119,Surface water
+who,Western Pacific,rural,Drinking water,2018,0.84935,6498744.08024,Surface water
+who,Western Pacific,urban,Drinking water,2018,0.24709,2895168.68691,Surface water
+who,Western Pacific,total,Drinking water,2018,4.90735,95048584.60392,Unimproved
+who,Western Pacific,rural,Drinking water,2018,9.61345,73556963.75096,Unimproved
+who,Western Pacific,urban,Drinking water,2018,1.8342,21491620.76744,Unimproved
+who,Western Pacific,total,Drinking water,2019,94.119,1832086633.43442,At least basic
+who,Western Pacific,rural,Drinking water,2019,88.55308,665518456.64896,At least basic
+who,Western Pacific,urban,Drinking water,2019,2.67947,32020107.10297,Basic service
+who,Western Pacific,total,Drinking water,2019,0.92133,17934257.74118,Limited service
+who,Western Pacific,rural,Drinking water,2019,1.9949,14992629.79979,Limited service
+who,Western Pacific,urban,Drinking water,2019,0.24616,2941627.46174,Limited service
+who,Western Pacific,urban,Drinking water,2019,94.93995,1134548043.65591,Safely managed service
+who,Western Pacific,total,Drinking water,2019,0.40037,7793366.73773,Surface water
+who,Western Pacific,rural,Drinking water,2019,0.64286,4831406.44756,Surface water
+who,Western Pacific,urban,Drinking water,2019,0.24786,2961960.18802,Surface water
+who,Western Pacific,total,Drinking water,2019,4.55931,88749799.24859,Unimproved
+who,Western Pacific,rural,Drinking water,2019,8.80916,66205051.28721,Unimproved
+who,Western Pacific,urban,Drinking water,2019,1.88656,22544745.74718,Unimproved
+who,Western Pacific,total,Drinking water,2020,94.51587,1848304817.17005,At least basic
+who,Western Pacific,rural,Drinking water,2020,89.49509,660473359.92305,At least basic
+who,Western Pacific,urban,Drinking water,2020,2.26459,27572486.71911,Basic service
+who,Western Pacific,total,Drinking water,2020,0.92471,18083242.2259,Limited service
+who,Western Pacific,rural,Drinking water,2020,2.04436,15087372.66376,Limited service
+who,Western Pacific,urban,Drinking water,2020,0.24606,2995869.3304,Limited service
+who,Western Pacific,urban,Drinking water,2020,95.29455,1160258992.12777,Safely managed service
+who,Western Pacific,total,Drinking water,2020,0.39449,7714383.2973,Surface water
+who,Western Pacific,rural,Drinking water,2020,0.63373,4676940.29395,Surface water
+who,Western Pacific,urban,Drinking water,2020,0.24947,3037442.95368,Surface water
+who,Western Pacific,total,Drinking water,2020,4.16493,81447232.7165,Unimproved
+who,Western Pacific,rural,Drinking water,2020,7.82681,57761812.94955,Unimproved
+who,Western Pacific,urban,Drinking water,2020,1.94533,23685419.23203,Unimproved

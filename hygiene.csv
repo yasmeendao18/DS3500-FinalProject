@@ -1,0 +1,283 @@
+Type,Region,Residence Type,Service Type,Year,Coverage,Population,Service level
+who,Africa,total,Hygiene,2011,25.00949,220579817.0974,Basic service
+who,Africa,rural,Hygiene,2011,15.83687,86723429.08817,Basic service
+who,Africa,urban,Hygiene,2011,40.03122,133856387.40233,Basic service
+who,Africa,total,Hygiene,2011,36.65841,323321449.67092,Limited service
+who,Africa,rural,Hygiene,2011,40.30152,220692898.07239,Limited service
+who,Africa,urban,Hygiene,2011,30.6922,102628551.05701,Limited service
+who,Africa,total,Hygiene,2011,38.3321,338083145.96868,No handwashing facility
+who,Africa,rural,Hygiene,2011,43.86161,240188135.99898,No handwashing facility
+who,Africa,urban,Hygiene,2011,29.27658,97895009.43832,No handwashing facility
+who,Africa,total,Hygiene,2012,27.14278,245968544.45949,Basic service
+who,Africa,rural,Hygiene,2012,18.17068,101372663.02877,Basic service
+who,Africa,urban,Hygiene,2012,41.51345,144595880.53104,Basic service
+who,Africa,total,Hygiene,2012,36.09258,327071817.41007,Limited service
+who,Africa,rural,Hygiene,2012,39.87156,222440075.01474,Limited service
+who,Africa,urban,Hygiene,2012,30.03976,104631740.67453,Limited service
+who,Africa,total,Hygiene,2012,36.76464,333162067.5417,No handwashing facility
+who,Africa,rural,Hygiene,2012,41.95776,234078800.99148,No handwashing facility
+who,Africa,urban,Hygiene,2012,28.44679,99083264.75343,No handwashing facility
+who,Africa,total,Hygiene,2013,27.34769,254618905.14237,Basic service
+who,Africa,rural,Hygiene,2013,18.30323,104018952.17203,Basic service
+who,Africa,urban,Hygiene,2013,41.51798,150599950.34855,Basic service
+who,Africa,total,Hygiene,2013,36.04981,335639487.33016,Limited service
+who,Africa,rural,Hygiene,2013,39.88861,226690685.27977,Limited service
+who,Africa,urban,Hygiene,2013,30.03543,108948802.01025,Limited service
+who,Africa,total,Hygiene,2013,36.6025,340785202.10583,No handwashing facility
+who,Africa,rural,Hygiene,2013,41.80816,237599674.78577,No handwashing facility
+who,Africa,urban,Hygiene,2013,28.44659,103185527.56319,No handwashing facility
+who,Africa,total,Hygiene,2014,26.76252,255978194.38566,Basic service
+who,Africa,rural,Hygiene,2014,17.91273,103678445.9732,Basic service
+who,Africa,urban,Hygiene,2014,40.32479,152299747.93323,Basic service
+who,Africa,total,Hygiene,2014,38.17222,365109696.27551,Limited service
+who,Africa,rural,Hygiene,2014,42.0193,243206624.57688,Limited service
+who,Africa,urban,Hygiene,2014,32.27658,121903071.29434,Limited service
+who,Africa,total,Hygiene,2014,35.06526,335392215.4746,No handwashing facility
+who,Africa,rural,Hygiene,2014,40.06797,231912353.58892,No handwashing facility
+who,Africa,urban,Hygiene,2014,27.39863,103479861.53843,No handwashing facility
+who,Africa,total,Hygiene,2015,27.22981,267528727.99019,Basic service
+who,Africa,rural,Hygiene,2015,18.15388,106986769.62272,Basic service
+who,Africa,urban,Hygiene,2015,40.83459,160541958.37617,Basic service
+who,Africa,total,Hygiene,2015,38.8244,381443852.97106,Limited service
+who,Africa,rural,Hygiene,2015,42.74856,251931368.7319,Limited service
+who,Africa,urban,Hygiene,2015,32.9421,129512483.42514,Limited service
+who,Africa,total,Hygiene,2015,33.94579,333512194.92145,No handwashing facility
+who,Africa,rural,Hygiene,2015,39.09756,230414799.02038,No handwashing facility
+who,Africa,urban,Hygiene,2015,26.2233,103097395.10569,No handwashing facility
+who,Africa,total,Hygiene,2016,27.71699,279677778.24525,Basic service
+who,Africa,rural,Hygiene,2016,18.5151,111073344.2391,Basic service
+who,Africa,urban,Hygiene,2016,41.20935,168604434.75006,Basic service
+who,Africa,total,Hygiene,2016,39.10099,394547781.59243,Limited service
+who,Africa,rural,Hygiene,2016,43.00272,257976263.46313,Limited service
+who,Africa,urban,Hygiene,2016,33.38005,136571520.20657,Limited service
+who,Africa,total,Hygiene,2016,33.18201,334822467.8913,No handwashing facility
+who,Africa,rural,Hygiene,2016,38.48218,230857259.07537,No handwashing facility
+who,Africa,urban,Hygiene,2016,25.4106,103965210.69938,No handwashing facility
+who,Africa,total,Hygiene,2017,27.8979,289064081.12984,Basic service
+who,Africa,rural,Hygiene,2017,18.61278,113630294.5359,Basic service
+who,Africa,urban,Hygiene,2017,41.21514,175433787.04877,Basic service
+who,Africa,total,Hygiene,2017,39.03586,404470065.10965,Limited service
+who,Africa,rural,Hygiene,2017,42.99416,262477666.40759,Limited service
+who,Africa,urban,Hygiene,2017,33.35866,141992400.15354,Limited service
+who,Africa,total,Hygiene,2017,33.06623,342615742.6539,No handwashing facility
+who,Africa,rural,Hygiene,2017,38.39307,234388200.76351,No handwashing facility
+who,Africa,urban,Hygiene,2017,25.42619,108227543.21469,No handwashing facility
+who,Africa,total,Hygiene,2018,28.18154,299778433.85618,Basic service
+who,Africa,rural,Hygiene,2018,18.77771,116621265.90374,Basic service
+who,Africa,urban,Hygiene,2018,41.37479,183157170.2224,Basic service
+who,Africa,total,Hygiene,2018,39.12427,416180632.73471,Limited service
+who,Africa,rural,Hygiene,2018,43.1069,267720702.22952,Limited service
+who,Africa,urban,Hygiene,2018,33.53676,148459930.67123,Limited service
+who,Africa,total,Hygiene,2018,32.69419,347781325.13786,No handwashing facility
+who,Africa,rural,Hygiene,2018,38.11539,236720261.76173,No handwashing facility
+who,Africa,urban,Hygiene,2018,25.08844,111061063.14893,No handwashing facility
+who,Africa,total,Hygiene,2019,28.31779,309162035.58569,Basic service
+who,Africa,rural,Hygiene,2019,18.83351,118945996.95922,Basic service
+who,Africa,urban,Hygiene,2019,41.33397,190216039.76246,Basic service
+who,Africa,total,Hygiene,2019,39.00956,425890339.61238,Limited service
+who,Africa,rural,Hygiene,2019,43.01894,271692921.78312,Limited service
+who,Africa,urban,Hygiene,2019,33.50712,154197415.74929,Limited service
+who,Africa,total,Hygiene,2019,32.67264,356706489.40691,No handwashing facility
+who,Africa,rural,Hygiene,2019,38.14756,240926945.36066,No handwashing facility
+who,Africa,urban,Hygiene,2019,25.15891,115779541.85226,No handwashing facility
+who,Africa,total,Hygiene,2020,28.24312,316368543.75091,Basic service
+who,Africa,rural,Hygiene,2020,18.78594,120600875.60581,Basic service
+who,Africa,urban,Hygiene,2020,40.93954,195767670.54937,Basic service
+who,Africa,total,Hygiene,2020,38.93379,436121209.278,Limited service
+who,Africa,rural,Hygiene,2020,42.9457,275700231.38874,Limited service
+who,Africa,urban,Hygiene,2020,33.54773,160420978.96322,Limited service
+who,Africa,total,Hygiene,2020,32.82309,367671508.74848,No handwashing facility
+who,Africa,rural,Hygiene,2020,38.26836,245672901.48781,No handwashing facility
+who,Africa,urban,Hygiene,2020,25.51273,121998607.89541,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2007,65.82268,367808427.04085,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2007,49.21222,141367353.75422,Basic service
+who,Eastern Mediterranean,total,Hygiene,2007,23.30732,130238242.35767,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2007,34.4489,98958144.86359,Limited service
+who,Eastern Mediterranean,total,Hygiene,2007,10.86999,60740074.50148,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2007,16.33887,46935152.28819,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2008,66.31961,378995669.60698,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2008,49.86585,145548331.22583,Basic service
+who,Eastern Mediterranean,total,Hygiene,2008,23.10156,132018151.07908,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2008,34.26235,100004871.88801,Limited service
+who,Eastern Mediterranean,total,Hygiene,2008,10.57882,60454642.31395,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2008,15.87179,46326553.29587,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2009,64.22011,375265394.38153,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2009,47.12652,139737991.60236,Basic service
+who,Eastern Mediterranean,total,Hygiene,2009,24.67953,144212996.08565,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2009,36.16492,107235015.97161,Limited service
+who,Eastern Mediterranean,total,Hygiene,2009,11.10035,64864086.53282,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2009,16.70856,49543670.62733,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2010,66.75591,398780356.17642,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2010,49.64032,149502469.84597,Basic service
+who,Eastern Mediterranean,total,Hygiene,2010,22.56851,134817721.45438,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2010,34.26509,103196666.62626,Limited service
+who,Eastern Mediterranean,total,Hygiene,2010,10.67558,63772805.3692,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2010,16.09459,48472303.61777,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2011,67.2753,410748953.74664,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2011,50.39626,154282563.17587,Basic service
+who,Eastern Mediterranean,total,Hygiene,2011,22.39552,136735735.00915,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2011,34.07513,104317222.85233,Limited service
+who,Eastern Mediterranean,total,Hygiene,2011,10.32917,63064706.04421,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2011,15.52861,47539114.71481,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2012,68.82797,429394480.03244,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2012,52.8708,164588089.66275,Basic service
+who,Eastern Mediterranean,total,Hygiene,2012,22.14608,138161906.39082,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2012,33.2779,103594919.53164,Limited service
+who,Eastern Mediterranean,total,Hygiene,2012,9.02596,56309896.57674,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2012,13.8513,43119434.88661,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2013,70.29233,447949494.4725,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2013,55.34811,175166900.60192,Basic service
+who,Eastern Mediterranean,total,Hygiene,2013,21.56487,137425698.84967,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2013,32.16136,101784958.99413,Limited service
+who,Eastern Mediterranean,total,Hygiene,2013,8.14279,51891302.67847,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2013,12.49053,39530312.38426,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2014,71.94775,468151543.59425,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2014,58.46687,188055332.30439,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2014,85.12568,280096212.0617,Basic service
+who,Eastern Mediterranean,total,Hygiene,2014,20.57714,133891909.96754,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2014,30.41057,97813858.13324,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2014,10.96469,36078051.16308,Limited service
+who,Eastern Mediterranean,total,Hygiene,2014,7.47511,48639231.09029,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2014,11.12256,35775070.25605,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2014,3.90962,12864160.58522,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2015,73.35069,487098731.36914,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2015,60.80767,198552654.37956,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2015,85.48432,288546076.33922,Basic service
+who,Eastern Mediterranean,total,Hygiene,2015,19.76744,131269338.9785,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2015,29.0687,94916762.50795,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2015,10.76977,36352575.60876,Limited service
+who,Eastern Mediterranean,total,Hygiene,2015,6.88187,45700299.65967,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2015,10.12363,33056253.69749,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2015,3.74591,12644045.66202,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2016,74.83192,506895959.53157,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2016,63.27669,209689521.19508,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2016,85.89926,297206439.41515,Basic service
+who,Eastern Mediterranean,total,Hygiene,2016,18.73368,126898082.95431,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2016,27.24716,90293034.59005,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2016,10.57967,36605049.27603,Limited service
+who,Eastern Mediterranean,total,Hygiene,2016,6.43439,43585255.42286,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2016,9.47615,31402556.02388,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2016,3.52107,12182699.71882,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2017,75.89382,524142328.58621,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2017,65.05883,218729605.57437,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2017,86.1718,305412712.7282,Basic service
+who,Eastern Mediterranean,total,Hygiene,2017,18.00793,124367425.47334,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2017,25.98919,87376375.75319,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2017,10.43698,36991047.91109,Limited service
+who,Eastern Mediterranean,total,Hygiene,2017,6.09825,42116069.95038,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2017,8.95198,30096809.37644,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2017,3.39122,12019259.97071,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2018,79.31514,558285148.88133,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2018,70.16704,239247919.02687,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2018,87.91008,319037232.96444,Basic service
+who,Eastern Mediterranean,total,Hygiene,2018,15.96866,112400566.01975,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2018,23.16653,78990715.19575,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2018,9.20602,33409853.43895,Limited service
+who,Eastern Mediterranean,total,Hygiene,2018,4.7162,33196520.92295,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2018,6.66643,22730475.86038,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2018,2.8839,10466045.79625,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2019,80.40839,576735353.05273,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2019,72.02808,249012257.38239,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2019,88.20617,327723097.60112,Basic service
+who,Eastern Mediterranean,total,Hygiene,2019,15.23734,109290976.48168,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2019,21.88428,75657368.34555,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2019,9.05243,33633609.25116,Limited service
+who,Eastern Mediterranean,total,Hygiene,2019,4.35427,31231367.47391,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2019,6.08764,21045914.59006,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2019,2.7414,10185453.18773,No handwashing facility
+who,Eastern Mediterranean,total,Hygiene,2020,81.492,595561632.01152,Basic service
+who,Eastern Mediterranean,rural,Hygiene,2020,73.89155,258956114.83837,Basic service
+who,Eastern Mediterranean,urban,Hygiene,2020,88.49473,336605524.13687,Basic service
+who,Eastern Mediterranean,total,Hygiene,2020,14.45772,105660264.79116,Limited service
+who,Eastern Mediterranean,rural,Hygiene,2020,20.48795,71800901.41514,Limited service
+who,Eastern Mediterranean,urban,Hygiene,2020,8.90174,33859364.40607,Limited service
+who,Eastern Mediterranean,total,Hygiene,2020,4.05027,29600303.37188,No handwashing facility
+who,Eastern Mediterranean,rural,Hygiene,2020,5.6205,19697295.57649,No handwashing facility
+who,Eastern Mediterranean,urban,Hygiene,2020,2.60353,9903008.08706,No handwashing facility
+who,South-East Asia,total,Hygiene,2010,64.378,1168753721.35269,Basic service
+who,South-East Asia,rural,Hygiene,2010,56.49498,678066256.14693,Basic service
+who,South-East Asia,urban,Hygiene,2010,79.75661,490687485.91897,Basic service
+who,South-East Asia,total,Hygiene,2011,65.14075,1196952233.4802,Basic service
+who,South-East Asia,rural,Hygiene,2011,57.27415,691202990.53467,Basic service
+who,South-East Asia,urban,Hygiene,2011,80.19443,505749243.01794,Basic service
+who,South-East Asia,total,Hygiene,2012,65.87235,1224594383.04138,Basic service
+who,South-East Asia,rural,Hygiene,2012,58.01705,703634226.26872,Basic service
+who,South-East Asia,urban,Hygiene,2012,80.61458,520960174.57109,Basic service
+who,South-East Asia,total,Hygiene,2012,28.38642,527715411.67616,Limited service
+who,South-East Asia,rural,Hygiene,2012,35.35531,428791232.55563,Limited service
+who,South-East Asia,urban,Hygiene,2012,15.30776,98924191.01231,Limited service
+who,South-East Asia,total,Hygiene,2012,5.74122,106731748.91169,No handwashing facility
+who,South-East Asia,rural,Hygiene,2012,6.62764,80380452.91565,No handwashing facility
+who,South-East Asia,urban,Hygiene,2012,4.07766,26351298.1866,No handwashing facility
+who,South-East Asia,total,Hygiene,2013,66.63536,1252874179.88775,Basic service
+who,South-East Asia,rural,Hygiene,2013,58.79354,716203237.7032,Basic service
+who,South-East Asia,urban,Hygiene,2013,81.06474,536670960.03144,Basic service
+who,South-East Asia,total,Hygiene,2013,28.05365,527463083.29705,Limited service
+who,South-East Asia,rural,Hygiene,2013,35.04408,426895270.4154,Limited service
+who,South-East Asia,urban,Hygiene,2013,15.19088,100567821.85951,Limited service
+who,South-East Asia,total,Hygiene,2013,5.31099,99856972.65797,No handwashing facility
+who,South-East Asia,rural,Hygiene,2013,6.16239,75068123.1014,No handwashing facility
+who,South-East Asia,urban,Hygiene,2013,3.74438,24788851.18906,No handwashing facility
+who,South-East Asia,total,Hygiene,2014,67.38659,1281050368.87946,Basic service
+who,South-East Asia,rural,Hygiene,2014,59.55332,728323431.44721,Basic service
+who,South-East Asia,urban,Hygiene,2014,81.51478,552726895.82972,Basic service
+who,South-East Asia,total,Hygiene,2014,27.72956,527151919.66846,Limited service
+who,South-East Asia,rural,Hygiene,2014,34.74478,424920625.03474,Limited service
+who,South-East Asia,urban,Hygiene,2014,15.07681,102231277.13476,Limited service
+who,South-East Asia,total,Hygiene,2014,4.88385,92844240.90109,No handwashing facility
+who,South-East Asia,rural,Hygiene,2014,5.7019,69732893.57805,No handwashing facility
+who,South-East Asia,urban,Hygiene,2014,3.4084,23111344.25621,No handwashing facility
+who,South-East Asia,total,Hygiene,2015,68.13271,1309287992.07146,Basic service
+who,South-East Asia,rural,Hygiene,2015,60.30489,740128224.16512,Basic service
+who,South-East Asia,urban,Hygiene,2015,81.96866,569159766.40622,Basic service
+who,South-East Asia,total,Hygiene,2015,27.40807,526693441.16897,Limited service
+who,South-East Asia,rural,Hygiene,2015,34.44976,422805520.21157,Limited service
+who,South-East Asia,urban,Hygiene,2015,14.96162,103887921.23161,Limited service
+who,South-East Asia,total,Hygiene,2015,4.45922,85691641.74228,No handwashing facility
+who,South-East Asia,rural,Hygiene,2015,5.24535,64376709.35454,No handwashing facility
+who,South-East Asia,urban,Hygiene,2015,3.06971,21314932.40216,No handwashing facility
+who,South-East Asia,total,Hygiene,2016,68.87367,1337589392.77856,Basic service
+who,South-East Asia,rural,Hygiene,2016,61.04835,751610695.7944,Basic service
+who,South-East Asia,urban,Hygiene,2016,82.4256,585978684.89176,Basic service
+who,South-East Asia,total,Hygiene,2016,27.08907,526094480.33739,Limited service
+who,South-East Asia,rural,Hygiene,2016,34.15881,420553916.58191,Limited service
+who,South-East Asia,urban,Hygiene,2016,14.84567,105540563.87922,Limited service
+who,South-East Asia,total,Hygiene,2016,4.03726,78407221.00711,No handwashing facility
+who,South-East Asia,rural,Hygiene,2016,4.79284,59008122.21493,No handwashing facility
+who,South-East Asia,urban,Hygiene,2016,2.72874,19399098.66902,No handwashing facility
+who,South-East Asia,total,Hygiene,2017,69.60971,1365938221.54927,Basic service
+who,South-East Asia,rural,Hygiene,2017,61.78434,762758513.57682,Basic service
+who,South-East Asia,urban,Hygiene,2017,82.88496,603179716.26037,Basic service
+who,South-East Asia,total,Hygiene,2017,26.77196,525341109.35458,Limited service
+who,South-East Asia,rural,Hygiene,2017,33.87088,418153004.64592,Limited service
+who,South-East Asia,urban,Hygiene,2017,14.72908,107188100.56019,Limited service
+who,South-East Asia,total,Hygiene,2017,3.61833,71001892.67785,No handwashing facility
+who,South-East Asia,rural,Hygiene,2017,4.34478,53638466.27726,No handwashing facility
+who,South-East Asia,urban,Hygiene,2017,2.38597,17363426.00944,No handwashing facility
+who,South-East Asia,total,Hygiene,2018,70.34102,1394326866.28529,Basic service
+who,South-East Asia,rural,Hygiene,2018,62.5133,773566455.55786,Basic service
+who,South-East Asia,urban,Hygiene,2018,83.34642,620760355.71821,Basic service
+who,South-East Asia,total,Hygiene,2018,26.45628,524426626.34783,Limited service
+who,South-East Asia,rural,Hygiene,2018,33.58536,415599634.06989,Limited service
+who,South-East Asia,urban,Hygiene,2018,14.61166,108826970.89176,Limited service
+who,South-East Asia,total,Hygiene,2018,3.2027,63485056.61993,No handwashing facility
+who,South-East Asia,rural,Hygiene,2018,3.90134,48276881.28225,No handwashing facility
+who,South-East Asia,urban,Hygiene,2018,2.04193,15208172.76003,No handwashing facility
+who,South-East Asia,total,Hygiene,2019,71.06799,1422742981.03844,Basic service
+who,South-East Asia,rural,Hygiene,2019,63.23601,784026351.34127,Basic service
+who,South-East Asia,urban,Hygiene,2019,83.80957,638716642.64455,Basic service
+who,South-East Asia,total,Hygiene,2019,26.09738,522455471.17502,Limited service
+who,South-East Asia,rural,Hygiene,2019,33.26171,412392467.33451,Limited service
+who,South-East Asia,urban,Hygiene,2019,14.44198,110063012.24352,Limited service
+who,South-East Asia,total,Hygiene,2019,2.83463,56747822.3931,No handwashing facility
+who,South-East Asia,rural,Hygiene,2019,3.50229,43422799.38297,No handwashing facility
+who,South-East Asia,urban,Hygiene,2019,1.74845,13325023.88193,No handwashing facility
+who,South-East Asia,total,Hygiene,2020,71.46276,1444538638.78626,Basic service
+who,South-East Asia,rural,Hygiene,2020,63.60177,789757037.32058,Basic service
+who,South-East Asia,urban,Hygiene,2020,83.98244,654781556.3571,Basic service
+who,South-East Asia,total,Hygiene,2020,25.76995,520910358.29293,Limited service
+who,South-East Asia,rural,Hygiene,2020,32.96829,409374410.22445,Limited service
+who,South-East Asia,urban,Hygiene,2020,14.30563,111535929.52015,Limited service
+who,South-East Asia,total,Hygiene,2020,2.76729,55937633.57343,No handwashing facility
+who,South-East Asia,rural,Hygiene,2020,3.42994,42590314.11498,No handwashing facility
+who,South-East Asia,urban,Hygiene,2020,1.71193,13347317.49275,No handwashing facility
