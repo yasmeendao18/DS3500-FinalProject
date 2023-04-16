@@ -3,46 +3,48 @@ import numpy as np
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
-import folium
-import geopandas
+import plotly.express as px
 
-
-def read_data():
-    df_county = pd.read_csv('wash-country-2020.csv')
-    df_county.drop(['Year'], axis=1, inplace=True)
-    return df_county
+# read in data
+df = pd.read_csv('household_data.csv')
 
 def make_map():
-    # The data is in the first table - this changes from time to time - wikipedia is updated all the time.
-    
-    # Read the geopandas dataset
-    world = geopandas.read_file(geopandas.datasets.get_path('naturalearth_lowres'))
-    
-    # Merge the two DataFrames together
-    table = world.merge(table, how="left", left_on=['name'], right_on=['Country'])
-    
-    # Clean data: remove rows with no data
-    table = table.dropna(subset=['kg/person (2002)[9][note 1]'])
-    
-    # Create a map
-    my_map = folium.Map()
-    
-    # Add the data
-    folium.Choropleth(
-        geo_data=table,
-        name='choropleth',
-        data=table,
-        columns=['Country', 'kg/person (2002)[9][note 1]'],
-        key_on='feature.properties.name',
-        fill_color='OrRd',
-        fill_opacity=0.7,
-        line_opacity=0.2,
-        legend_name='Meat consumption in kg/person'
-    ).add_to(my_map)
-    my_map.show()
+    filt = df[df['year'] == 2020]
+    filt['percent'] = round(filt['wat_bas_n'] / filt['pop']*100,2)
+    fig = go.Figure(data=go.Choropleth(
+        locations = filt['iso3'],
+        z = filt['percent'],
+        text = filt['country'],
+        colorscale = 'Blues',
+        autocolorscale=False,
+        reversescale=False,
+        marker_line_color='darkgray',
+        marker_line_width=0.5,
+        colorbar_ticksuffix = '%',
+    ))
+
+    fig.update_layout(
+        width=750,
+        height=500,
+        title_text='2020 Water Coverage Basic Service Percent',
+        geo=dict(
+            showframe=False,
+            showcoastlines=False,
+            projection_type='equirectangular'
+        ),
+        annotations = [dict(
+            x=0.55,
+            y=0,
+            text='Sources: <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2021&most_recent_value_desc=true&start=1990&view=chart">\
+                GDP World Bank</a>',
+            showarrow = False
+        )]
+    )
+
+    fig.show()
 
 def main():
-    print('Reading data...')
+    make_map()
     
 if __name__ == '__main__':
     main()
