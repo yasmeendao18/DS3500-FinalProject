@@ -1,0 +1,54 @@
+household.csv
+
+Identifier Columns:
+- country
+- iso3 (country code)
+- region
+- year
+- pop (population)
+- pop_urban (urban population)
+- gdp (gross domestic product)
+
+Other columns are formatted by certain attributes for population by naming convention:
+if contains:
+- "wat" = drinking water data
+- "san" = sanitation data
+- "hyg" = hygiene data
+- "_n" = national (total)
+- "_r" = rural
+- "_u" = urban
+- "arc_" = annual rate of change (change between years)
+
+water specific columns (if contains):
+- "bas" = At least basic
+- "lim" = Limited (more than 30 mins)
+- "unimp" = Unimproved
+- "sur" = Surface water
+- "sm" = safely managed
+- "premises" = accessible on premises (closeby?)
+- "available" = available when needed
+- "quality" = free from contamination
+- "pip" = piped
+- "npip" = non-piped
+
+sanitation specific columns (if contains):
+- "bas" = At least basic
+- "lim" = Limited (shared)
+- "unimp" = Unimproved
+- "od" = Open defecation
+- "sm" = Safely managed
+- "sdo_sm" = Disposed in situ	
+- "fst_sm" = Emptied and treated
+- "sew_sm" = Wastewater treated
+- "lat" = Latrines and other
+- "sep" = Septic tanks
+- "sew" = Sewer connections
+
+hygiene specific columns (if contains):
+- "bas" = Basic	
+- "lim" = Limited (without water or soap)
+- "nfac" = No facility
+
+EXAMPLE:
+column "wat_lim_u" = # of people with access to a limited water source in the urban region
+                     for each country by year
