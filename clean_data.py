@@ -15,7 +15,7 @@ def _read_sheet(sheet, first):
         df: pd.DataFrame, the dataframe of the sheet
     '''
     # clean the dataframe of necessary columns
-    df = pd.read_excel('initial/JMP_2021_WLD.xlsx', sheet_name=sheet)\
+    df = pd.read_excel('base_data/JMP_2021_WLD.xlsx', sheet_name=sheet)\
         .drop(columns=['sl','region_who','region_unicef_programme','region_unicef_reporting'], axis=1)\
         .rename({'name': 'country', 'pop_n': 'pop', 'prop_u': 'pop_urban', 'region_sdg': 'region'}, axis=1)\
         .dropna(subset=['country'])\
@@ -37,10 +37,8 @@ def build_pop_df():
     # combine the dataframes
     comb_df = pd.concat([wat, hyg, san], axis=1, join='inner')
     
-    # multiply the dataframes by the populations to get population values
-    cols = [col for col in comb_df.columns if 'arc' not in col]
+    # make a copy of the dataframe
     pop_df = comb_df.copy()
-    pop_df[cols] = pop_df.loc[:,cols].multiply(comb_df['pop'], axis=0) * 10
     
     # get original population value
     pop_df['pop'] = comb_df['pop'] * 1000
@@ -51,7 +49,7 @@ def build_gdp_df():
     returns.
         gdp: pd.DataFrame, the dataframe
     '''
-    gdp = pd.read_csv('initial/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_5358352.csv', header=2)\
+    gdp = pd.read_csv('base_data/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_5358352.csv', header=2)\
         .rename({'Country Code': 'iso3'}, axis=1)\
         .drop(columns=['Country Name', 'Indicator Name', 'Indicator Code', 'Unnamed: 66'], axis=1)
     gdp = pd.melt(gdp, id_vars=['iso3'], var_name='year', value_name='gdp')
