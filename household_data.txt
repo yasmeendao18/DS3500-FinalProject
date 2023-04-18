@@ -50,5 +50,5 @@ hygiene specific columns (if contains):
 - "nfac" = No facility
 
 EXAMPLE:
-column "wat_lim_u" = # of people with access to a limited water source in the urban region
+column "wat_lim_u" = % of people with access to a limited water source in the urban region
                      for each country by year
