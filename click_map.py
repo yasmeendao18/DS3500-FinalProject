@@ -109,7 +109,7 @@ app = Dash(external_stylesheets=[dbc.themes.LUX])
 
 # define sidebar with filters
 sidebar = html.Div([
-    html.H1("Where's my Water?"),
+    html.H1("Water We Doing?"),
     html.P("a dashboard to visualize water supply, sanitation, and hygiene coverage as well as country GDP around the world with data from WHO/UNICEF Joint Monitoring Program and World Bank", style={'font-size': '13px'}),
     html.H5('Choose an issue:'),
     dcc.Dropdown(
