@@ -20,6 +20,7 @@ def _read_sheet(sheet, first):
         .rename({'name': 'country', 'pop_n': 'pop', 'prop_u': 'pop_urban', 'region_sdg': 'region'}, axis=1)\
         .dropna(subset=['country'])\
         .set_index(['country', 'iso3', 'region', 'year'])
+    df = df.loc[:,~df.columns.str.startswith('arc')]
     if not first:
         df = df.drop(columns=['pop', 'pop_urban'], axis=1)
     return df

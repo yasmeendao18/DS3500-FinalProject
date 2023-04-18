@@ -37,6 +37,28 @@ services = {
     'infrastructure': ['pip', 'npip', 'lat', 'sep', 'sew'],
 }
 
+# remap service level names to more readable names
+service_map = {
+    'bas': 'Basic',
+    'lim': 'Limited',
+    'umimp': 'Unimproved',
+    'sur': 'Surface water',
+    'nfac': 'No facility',
+    'od': 'Open defecation',
+    'sm': 'Safe management',
+    'premises': 'On premises',
+    'available': 'Available when needed',
+    'quality': 'Free from contamination',
+    'sdo_sm': 'Disposed of',
+    'fst_sm': 'Emptied and treated',
+    'sew_sm': 'Waste water treated',
+    'pip': 'Piped',
+    'npip': 'Non-piped',
+    'lat': 'Latrine',
+    'sep': 'Septic tank',
+    'sew': 'Sewerage system',
+}
+
 # create dropdown options for filters
 drop_ops = {
     'Service Level': [{'label': 'Availability', 'value': 'baseline'},
@@ -115,8 +137,7 @@ sidebar = html.Div([
             id='residence_type',
             options=drop_ops['Residence Type'],
             value='_n'
-        ),
-        html.Br(),]
+        ),]
     ),
     html.Div([
         html.Hr(),
@@ -127,7 +148,7 @@ sidebar = html.Div([
         html.Li(html.A('WHO/UNICEF WASH Data', href='https://washdata.org/data')),
         html.Li(html.A('For GDP', href='https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD?end=2021&most_recent_value_desc=true&start=1990&view=chart')),
         ])
-    ], className='fixed-bottom', style={"width": "20rem", "padding": "1rem 1rem",}),
+    ], className='fixed-bottom', style={"width": "20rem", "padding": "1rem 1rem","z-index": "-100"}),
 ], style=SIDEBAR_STYLE)
 
 # define main content with map and line chart
@@ -245,13 +266,16 @@ def update_line_chart(click_data, iss, ser_lev, res_type):
     # break up the service level dictionary
     serv = services[ser_lev]
     if iss != 'gdp':
-        fil_cols = ['iso3', 'year', 'country'] + [col for col in line_df.columns if any([x in col for x in serv]) and res_type in col]
+        fil_cols = ['iso3', 'year', 'country'] + [col for col in line_df.columns if any([x in col for x in serv]) and col.endswith(res_type)]
         line_df = line_df[fil_cols]
     
     # get the data for the selected country
     if click_data:
         location = click_data["points"][0]["location"]
         filtered_df = line_df[line_df["iso3"] == location]
+        new_dict = {string: service_map[key] for string in filtered_df.columns for key in service_map.keys() if key in string}
+        filtered_df = filtered_df.rename(columns=new_dict)
+
         
         # build the line chart
         line_fig = px.line(
