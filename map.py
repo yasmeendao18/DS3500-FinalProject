@@ -10,10 +10,9 @@ df = pd.read_csv('household_data.csv')
 
 def make_map():
     filt = df[df['year'] == 2020]
-    filt['percent'] = round(filt['wat_bas_n'] / filt['pop']*100,2)
     fig = go.Figure(data=go.Choropleth(
         locations = filt['iso3'],
-        z = filt['percent'],
+        z = filt['wat_bas_n'],
         text = filt['country'],
         colorscale = 'Blues',
         autocolorscale=False,
