@@ -32,7 +32,7 @@ issue = {
 
 # dictionary of column names by service
 services = {
-    'baseline': ['bas', 'lim', 'umimp', 'sur', 'nfac', 'od'],
+    'baseline': ['bas', 'lim', 'unimp', 'sur', 'nfac', 'od'],
     'available': ['sm', 'premises', 'available', 'quality', 'sdo_sm', 'fst_sm', 'sew_sm'],
     'infrastructure': ['pip', 'npip', 'lat', 'sep', 'sew'],
 }
@@ -41,7 +41,7 @@ services = {
 service_map = {
     'bas': 'Basic',
     'lim': 'Limited',
-    'umimp': 'Unimproved',
+    'unimp': 'Unimproved',
     'sur': 'Surface water',
     'nfac': 'No facility',
     'od': 'Open defecation',
@@ -51,12 +51,12 @@ service_map = {
     'quality': 'Free from contamination',
     'sdo_sm': 'Disposed of',
     'fst_sm': 'Emptied and treated',
+    'sew': 'Sewerage system',
     'sew_sm': 'Waste water treated',
     'pip': 'Piped',
     'npip': 'Non-piped',
     'lat': 'Latrine',
     'sep': 'Septic tank',
-    'sew': 'Sewerage system',
 }
 
 # create dropdown options for filters
@@ -292,6 +292,7 @@ def update_line_chart(click_data, iss, ser_lev, res_type):
             margin=dict(l=30, r=30, t=60, b=0),
             xaxis_title="Year",
         )
+        line_fig.for_each_trace(lambda trace: trace.update(visible='legendonly') if trace.name != filtered_df.columns[3] else ())
         
         # gdp specific formatting
         if iss != 'gdp':
